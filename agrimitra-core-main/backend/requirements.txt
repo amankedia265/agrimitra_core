@@ -1,0 +1,13 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+
+# Add the package for the Google ADK SDK
+# You must confirm the correct package name. It may be 'google-adk'
+# or part of another library like 'google-cloud-aiplatform'.
+google-adk
+twilio
+python-multipart
+google-cloud-texttospeech
+pydantic
+gunicorn
