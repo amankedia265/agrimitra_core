@@ -1,0 +1,805 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,23/02/2025,3000,7200,6100,219
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,16/02/2025,3200,7900,6100,218
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,03/01/2025,42000,42000,42000,212
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,24/01/2025,35000,85000,75000,212
+Karnataka,Belgaum,Nippani,Cow,Cow,"Ref grade-1",31/01/2025,40000,90000,80000,212
+Karnataka,Belgaum,Ramdurga,Cow,Cow,FAQ,12/01/2025,65000,65000,65000,212
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,19/01/2025,34000,34000,34000,213
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,12/01/2025,3000,8000,7500,218
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo","Ref grade-1",31/01/2025,20000,95000,70000,217
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,19/01/2025,40000,60000,55000,217
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,21/02/2025,6150,7000,6500,15
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,15/02/2025,5300,5850,5750,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,24/02/2025,5420,5625,5600,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,26/02/2025,5200,5590,5500,6
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,08/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,19/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,27/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Yellow,"Ref grade-1",06/02/2025,3550,3800,3600,74
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,FAQ,28/02/2025,2000,2347,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,20/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,13/02/2025,2100,2390,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,19/02/2025,2000,2200,2150,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,26/02/2025,2000,2100,2050,4
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,13/02/2025,3720,4170,4000,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,19/02/2025,3840,4170,4120,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,24/02/2025,3700,4200,4050,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,11/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,19/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,08/02/2025,1000,3400,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,22/02/2025,1000,3000,2700,23
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,20/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",01/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,10/02/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Wheat,H.D.,FAQ,29/01/2025,3000,3260,3200,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,24/01/2025,3200,3575,3500,1
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,20/01/2025,5000,5685,5500,3
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,21/02/2025,35000,92000,80000,212
+Karnataka,Belgaum,Ramdurga,Ox,Ox,"Ref grade-1",02/02/2025,30000,45000,40000,213
+Karnataka,Belgaum,Kudchi,"She Buffalo","She Baffelo",FAQ,20/02/2025,69000,75000,70000,217
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,07/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,11/02/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,15/02/2025,1500,2100,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,27/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,"Ref grade-1",04/02/2025,1500,2200,2000,24
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,4769,5869,5697,49
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/03/2025,2379,2379,2379,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,29/03/2025,2270,2270,2270,28
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,13/03/2025,5359,5509,5443,6
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,01/03/2025,3000,5000,4500,5
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,26/03/2025,5079,5079,5079,10
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,01/03/2025,3800,4500,4100,74
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,27/03/2025,3500,3868,3750,74
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,30/03/2025,30000,37000,35000,213
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,27/03/2025,0,0,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,01/03/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,12/03/2025,0,0,2318,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,14/03/2025,0,0,2394,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,26/03/2025,0,0,2300,4
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,01/03/2025,5320,5765,5700,6
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,10/03/2025,3550,3700,3600,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,24/03/2025,3000,3162,3100,1
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,01/03/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,01/03/2025,1000,3000,2500,23
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/03/2025,6509,6509,6509,92
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Yellow,FAQ,18/01/2025,3600,3800,3700,74
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,22/01/2025,3600,3873,3750,74
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,11/01/2025,5980,6500,6400,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,20/01/2025,5400,5950,5778,6
+Karnataka,Belgaum,Sankeshwar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,03/01/2025,5800,6000,5900,6
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,18/01/2025,4000,4100,4050,13
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,02/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,06/01/2025,1000,4000,3200,23
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,03/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,16/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,"Ref grade-1",30/01/2025,3750,4150,4056,13
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,29/01/2025,5409,5619,5524,6
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,03/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,17/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,26/01/2025,2200,2200,2200,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,01/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,02/01/2025,2000,2255,2200,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,04/01/2025,2100,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,07/01/2025,2100,2300,2184,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,10/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,16/01/2025,2000,2250,2150,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,27/01/2025,2100,2300,2200,4
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,01/01/2025,8500,10900,10300,15
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,23/01/2025,6220,6780,6593,15
+Karnataka,Belgaum,Bailahongal,Cotton,"Varalakshmi  (Ginned)",FAQ,04/01/2025,8500,10300,10000,15
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,02/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,22/01/2025,1000,1800,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato","Ref grade-1",29/01/2025,1000,1700,1500,152
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,03/04/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,24/04/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,19/04/2025,2259,2279,2271,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,26/04/2025,1969,2269,2255,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,07/04/2025,0,0,2292,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,29/04/2025,0,0,2350,4
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,29/04/2025,5000,5173,5100,3
+Karnataka,Belgaum,Kudchi,Sunflower,Sunflower,FAQ,17/04/2025,0,0,5000,14
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,24/04/2025,5001,6611,5677,10
+Karnataka,Belgaum,Ramdurga,Wheat,Local,FAQ,10/04/2025,2789,2789,2789,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,24/04/2025,3000,3150,3100,1
+Karnataka,Belgaum,Nippani,"Tender Coconut","Tender Coconut",Small,17/04/2025,25000,25000,25000,200
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,13/04/2025,27000,35000,30000,213
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,09/04/2025,2379,2379,2379,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,12/04/2025,2239,2269,2264,28
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,11/04/2025,3500,3753,3600,74
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,24/04/2025,5420,6096,5890,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,17/04/2025,5480,6000,5940,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,23/04/2025,5240,5800,5650,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,04/04/2025,5907,5907,5907,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,11/04/2025,5789,5789,5789,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,26/04/2025,5769,5769,5769,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,19/05/2025,5420,6000,5920,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,30/05/2025,5240,6000,5870,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,08/05/2025,5609,5609,5609,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,19/05/2025,5469,5469,5469,6
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,06/05/2025,0,0,2200,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,28/05/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,29/05/2025,2170,2179,2174,4
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,17/05/2025,0,0,4200,13
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,27/05/2025,3900,4450,4350,3
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,09/05/2025,2900,3039,3000,1
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,08/05/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,21/05/2025,2169,2169,2169,4
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,18/05/2025,20000,35000,25000,217
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,18/05/2025,30000,35000,32000,213
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,18/05/2025,45000,45000,45000,214
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,25/05/2025,3200,8500,7800,219
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,16/06/2025,3900,4100,4000,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,21/06/2025,3200,3500,3300,74
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,Local,23/07/2025,3800,4100,4050,74
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,18/06/2025,5239,5239,5239,14
+Karnataka,Belgaum,Sankeshwar,Jowar(Sorghum),"Jowar ( White)",FAQ,30/06/2025,0,0,3400,5
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,21/06/2025,5759,5759,5759,6
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,16/06/2025,3009,6089,5090,10
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,01/07/2025,2400,2510,2450,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,10/06/2025,2400,2600,2550,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,30/06/2025,4800,5417,5350,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,Local,01/07/2025,2400,2510,2450,3
+Karnataka,Belgaum,Ramdurga,Wheat,Local,Local,02/07/2025,2949,2949,2949,1
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,23/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,27/06/2025,0,0,2400,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,09/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,16/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,21/07/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,Local,02/07/2025,2250,2250,2250,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,"Ref grade-1",06/07/2025,2200,2200,2200,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,18/06/2025,0,0,2350,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,14/07/2025,0,0,2400,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,21/07/2025,0,0,2400,4
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/06/2025,5820,6200,6140,6
+Karnataka,Belgaum,Ramdurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,02/06/2025,3609,3609,3609,114
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,22/06/2025,3400,8500,6900,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,Local,13/07/2025,3400,8500,6200,219
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",Local,20/07/2025,35000,50000,45000,217
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,01/06/2025,3400,8500,7500,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",Local,20/07/2025,3200,7100,6000,218
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,15/06/2025,22000,22000,22000,214
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,29/06/2025,16000,30000,25000,214
+Karnataka,Belgaum,Ramdurga,Bull,Bull,"Ref grade-1",02/02/2025,25000,35000,30000,214
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,28/02/2025,25000,82000,45000,217
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,21/02/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,27/02/2025,1000,2500,2000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,"Ref grade-1",04/02/2025,1000,3400,3000,23
+Karnataka,Belgaum,Belgaum,Potato,Local,"Ref grade-1",05/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,07/01/2025,6350,7380,7250,15
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,16/01/2025,6500,7100,6950,15
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,07/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,01/01/2025,3850,4250,4045,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,06/01/2025,3800,4210,4037,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,11/01/2025,3860,4270,4069,13
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,24/01/2025,6420,6780,6590,15
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",29/01/2025,5420,5740,5680,6
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,03/01/2025,3800,4230,4109,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,07/01/2025,3870,4230,4109,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,09/01/2025,3800,4230,3980,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,20/01/2025,3800,4260,4103,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,"Ref grade-1",29/01/2025,3800,4150,4001,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,09/01/2025,4000,4100,4050,13
+Karnataka,Belgaum,Athani,Maize,Hybrid/Local,FAQ,23/01/2025,2000,2300,2200,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,02/01/2025,2290,2450,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,06/01/2025,2100,2500,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,13/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,27/01/2025,2210,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,06/01/2025,2000,2220,2150,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,13/01/2025,2000,2252,2100,4
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,07/01/2025,1200,1800,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,08/01/2025,1200,1800,1600,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,11/01/2025,1400,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,16/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,18/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato","Ref grade-1",31/01/2025,1000,1700,1500,152
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,10/01/2025,3840,4250,4083,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,13/01/2025,3860,4290,4041,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,06/01/2025,4000,4200,4100,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,"Ref grade-1",30/01/2025,3900,4100,4050,13
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,08/01/2025,3000,3415,3350,3
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,04/01/2025,3000,5200,4500,5
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,15/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,10/01/2025,1000,3300,2800,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,"Ref grade-1",29/01/2025,1000,3000,2700,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,"Ref grade-1",31/01/2025,1000,3000,2700,23
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,12/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,15/02/2025,1500,2500,2000,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,20/02/2025,1500,2000,1800,152
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,14/02/2025,3780,4160,4055,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,17/02/2025,3780,4150,4016,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,18/02/2025,3560,4170,3959,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,25/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,28/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,17/02/2025,2200,2450,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,27/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,14/02/2025,2100,2275,2200,4
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,27/02/2025,4900,5179,5100,3
+Karnataka,Belgaum,Bailahongal,Jowar(Sorghum),Local,FAQ,20/02/2025,2000,2300,2200,5
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,07/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,19/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Kudchi,Goat,Goat,FAQ,20/02/2025,6000,7000,6365,219
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,09/02/2025,3000,8500,7000,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,23/02/2025,3600,8300,7000,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium","Ref grade-1",02/02/2025,3000,8200,7100,218
+Karnataka,Belgaum,Bailahongal,"Green Gram (Moong)(Whole)",Hybrid,FAQ,28/02/2025,8000,8400,8300,9
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,18/02/2025,6650,7400,7000,15
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,19/02/2025,5230,5700,5650,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/02/2025,5240,5786,5500,6
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,12/01/2025,31000,35000,34000,214
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,03/01/2025,40000,65000,41500,217
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,10/01/2025,28000,75000,65000,217
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,17/01/2025,25000,80000,75000,217
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,12/01/2025,40000,45000,43000,217
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,26/01/2025,2900,7800,6100,219
+Karnataka,Belgaum,Kudchi,Sheep,"Sheep Large",FAQ,13/01/2025,7900,9000,8000,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,19/01/2025,3500,8000,7050,218
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,03/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,07/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,15/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,27/01/2025,3670,4000,3740,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Yellow,FAQ,01/01/2025,3990,4200,4023,74
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,10/01/2025,35000,70000,58000,212
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,17/01/2025,30000,70000,60000,212
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,02/03/2025,31000,36000,35000,213
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,23/03/2025,34000,55000,46000,213
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,13/04/2025,3100,8200,7050,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,20/04/2025,3100,8600,6800,218
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,13/04/2025,3500,8000,6500,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,27/04/2025,3900,8100,6800,219
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,04/04/2025,5230,5800,5700,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,05/04/2025,5340,6074,5850,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,05/04/2025,5907,5907,5907,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,16/04/2025,5729,5729,5729,6
+Karnataka,Belgaum,Kudchi,Turmeric,Turmeric,FAQ,25/04/2025,9900,10500,10000,39
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,23/04/2025,2273,2273,2273,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,16/04/2025,0,0,2330,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,17/04/2025,0,0,2340,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,21/04/2025,0,0,2363,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,25/04/2025,0,0,2426,4
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/04/2025,3789,3789,3789,49
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,09/04/2025,3900,4100,4000,1
+Karnataka,Belgaum,Ramdurga,Wheat,Local,FAQ,09/04/2025,2769,2769,2769,1
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,05/04/2025,5000,5500,5450,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,25/04/2025,5000,5350,5200,3
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,17/04/2025,1009,6689,5849,10
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,23/04/2025,5359,5359,5359,14
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,27/04/2025,35000,45000,42000,213
+Karnataka,Belgaum,Sankeshwar,Cotton,Other,FAQ,11/04/2025,0,0,7700,15
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,11/04/2025,0,0,4100,13
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,10/04/2025,2301,2301,2301,28
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/04/2025,6939,6939,6939,92
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,19/04/2025,7009,7019,7016,92
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/04/2025,4689,4689,4689,92
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,01/03/2025,4000,4200,4100,13
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,18/03/2025,0,0,2280,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,29/03/2025,0,0,2330,4
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,31/03/2025,5400,6150,5780,6
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,24/03/2025,3900,4100,4000,1
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,28/03/2025,5300,5751,5700,6
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,01/03/2025,5200,5480,5350,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,14/03/2025,5300,5545,5400,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,"Ref grade-2",03/03/2025,5000,5480,5350,3
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,30/05/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,08/05/2025,2274,2274,2274,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,10/05/2025,2239,2259,2241,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,17/05/2025,2141,2189,2159,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,06/05/2025,0,0,2412,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,17/05/2025,0,0,2420,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,20/05/2025,0,0,2370,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,21/05/2025,0,0,2395,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,22/05/2025,0,0,2370,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,26/05/2025,0,0,2395,4
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,19/05/2025,2301,2301,2301,28
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,05/05/2025,2001,6211,4793,10
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,25/05/2025,25000,35000,30000,214
+Karnataka,Belgaum,Kudchi,Goat,Goat,FAQ,06/05/2025,19000,23000,20000,219
+Karnataka,Belgaum,Ramdurga,Wheat,Local,FAQ,28/05/2025,2781,2781,2781,1
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,07/05/2025,5420,6100,6030,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,10/05/2025,5420,5850,5730,6
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,25/05/2025,3200,3200,3200,5
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,05/06/2025,5240,6000,5840,6
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,Local,03/07/2025,3219,6129,5422,10
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,01/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,02/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,25/06/2025,0,0,2400,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,19/07/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,26/06/2025,2100,2100,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,02/06/2025,0,0,2370,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,10/06/2025,0,0,2480,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,20/06/2025,0,0,2353,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,21/06/2025,0,0,2335,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,27/06/2025,0,0,2420,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,04/07/2025,0,0,2370,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,05/07/2025,0,0,2365,4
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,Local,20/07/2025,2800,3000,2900,5
+Karnataka,Belgaum,Sankeshwar,Rice,Other,Local,21/07/2025,5000,5250,5100,3
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,06/06/2025,5361,5361,5361,14
+Karnataka,Belgaum,Bailahongal,Wheat,Local,FAQ,16/06/2025,2000,2600,2500,1
+Karnataka,Belgaum,Ramdurga,Wheat,Local,Local,20/07/2025,3500,3500,3500,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,11/06/2025,2700,2981,2800,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,30/06/2025,2800,3041,2900,1
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,15/06/2025,3000,3000,3000,5
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,Local,13/07/2025,0,0,2800,5
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,22/07/2025,0,0,2380,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,23/07/2025,0,0,2395,4
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,18/07/2025,1000,2300,2000,23
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,11/06/2025,3769,4319,4214,92
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,05/07/2025,3209,3209,3209,92
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Achhu,FAQ,05/06/2025,3900,4100,4000,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,23/06/2025,3900,4100,4000,74
+Karnataka,Belgaum,Ramdurga,"She Goat","She Goat",Local,06/07/2025,3100,7200,6600,283
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,01/06/2025,3100,8200,7300,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,15/06/2025,2900,8300,6500,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,Local,06/07/2025,3000,7000,6200,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,Local,20/07/2025,2900,6950,5200,219
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",Local,06/07/2025,50000,50000,50000,217
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",Local,13/07/2025,28000,60000,40000,217
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,01/06/2025,25000,35000,30000,213
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,15/06/2025,25000,40000,30000,213
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,29/06/2025,30000,45000,40000,213
+Karnataka,Belgaum,Ramdurga,Ox,Ox,Local,06/07/2025,35000,35000,35000,213
+Karnataka,Belgaum,Ramdurga,Bull,Bull,Local,20/07/2025,45000,45000,45000,214
+Karnataka,Belgaum,Athani,"She Goat","She Goat",FAQ,12/01/2025,5000,8000,6000,283
+Karnataka,Belgaum,Nippani,Sheep,"Sheep Medium",FAQ,24/01/2025,7000,11000,9000,218
+Karnataka,Belgaum,Athani,Cow,Cow,FAQ,12/01/2025,75000,85000,80000,212
+Karnataka,Belgaum,Kudchi,Cow,Cow,FAQ,20/01/2025,20000,25000,21000,212
+Karnataka,Belgaum,Nippani,Rice,Other,FAQ,07/01/2025,2919,2919,2919,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,01/01/2025,5500,5715,5600,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,07/01/2025,3000,3100,3050,3
+Karnataka,Belgaum,Athani,Maize,Hybrid/Local,FAQ,22/01/2025,2000,2300,2200,4
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,FAQ,03/01/2025,2000,2240,2190,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,10/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,23/01/2025,2250,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,08/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,20/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,02/01/2025,3840,4250,4061,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,03/01/2025,4100,4214,4150,13
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,15/01/2025,3000,5200,4500,5
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,26/01/2025,2800,2800,2800,5
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,18/01/2025,3820,4240,4096,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,27/01/2025,4000,4100,4050,13
+Karnataka,Belgaum,Bailahongal,Cotton,"Varalakshmi  (Ginned)",FAQ,06/01/2025,8900,10300,10000,15
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,10/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Achhu,FAQ,08/01/2025,3600,3800,3750,74
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,04/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,06/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,03/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,08/01/2025,1000,3300,2800,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,11/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,15/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,25/03/2025,0,0,2299,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,27/03/2025,0,0,2398,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,"Ref grade-2",05/03/2025,2100,2365,2250,4
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,28/03/2025,5569,5619,5605,6
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,26/03/2025,2409,2409,2409,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,27/03/2025,2269,2269,2269,28
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/03/2025,5200,5400,5300,6
+Karnataka,Belgaum,Kudchi,Sunflower,Sunflower,FAQ,27/03/2025,0,0,5000,14
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,13/03/2025,0,0,6437,10
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,20/03/2025,5800,6205,6100,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,"Ref grade-2",04/03/2025,5200,5618,5400,3
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,01/03/2025,3720,4120,4000,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,"Ref grade-2",04/03/2025,4100,4200,4150,13
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/03/2025,5319,5569,5403,49
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/03/2025,6419,6419,6419,92
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/03/2025,6500,6500,6500,92
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,23/03/2025,25000,34000,30000,214
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,02/03/2025,3500,8000,7100,218
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,30/03/2025,3000,8500,7300,219
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,13/04/2025,26000,36000,31000,217
+Karnataka,Belgaum,Ramdurga,Wheat,Local,FAQ,03/04/2025,2929,2929,2929,1
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,20/04/2025,35000,50000,42000,213
+Karnataka,Belgaum,Kudchi,Sunflower,Sunflower,FAQ,15/04/2025,0,0,5600,14
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,05/04/2025,2249,2289,2279,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,19/04/2025,2189,2189,2189,28
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,16/04/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,19/04/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,22/04/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,02/04/2025,2301,2305,2302,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,05/04/2025,2269,2311,2292,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,10/04/2025,1939,2289,2247,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,16/04/2025,2245,2300,2261,4
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,16/04/2025,5000,5515,5400,3
+Karnataka,Belgaum,Sankeshwar,Jowar(Sorghum),"Jowar ( White)",FAQ,11/04/2025,0,0,2398,5
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,14/04/2025,5400,5914,5750,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,09/04/2025,5689,5939,5892,6
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,22/05/2025,2009,5569,4735,10
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,21/05/2025,0,0,4100,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,23/05/2025,0,0,4100,13
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,06/05/2025,5450,6250,6200,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,26/05/2025,5400,6000,5850,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,31/05/2025,5420,6000,5960,6
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,15/05/2025,0,0,2400,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,03/05/2025,2249,2271,2269,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,05/05/2025,0,0,2395,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,23/05/2025,0,0,2360,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,26/05/2025,0,0,2400,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,14/05/2025,0,0,2415,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,15/05/2025,0,0,2425,4
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,19/05/2025,1009,5699,4629,10
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,22/05/2025,2569,2569,2569,92
+Karnataka,Belgaum,Ramdurga,Cow,Cow,FAQ,18/05/2025,50000,50000,50000,212
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,19/02/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato","Ref grade-1",04/02/2025,1000,1700,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato","Ref grade-1",05/02/2025,1000,1800,1500,152
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,13/02/2025,5430,5980,5860,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,14/02/2025,5570,5800,5740,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",01/02/2025,5000,5480,5210,6
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,09/02/2025,30000,60000,50000,213
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,07/02/2025,25000,75000,70000,212
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,16/02/2025,2900,7500,6050,219
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,26/02/2025,5200,5488,5400,3
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,12/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,22/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",05/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,22/02/2025,3750,4220,4172,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,"Ref grade-1",03/02/2025,3740,4170,4032,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,21/02/2025,4000,4200,4100,13
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,23/02/2025,25000,25000,25000,217
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,20/02/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,28/02/2025,1000,2500,2000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,"Ref grade-1",01/02/2025,1000,3400,3000,23
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,12/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,14/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,20/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,22/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,FAQ,12/02/2025,2000,2300,2230,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,19/02/2025,2200,2500,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,18/02/2025,1900,2100,2000,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,21/02/2025,2100,2300,2200,4
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,18/05/2025,2900,8100,6000,219
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,04/05/2025,35000,60000,50000,217
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,04/05/2025,3100,8500,7050,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,25/05/2025,3000,8000,7200,218
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,02/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,05/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,16/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,24/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,08/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,11/07/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,18/06/2025,2187,2187,2187,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,28/06/2025,1959,1959,1959,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,03/06/2025,0,0,2369,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,23/06/2025,0,0,2350,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,24/06/2025,0,0,2362,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,01/07/2025,0,0,2488,4
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,20/06/2025,2189,2261,2209,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,29/06/2025,2500,2500,2500,28
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,20/06/2025,5320,6000,5850,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/06/2025,5200,5550,5480,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,23/06/2025,5100,5500,5400,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,18/06/2025,5717,5717,5717,6
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,09/06/2025,2400,2600,2550,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,16/06/2025,5100,5285,5200,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,Local,14/07/2025,2400,2540,2500,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,Local,15/07/2025,2300,2550,2500,3
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,02/06/2025,3269,3269,3269,92
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,05/06/2025,2769,5540,4784,10
+Karnataka,Belgaum,Ramdurga,Wheat,Local,FAQ,15/06/2025,3000,3000,3000,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,Local,21/07/2025,2900,3028,2950,1
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Achhu,FAQ,09/06/2025,3900,4200,4100,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,Local,17/07/2025,3900,4300,4000,74
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,29/06/2025,3000,8900,7500,219
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,22/06/2025,3500,8600,7400,218
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,19/01/2025,3000,7100,6500,219
+Karnataka,Belgaum,Nippani,Sheep,"Sheep Medium",FAQ,03/01/2025,6000,8000,7200,218
+Karnataka,Belgaum,Athani,"He Buffalo","He Baffelo",FAQ,12/01/2025,5000,12000,6000,216
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,07/02/2025,1000,3200,2800,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,11/02/2025,1000,3400,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,12/02/2025,1000,3400,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,19/02/2025,1000,3500,3000,23
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",30/01/2025,5240,5700,5601,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",31/01/2025,5240,5700,5620,6
+Karnataka,Belgaum,Nippani,Ginger(Green),"Green Ginger",FAQ,30/01/2025,1700,1700,1700,103
+Karnataka,Belgaum,Bailahongal,"Green Gram (Moong)(Whole)",Hybrid,FAQ,10/01/2025,6000,6400,6288,9
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,01/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,10/01/2025,2000,2500,2200,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,11/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,22/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,"Ref grade-1",29/01/2025,1500,2300,2000,24
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,07/01/2025,5500,6300,6000,6
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,20/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,22/01/2025,2210,2500,2300,4
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,07/01/2025,4000,4200,4100,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,15/01/2025,4000,4139,4050,13
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,29/01/2025,5000,5279,5250,3
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,12/02/2025,5420,6000,5890,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/02/2025,5200,5700,5405,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,20/02/2025,5240,5600,5434,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,27/02/2025,5200,5620,5550,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,24/02/2025,5689,5701,5690,6
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,19/02/2025,5800,7000,6500,15
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)",FAQ,14/02/2025,3000,5200,4500,5
+Karnataka,Belgaum,Nippani,Rice,Medium,FAQ,07/02/2025,3500,3500,3500,3
+Karnataka,Belgaum,Nippani,Rice,Other,FAQ,28/02/2025,2800,2800,2800,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,17/02/2025,5500,5620,5600,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,24/02/2025,5500,5618,5550,3
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,12/01/2025,30000,40000,35000,213
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,26/01/2025,30000,40000,35000,213
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,01/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,07/01/2025,1000,4000,3200,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,16/01/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,21/01/2025,1500,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,22/01/2025,1500,3500,3000,23
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,13/01/2025,3900,4100,4050,13
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,"Ref grade-1",29/01/2025,6340,6680,6523,15
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,"Ref grade-1",31/01/2025,6150,6770,6650,15
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,01/01/2025,3800,4000,3900,13
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,02/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,06/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,08/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,"Ref grade-1",31/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,04/01/2025,1200,1800,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,06/01/2025,1200,1800,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,15/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,21/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,11/02/2025,1200,1800,1500,152
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,FAQ,20/02/2025,2100,2350,2300,4
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,FAQ,26/02/2025,2000,2350,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,24/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,11/02/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,17/02/2025,1950,2100,2050,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,24/02/2025,2000,2100,2050,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,27/02/2025,2100,2300,2200,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,28/02/2025,2100,2300,2200,4
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,"Ref grade-1",03/02/2025,2359,2359,2359,28
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,12/02/2025,3720,4170,3980,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,20/02/2025,3750,4190,4029,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,21/02/2025,3720,4190,3989,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,27/02/2025,3700,4160,3964,13
+Karnataka,Belgaum,Nippani,Soyabean,Other,FAQ,28/02/2025,4000,4000,4000,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,26/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,16/02/2025,30000,40000,35000,213
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,23/02/2025,20000,30000,25000,214
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,15/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,08/02/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,19/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/03/2025,5000,5400,5300,6
+Karnataka,Belgaum,Kudchi,Sunflower,Sunflower,FAQ,28/03/2025,0,0,5000,14
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/03/2025,6699,6699,6699,92
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,26/03/2025,3900,4100,4000,1
+Karnataka,Belgaum,Sankeshwar,Wheat,H.D.,"Ref grade-2",04/03/2025,3100,3468,3350,1
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,20/03/2025,2311,7169,5815,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,28/03/2025,6319,6319,6319,10
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,26/03/2025,5200,5550,5400,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,28/03/2025,5200,5495,5400,3
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,03/03/2025,2200,2500,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,28/03/2025,2319,2319,2319,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,24/03/2025,0,0,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,"Ref grade-2",03/03/2025,2100,2300,2200,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,"Ref grade-2",04/03/2025,2100,2200,2150,4
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,21/03/2025,5451,5511,5479,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,22/03/2025,5429,5519,5507,6
+Karnataka,Belgaum,Ramdurga,"She Goat","She Goat",FAQ,30/03/2025,4000,9000,8000,283
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,01/03/2025,1000,1500,1200,152
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,30/03/2025,25000,45000,40000,214
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,02/03/2025,3100,7200,6390,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,23/03/2025,3000,8000,6900,219
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,16/04/2025,6939,6939,6939,92
+Karnataka,Belgaum,Ramdurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/04/2025,3569,3569,3569,114
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,07/05/2025,2249,2273,2267,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,28/05/2025,0,0,2180,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,12/05/2025,0,0,2350,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,13/05/2025,0,0,2410,4
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,02/05/2025,2509,6360,4934,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,08/05/2025,2009,5899,4670,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,29/05/2025,3009,5530,4936,10
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,09/05/2025,4200,4964,4500,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,12/05/2025,4900,5189,5100,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,26/05/2025,3850,4400,4350,3
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,02/05/2025,5450,6000,5740,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,22/05/2025,5569,5569,5569,6
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,10/05/2025,2239,2239,2239,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,29/05/2025,2269,2269,2269,28
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,25/05/2025,45000,45000,45000,213
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,11/04/2025,5600,6000,5922,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,16/04/2025,5540,6030,5900,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/04/2025,5450,6300,6200,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,22/04/2025,5420,6000,5870,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,28/04/2025,5430,6077,5900,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,29/04/2025,5320,5800,5700,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,12/04/2025,5809,5809,5809,6
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,20/04/2025,30000,46000,34000,214
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,04/04/2025,2271,2385,2301,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,09/04/2025,2309,2309,2309,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,12/04/2025,2269,2279,2275,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,04/04/2025,0,0,2340,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,23/04/2025,0,0,2380,4
+Karnataka,Belgaum,Kudchi,Turmeric,"Turmeric Stick",FAQ,11/04/2025,10500,11500,11000,39
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,27/04/2025,3800,7900,6500,218
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/04/2025,4389,4389,4389,49
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/04/2025,4209,4209,4209,49
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,11/04/2025,0,0,6450,15
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,26/04/2025,5071,5071,5071,14
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,03/04/2025,1009,6769,6046,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,05/04/2025,2009,6909,5832,10
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,04/04/2025,3200,3800,3600,1
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/05/2025,5529,5611,5570,92
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,04/05/2025,2900,8000,6500,219
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,19/06/2025,3469,6009,5342,10
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,06/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,12/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,18/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,01/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,02/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,18/07/2025,0,0,2300,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,14/06/2025,2159,2159,2159,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,25/06/2025,0,0,2368,4
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,22/06/2025,3200,3200,3200,5
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,16/06/2025,5169,5169,5169,14
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,Local,06/07/2025,2800,2800,2800,5
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,30/06/2025,3509,6299,5175,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,Local,07/07/2025,5457,5457,5457,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,Local,21/07/2025,3255,5889,5084,10
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,16/06/2025,5600,6050,5860,6
+Karnataka,Belgaum,Nippani,"Tender Coconut","Tender Coconut",Small,13/06/2025,24000,25000,25000,200
+Karnataka,Belgaum,Ramdurga,Ox,Ox,Local,13/07/2025,37000,37000,37000,213
+Karnataka,Belgaum,Ramdurga,Bull,Bull,Local,06/07/2025,25000,25000,25000,214
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,17/06/2025,3900,4200,4000,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,24/06/2025,3900,4100,4000,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,Local,10/07/2025,3900,4100,4000,74
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,Local,14/07/2025,3900,4100,4000,74
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,29/06/2025,60000,60000,60000,217
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,15/06/2025,3200,8600,7100,218
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,29/06/2025,3300,9100,8000,218
+Karnataka,Belgaum,Ramdurga,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,14/06/2025,3011,5569,3900,92
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,16/01/2025,3100,3400,3300,1
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,06/01/2025,6800,8730,8300,15
+Karnataka,Belgaum,Bailahongal,Cotton,LD-327,FAQ,11/01/2025,7000,7580,7380,15
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,24/01/2025,3800,4220,4105,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,04/01/2025,3900,4024,4000,13
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,08/01/2025,2000,2500,2200,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,21/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,02/01/2025,1000,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,18/01/2025,1500,2500,2000,24
+Karnataka,Belgaum,Belgaum,Potato,Local,"Ref grade-1",31/01/2025,1500,2300,2000,24
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,04/01/2025,1000,4000,3200,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,18/01/2025,1500,3500,3000,23
+Karnataka,Belgaum,Belgaum,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",29/01/2025,3000,5200,4500,5
+Karnataka,Belgaum,Bailahongal,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,24/01/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,29/01/2025,2200,2500,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,09/01/2025,2000,2200,2100,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,17/01/2025,2000,2256,2150,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,23/01/2025,2000,2300,2200,4
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,16/01/2025,3800,4290,4120,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,21/01/2025,3840,4260,4149,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,"Ref grade-1",31/01/2025,3780,4130,4034,13
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,04/01/2025,5300,5684,5618,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,10/01/2025,5400,5725,5600,3
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,04/01/2025,3750,4200,3932,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,17/01/2025,3800,4260,3983,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,23/01/2025,3840,4230,4059,13
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,12/01/2025,2900,7500,6900,219
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,26/01/2025,3000,8200,6800,218
+Karnataka,Belgaum,Athani,"She Buffalo","She Baffelo",FAQ,12/01/2025,40000,80000,50000,217
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,24/01/2025,28000,95000,80000,217
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,19/01/2025,20000,25000,23000,214
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,01/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,11/01/2025,3800,4500,4100,74
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,23/01/2025,3600,3800,3700,74
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,02/03/2025,25000,35000,30000,214
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/04/2025,5109,5109,5109,49
+Karnataka,Belgaum,Kudchi,Sunflower,Sunflower,FAQ,07/04/2025,0,0,5500,14
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,10/04/2025,2009,6889,5795,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,12/04/2025,2509,6611,5800,10
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,27/04/2025,20000,30000,25000,214
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,08/04/2025,0,0,4040,13
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,02/04/2025,2289,2289,2289,28
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,23/04/2025,2279,2279,2279,28
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,11/04/2025,2298,2298,2298,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,15/04/2025,0,0,2397,4
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,17/04/2025,5100,5233,5200,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,24/04/2025,5000,5291,5200,3
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,10/04/2025,5600,6070,6000,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/04/2025,4240,5880,5658,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,02/04/2025,5815,5825,5824,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,23/04/2025,5651,5743,5700,6
+Karnataka,Belgaum,Kudchi,Wheat,H.D.,FAQ,08/04/2025,3900,4200,4000,1
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,03/04/2025,3200,3700,3600,1
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,12/05/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,20/05/2025,0,0,2400,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,21/05/2025,0,0,2500,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,02/05/2025,2239,2239,2239,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,07/05/2025,0,0,2370,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,08/05/2025,0,0,2350,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,16/05/2025,0,0,2415,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,27/05/2025,0,0,2400,4
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,27/05/2025,3500,3800,3700,74
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,05/05/2025,5379,5419,5390,14
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,07/05/2025,5029,5029,5029,14
+Karnataka,Belgaum,Ramdurga,Sunflower,Sunflower,FAQ,17/05/2025,5239,5239,5239,14
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,28/05/2025,2171,2179,2179,28
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,06/05/2025,0,0,4200,13
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,03/05/2025,5500,6200,6080,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,12/05/2025,5420,6100,5600,6
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,27/05/2025,2800,3015,3000,1
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",FAQ,18/05/2025,3200,8900,6200,218
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,02/06/2025,2391,5707,4777,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,04/06/2025,5099,5420,5260,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,26/06/2025,3369,6239,5043,10
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,Local,17/07/2025,3021,5289,5069,10
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,01/06/2025,3200,3200,3200,5
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Local,FAQ,29/06/2025,2500,2500,2500,5
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/07/2025,5400,6000,5900,6
+Karnataka,Belgaum,Sankeshwar,"Bengal Gram(Gram)(Whole)",Jawari/Local,Local,22/07/2025,5500,5833,5800,6
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,11/06/2025,3200,3805,3600,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,12/06/2025,2400,2550,2500,3
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,18/06/2025,2259,2259,2259,28
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,10/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,11/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,19/06/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,03/07/2025,0,0,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,Local,15/07/2025,0,0,2400,4
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,11/06/2025,2159,2179,2174,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,01/07/2025,0,0,2488,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,09/06/2025,0,0,2470,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,17/06/2025,0,0,2352,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,Local,15/07/2025,0,0,2450,4
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,19/06/2025,5640,6000,5900,6
+Karnataka,Belgaum,Ramdurga,Jowar(Sorghum),Hybrid,"Ref grade-1",05/02/2025,2010,2410,2050,5
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,07/02/2025,15000,88000,73000,217
+Karnataka,Belgaum,Nippani,"She Buffalo","She Baffelo",FAQ,21/02/2025,28000,95000,90000,217
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,09/02/2025,25000,35000,30000,214
+Karnataka,Belgaum,Nippani,Goat,Goat,FAQ,07/02/2025,7000,9000,9000,219
+Karnataka,Belgaum,Ramdurga,Goat,Goat,FAQ,09/02/2025,2900,8100,6050,219
+Karnataka,Belgaum,Nippani,Sheep,"Sheep Medium",FAQ,07/02/2025,8000,12000,10000,218
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,15/02/2025,3780,4150,4079,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,26/02/2025,3700,4160,4000,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,FAQ,28/02/2025,3700,4140,4089,13
+Karnataka,Belgaum,Bailahongal,Soyabean,Soyabeen,"Ref grade-1",01/02/2025,3740,4150,4036,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,12/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Sankeshwar,Soyabean,Soyabeen,FAQ,27/02/2025,4000,4100,4050,13
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,14/02/2025,5300,5671,5600,3
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,21/02/2025,5200,5500,5400,3
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,11/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,FAQ,22/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Belgaum,Gur(Jaggery),Mudde,"Ref grade-1",01/02/2025,3800,4500,4100,74
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,27/02/2025,3500,3900,3600,1
+Karnataka,Belgaum,Nippani,Cow,Cow,FAQ,28/02/2025,20000,48000,40000,212
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,17/02/2025,5340,5850,5703,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,22/02/2025,5440,5834,5750,6
+Karnataka,Belgaum,Bailahongal,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,28/02/2025,5150,5500,5400,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,"Ref grade-1",05/02/2025,5507,5737,5674,6
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,FAQ,15/02/2025,1000,3500,3000,23
+Karnataka,Belgaum,Belgaum,Onion,Pusa-Red,"Ref grade-1",05/02/2025,1000,3200,2800,23
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,23/02/2025,35000,35000,35000,213
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,21/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,FAQ,28/02/2025,1500,2200,1800,24
+Karnataka,Belgaum,Belgaum,Potato,Local,"Ref grade-1",01/02/2025,1500,2200,2000,24
+Karnataka,Belgaum,Ramdurga,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,19/02/2025,2249,2249,2249,28
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,18/02/2025,2250,2500,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,25/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,28/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,"Ref grade-1",06/02/2025,2200,2400,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,15/02/2025,2100,2350,2300,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,20/02/2025,2000,2300,2200,4
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,01/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,03/01/2025,1500,2000,1800,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,10/01/2025,1200,1800,1600,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,08/02/2025,1200,1800,1500,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,12/02/2025,1500,2500,2000,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,14/02/2025,1500,2500,2000,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato",FAQ,22/02/2025,1500,2000,1700,152
+Karnataka,Belgaum,Belgaum,"Sweet Potato","Sweet Potato","Ref grade-1",01/02/2025,1000,1700,1500,152
+Karnataka,Belgaum,Ramdurga,Groundnut,Gejje,FAQ,27/03/2025,1569,6689,5722,10
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,20/03/2025,5329,5509,5504,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,26/03/2025,5419,5521,5509,6
+Karnataka,Belgaum,Ramdurga,"Bengal Gram(Gram)(Whole)",Other,FAQ,27/03/2025,5539,5539,5539,6
+Karnataka,Belgaum,Sankeshwar,Rice,Other,FAQ,29/03/2025,5000,5521,5450,3
+Karnataka,Belgaum,Ramdurga,Maize,Local,FAQ,26/03/2025,2265,2265,2265,4
+Karnataka,Belgaum,Sankeshwar,Maize,Hybrid/Local,FAQ,13/03/2025,0,0,2378,4
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/03/2025,4289,5509,5244,49
+Karnataka,Belgaum,Ramdurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/03/2025,2789,5009,4269,49
+Karnataka,Belgaum,Kudchi,Wheat,White,FAQ,17/03/2025,3560,3750,3600,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,01/03/2025,3100,3468,3300,1
+Karnataka,Belgaum,Sankeshwar,Wheat,Other,FAQ,20/03/2025,3100,3485,3350,1
+Karnataka,Belgaum,Kudchi,Gur(Jaggery),Nizamabad,FAQ,21/03/2025,2980,3200,3000,74
+Karnataka,Belgaum,Ramdurga,Cow,Cow,Local,20/07/2025,50000,50000,50000,212
+Karnataka,Belgaum,Ramdurga,Ox,Ox,FAQ,22/06/2025,35000,45000,40000,213
+Karnataka,Belgaum,Ramdurga,Bull,Bull,FAQ,01/06/2025,35000,35000,35000,214
+Karnataka,Belgaum,Sankeshwar,Gur(Jaggery),Nizamabad,FAQ,30/06/2025,3600,3825,3750,74
+Karnataka,Belgaum,Ramdurga,"She Buffalo","She Baffelo",FAQ,22/06/2025,18000,40000,20000,217
+Karnataka,Belgaum,Ramdurga,Sheep,"Sheep Medium",Local,13/07/2025,3500,9000,7900,218

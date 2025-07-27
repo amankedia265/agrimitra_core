@@ -1,0 +1,401 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,02/01/2025,2200,4275,4039,13
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,25/01/2025,3434,4116,3991,13
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",30/01/2025,1700,2800,2500,5
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,09/01/2025,9500,11000,9500,11
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,10/01/2025,8000,11300,8400,11
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,13/01/2025,8400,8400,8400,11
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,23/01/2025,7501,9001,7501,11
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,27/01/2025,5009,5919,5651,6
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,07/01/2025,3565,4261,3951,13
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,22/01/2025,3000,3300,3100,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,16/01/2025,5700,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,24/01/2025,5400,6450,5700,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,09/01/2025,1800,2910,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,11/01/2025,2100,2300,2200,5
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,09/01/2025,3000,3500,3000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,17/01/2025,3891,3891,3891,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,01/01/2025,2800,2800,2800,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,10/01/2025,2700,2700,2700,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,11/01/2025,2900,2900,2900,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,23/01/2025,2631,2631,2631,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,24/01/2025,2401,3200,2921,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,"Ref grade-1",30/01/2025,1500,2481,1500,1
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,24/01/2025,6690,7657,7445,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,08/01/2025,4401,4401,4401,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,09/01/2025,3800,5101,5000,8
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,12/02/2025,7100,7320,7260,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/02/2025,6451,7600,7300,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/02/2025,6700,7530,7250,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/02/2025,6500,7350,7100,49
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,20/02/2025,3000,3000,3000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,25/02/2025,3300,3550,3400,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,06/02/2025,2300,2300,2300,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,10/02/2025,2600,2700,2600,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,20/02/2025,2550,2800,2600,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,21/02/2025,2451,2750,2700,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,22/02/2025,2200,3052,2450,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,"Ref grade-1",01/02/2025,2941,2941,2941,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,20/02/2025,3200,3500,3300,1
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,14/02/2025,3535,4068,3967,13
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,17/02/2025,3077,4073,3996,13
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,13/02/2025,3232,4079,3979,13
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,24/02/2025,3000,3600,3100,4
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,14/02/2025,5800,6600,5900,3
+Karnataka,Bidar,Bidar,Rice,"IR 20 Medium Boiled",FAQ,15/02/2025,5700,6600,5900,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,07/02/2025,2200,2650,2400,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,22/02/2025,1700,2600,2200,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,24/02/2025,1850,2600,2251,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",03/02/2025,1500,2800,2500,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",04/02/2025,1600,2650,2320,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",01/02/2025,2800,3500,3100,5
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,13/02/2025,6855,7412,7308,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",01/02/2025,3750,7172,6183,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,10/02/2025,5100,5100,5100,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,11/02/2025,4300,4400,4300,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,14/02/2025,3800,4651,4300,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,17/02/2025,3535,6561,4709,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,25/02/2025,3500,4126,3772,8
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,28/02/2025,5200,5500,5300,59
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,24/02/2025,5000,6500,6000,3
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,11/02/2025,7800,7800,7800,11
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,13/02/2025,7500,7500,7500,11
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5900,6131,6000,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,5261,5500,5300,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,28/02/2025,5258,5925,5625,6
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/01/2025,6101,7800,7400,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,5555,8111,7229,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,4000,8244,7355,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/01/2025,6500,7400,7150,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/01/2025,7200,7800,7400,49
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,03/01/2025,6200,6200,6200,8
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5101,5101,5101,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,5700,5700,5700,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5521,5700,5521,6
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,23/01/2025,5251,5251,5251,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,22/03/2025,4651,5841,5550,59
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,17/02/2025,2333,7865,5758,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,13/02/2025,4491,4600,4491,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,25/02/2025,4000,4000,4000,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,15/02/2025,2891,6069,4672,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,20/02/2025,3265,6565,4560,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,28/02/2025,3500,4126,3772,8
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,07/02/2025,3350,3700,3500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,22/02/2025,2950,3260,2950,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,24/02/2025,3401,3401,3401,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,19/02/2025,2500,3061,2720,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,28/02/2025,2580,3200,2600,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,25/02/2025,3200,3500,3300,1
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/01/2025,6000,6000,6000,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/01/2025,4200,4200,4200,6
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,11/01/2025,3900,4000,3900,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,02/01/2025,3452,3452,3452,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,22/01/2025,3711,3711,3711,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,07/01/2025,3100,3400,3200,1
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,27/01/2025,3505,7626,5383,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",31/01/2025,3360,7191,5058,9
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/01/2025,6000,7766,7400,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,6500,7421,7150,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,25/01/2025,6000,7441,7151,49
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,27/01/2025,2700,3600,2900,5
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,23/01/2025,5351,5985,5904,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,25/01/2025,5426,6012,5709,6
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,24/01/2025,3388,4152,3985,13
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,23/01/2025,3232,7329,5609,8
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,07/01/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,25/01/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,07/01/2025,5700,6500,5800,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,01/01/2025,2500,2800,2600,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,06/01/2025,1950,2950,2600,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,08/01/2025,2200,2700,2500,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,10/01/2025,2200,2700,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,18/01/2025,1800,2751,2401,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,20/01/2025,1780,2881,2570,5
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,07/01/2025,8300,12300,9900,11
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5702,6000,5811,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,5422,5800,5600,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/02/2025,5200,5450,5300,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,17/02/2025,3751,5932,5820,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,20/02/2025,5251,6031,5729,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,24/02/2025,5211,5855,5548,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",01/02/2025,5489,6022,5820,6
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,11/02/2025,1800,2800,2650,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,13/02/2025,1900,2650,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,21/02/2025,2000,2400,2200,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",01/02/2025,2200,2300,2200,5
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,15/02/2025,3200,4300,3600,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,25/02/2025,5600,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,13/02/2025,5500,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,18/02/2025,5400,6600,5900,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled","Ref grade-1",01/02/2025,5450,6500,5900,3
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,22/02/2025,7350,7350,7350,11
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,23/01/2025,3468,4166,3975,13
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,"Ref grade-1",31/01/2025,3666,4032,3923,13
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,27/01/2025,3449,4069,3915,13
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,22/01/2025,3700,4160,3900,74
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,24/01/2025,2931,3271,2931,74
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,21/02/2025,3000,3200,3100,4
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,18/02/2025,3787,4077,4023,13
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,"Ref grade-1",01/02/2025,3309,4038,3919,13
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/02/2025,6400,7461,7150,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/02/2025,6400,7500,7150,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,6600,7551,7200,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,5001,7844,7178,49
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,10/02/2025,5600,5600,5600,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,"Ref grade-1",04/02/2025,5650,5650,5650,59
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,01/03/2025,3800,6651,3800,8
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,01/03/2025,1760,2350,2000,5
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,01/03/2025,2501,3200,2650,1
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled","Ref grade-2",05/03/2025,4200,6600,6000,3
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/03/2025,6000,7500,7200,49
+Karnataka,Bidar,"Basava Kalayana",Paddy(Dhan)(Common),Paddy,FAQ,08/01/2025,2001,2001,2001,2
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,13/01/2025,3500,3500,3500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,18/01/2025,4000,4000,4000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,20/01/2025,4300,4300,4300,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,23/01/2025,4000,4000,4000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,"Ref grade-1",31/01/2025,3000,3000,3000,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,22/01/2025,3200,3500,3300,1
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,25/01/2025,5300,5351,5300,59
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/01/2025,6000,7650,7200,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/01/2025,6500,7425,7200,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/01/2025,6401,7840,7400,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,6500,7540,7200,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/01/2025,6500,7400,7150,49
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/01/2025,6600,6600,6600,9
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",FAQ,09/01/2025,6401,6401,6401,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/01/2025,2444,8256,6660,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,16/01/2025,3025,7425,7289,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,22/01/2025,6459,7590,7262,9
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/01/2025,4700,6000,5700,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,24/01/2025,5015,5915,5710,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,"Ref grade-1",31/01/2025,5362,5978,5869,6
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,02/01/2025,2300,2701,2400,5
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,06/01/2025,9000,12300,9500,11
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,22/01/2025,4521,6139,6095,6
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,06/01/2025,3901,7000,4500,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,11/01/2025,4601,5851,4601,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,07/01/2025,4292,7785,5573,8
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,23/01/2025,3000,3300,3200,3
+Karnataka,Bidar,Bidar,Rice,"Broken Rice","Ref grade-1",31/01/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,02/01/2025,5700,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled","Ref grade-1",31/01/2025,5400,6400,5800,3
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,6400,8100,7500,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,6009,8044,7226,49
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,10/01/2025,3500,3500,3500,74
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,"Ref grade-1",30/01/2025,2600,2600,2600,74
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,06/02/2025,1900,2851,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,08/02/2025,1600,2300,2200,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,12/02/2025,2381,2751,2381,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,14/02/2025,2100,2500,2400,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,20/02/2025,1800,2600,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,25/02/2025,2400,2450,2400,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",05/02/2025,1700,2600,2500,5
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,20/02/2025,3535,4088,3996,13
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,25/02/2025,3355,4111,3996,13
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,13/02/2025,5850,5850,5850,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,25/02/2025,3600,5400,5160,59
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,17/02/2025,5500,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,20/02/2025,5600,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,21/02/2025,5600,6500,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,22/02/2025,5500,6600,5900,3
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,10/02/2025,3322,3400,3322,74
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,13/02/2025,3350,3350,3350,74
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,19/02/2025,3500,3500,3500,74
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,"Ref grade-1",04/02/2025,3561,3561,3561,74
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",05/02/2025,4800,5200,4800,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,28/02/2025,5005,7401,5889,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,21/02/2025,5420,6712,5851,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,15/02/2025,3600,4481,4000,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,20/02/2025,4100,4200,4100,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",05/02/2025,3601,5101,3801,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,13/02/2025,3131,6169,4655,8
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,"Ref grade-1",04/02/2025,3800,3911,3800,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,15/02/2025,2500,2600,2500,1
+Karnataka,Bidar,Bidar,Wheat,Red,"Ref grade-1",01/02/2025,2600,3600,3300,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,08/02/2025,2500,2500,2500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,"Ref grade-1",03/02/2025,2200,2500,2350,1
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,08/02/2025,5950,6176,6060,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/02/2025,6150,6200,6171,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/02/2025,6000,6200,6100,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,6100,6100,6100,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,5400,5771,5600,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,5051,5600,5450,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,5850,5850,5850,6
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/02/2025,6900,7600,7400,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,6500,7300,7000,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,6400,7140,6800,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,5012,7855,7004,49
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,20/02/2025,3000,3200,3100,4
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,15/03/2025,2200,2900,2600,1
+Karnataka,Bidar,Bidar,Wheat,Red,"Ref grade-2",05/03/2025,2800,3700,3100,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,Local,17/07/2025,2400,2800,2500,1
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,6401,7550,7199,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/01/2025,5095,8611,7683,49
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,02/01/2025,2000,3500,3000,3
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,24/01/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,25/01/2025,5500,6400,5800,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,27/01/2025,5400,6500,5900,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)","Ref grade-1",31/01/2025,1900,2600,2480,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,02/01/2025,3000,4500,3500,5
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,17/01/2025,5050,5500,5050,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,27/01/2025,3555,7139,4609,8
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,5601,5950,5601,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,02/01/2025,6065,7374,6700,6
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,13/01/2025,1901,2700,2681,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,17/01/2025,1800,2852,2600,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,21/01/2025,1500,2611,2450,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,23/01/2025,1700,3012,2551,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,16/01/2025,3000,4000,3500,5
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,16/01/2025,3030,4262,4025,13
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",FAQ,11/01/2025,6801,6801,6801,9
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/01/2025,6300,6600,6300,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,23/01/2025,2044,7760,7556,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/01/2025,4500,7715,6463,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,13/01/2025,5451,5451,5451,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,20/01/2025,4000,7000,4000,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,22/01/2025,2209,7029,5537,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,24/01/2025,3061,7025,4748,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",31/01/2025,3361,7369,5041,8
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,25/01/2025,4000,4000,4000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,07/01/2025,2700,2700,2700,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,20/01/2025,2250,3395,2250,1
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,11/01/2025,3800,4200,4000,74
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,02/01/2025,5350,5350,5350,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,06/01/2025,5500,5500,5500,59
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,6500,7530,7199,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/01/2025,4000,8623,7972,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,25/01/2025,6000,8059,7211,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/01/2025,6500,7811,7340,49
+Karnataka,Bidar,Bidar,Rice,"Broken Rice","Ref grade-2",05/03/2025,2600,3500,3100,3
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,"Ref grade-1",03/02/2025,3671,3764,3671,74
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,11/02/2025,6000,6000,6000,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,21/02/2025,4600,4600,4600,59
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,5700,6050,5900,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/02/2025,5171,5541,5200,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,4800,5850,5800,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,14/02/2025,5515,6021,5859,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,15/02/2025,5569,6029,5926,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/02/2025,4011,5969,5868,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,22/02/2025,5169,5879,5767,6
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,17/02/2025,3000,3200,3100,4
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/02/2025,5005,7401,5449,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,20/02/2025,3650,7556,7306,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,22/02/2025,6666,7435,7127,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",03/02/2025,4150,4150,4150,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,21/02/2025,4050,5737,5184,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",01/02/2025,4189,7129,4863,8
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,13/02/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,28/02/2025,3200,3500,3300,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,10/02/2025,1900,2900,2400,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,19/02/2025,1800,2500,2300,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,28/02/2025,2150,2690,2400,5
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,15/02/2025,3131,4092,3991,13
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,24/02/2025,3333,4096,3997,13
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,15/02/2025,2501,3301,2501,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,11/02/2025,2460,3000,2800,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,12/02/2025,2750,2800,2750,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,14/02/2025,2950,2950,2950,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,24/02/2025,2600,2800,2600,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,28/02/2025,3200,3500,3300,1
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,6350,7390,7100,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,6600,7450,7250,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,6500,7400,7100,49
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,5650,6000,5800,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,5100,5400,5200,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5600,5600,5600,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5700,5900,5800,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,13/02/2025,5525,6168,5811,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/02/2025,5221,5882,5665,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,25/02/2025,5258,5925,5625,6
+Karnataka,Bidar,"Basava Kalayana","Bajra(Pearl Millet/Cumbu)",Local,FAQ,11/02/2025,1900,1900,1900,28
+Karnataka,Bidar,Bidar,Rice,"Broken Rice","Ref grade-1",01/02/2025,2800,3300,3100,3
+Karnataka,Bidar,Bidar,Rice,"IR 20 Medium Boiled",FAQ,14/02/2025,3500,4200,3800,3
+Karnataka,Bidar,Bidar,Rice,"IR 20 Medium Boiled",FAQ,28/02/2025,5600,6500,5800,3
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5850,6161,6051,6
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,11/02/2025,3290,3501,3290,74
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,18/02/2025,2900,3300,3100,4
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,22/02/2025,3000,3300,3100,4
+Karnataka,Bidar,Bidar,Maize,Local,FAQ,25/02/2025,3000,3200,3100,4
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,21/02/2025,2888,4078,3987,13
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,22/02/2025,3707,4089,4018,13
+Karnataka,Bidar,Bidar,Soyabean,Local,FAQ,28/02/2025,3555,4111,3996,13
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,15/02/2025,1800,2700,2500,5
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,10/01/2025,4500,4500,4500,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",30/01/2025,4640,5800,4640,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,02/01/2025,4000,7715,5256,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,16/01/2025,2859,6579,4660,8
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,01/01/2025,4000,4500,4000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,03/01/2025,2300,2300,2300,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,08/01/2025,3240,3240,3240,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,09/01/2025,2302,2500,2401,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,17/01/2025,2200,3080,2400,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,18/01/2025,2502,2502,2502,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,21/01/2025,2500,2500,2500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,25/01/2025,2651,2651,2651,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,02/01/2025,3000,3300,3200,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,16/01/2025,3100,3400,3200,1
+Karnataka,Bidar,Bidar,Wheat,Red,FAQ,25/01/2025,2800,3600,3000,1
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,16/01/2025,3000,3200,3100,3
+Karnataka,Bidar,Bidar,Rice,"Broken Rice",FAQ,27/01/2025,2900,3300,3000,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,22/01/2025,5400,6500,5900,3
+Karnataka,Bidar,Bidar,Rice,"CR 1009 (Coarse) Boiled",FAQ,23/01/2025,5000,6400,5800,3
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,24/01/2025,1700,3000,2350,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,07/01/2025,3000,4000,3500,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,22/01/2025,3000,4600,3400,5
+Karnataka,Bidar,"Basava Kalayana","Green Gram (Moong)(Whole)","Green (Whole)",FAQ,18/01/2025,6600,6600,6600,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,02/01/2025,2505,7811,5763,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,01/01/2025,3700,3700,3700,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,18/01/2025,4000,4400,4150,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",31/01/2025,4002,4002,4002,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,25/01/2025,4088,7079,4957,8
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,15/02/2025,5800,6061,5800,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,22/02/2025,4000,5850,5000,59
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,"Ref grade-1",01/02/2025,5411,5411,5411,59
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)",Hybrid,FAQ,18/02/2025,4200,7361,6760,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,15/02/2025,4815,7517,6901,9
+Karnataka,Bidar,Bidar,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,24/02/2025,6726,7620,7242,9
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,06/02/2025,4000,4301,4000,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",01/02/2025,4201,4201,4201,8
+Karnataka,Bidar,"Basava Kalayana","Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",04/02/2025,4000,4000,4000,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,14/02/2025,3735,7429,5299,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,18/02/2025,3434,6501,3917,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,22/02/2025,3332,6821,4780,8
+Karnataka,Bidar,Bidar,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,24/02/2025,3555,6569,4633,8
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/02/2025,6000,7250,6800,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/02/2025,6000,7541,7150,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/02/2025,6400,7661,7300,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,14/02/2025,6400,7580,7200,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,6750,7610,7250,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,25/02/2025,6500,7485,7250,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",04/02/2025,6000,7200,6800,49
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,14/02/2025,3000,3300,3000,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,FAQ,07/02/2025,2701,2701,2701,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,13/02/2025,3500,3500,3500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,28/02/2025,2900,3900,3411,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,"Ref grade-1",01/02/2025,1500,3800,1500,1
+Karnataka,Bidar,"Basava Kalayana",Wheat,Mexican,"Ref grade-1",04/02/2025,2700,2700,2700,1
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/03/2025,5400,5450,5400,6
+Karnataka,Bidar,"Basava Kalayana",Safflower,Safflower,FAQ,01/03/2025,5351,5520,5450,59
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,4400,5450,5300,6
+Karnataka,Bidar,"Basava Kalayana","Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/03/2025,5250,5500,5350,6
+Karnataka,Bidar,"Basava Kalayana",Wheat,Medium,FAQ,01/03/2025,3451,3790,3750,1
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/01/2025,6500,7900,7450,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/01/2025,6200,7750,7300,49
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/01/2025,6700,7500,7100,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,5601,8121,7374,49
+Karnataka,Bidar,Bidar,Soyabean,Soyabeen,FAQ,22/01/2025,3268,4141,4008,13
+Karnataka,Bidar,"Basava Kalayana",Gur(Jaggery),Mudde,FAQ,21/01/2025,3201,3201,3201,74
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",30/01/2025,6000,7450,7100,49
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,03/01/2025,2600,2700,2650,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,07/01/2025,1800,2891,2500,5
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,22/01/2025,1600,2650,2200,5
+Karnataka,Bidar,"Basava Kalayana","Sesamum(Sesame,Gingelly,Til)",White,FAQ,08/01/2025,7000,12500,8701,11
+Karnataka,Bidar,"Basava Kalayana",Jowar(Sorghum),"Jowar ( White)",FAQ,25/01/2025,2200,2500,2350,5
+Karnataka,Bidar,Bidar,Jowar(Sorghum),"Jowar ( White)",FAQ,24/01/2025,2700,3400,3100,5
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,07/01/2025,4500,6025,5910,6
+Karnataka,Bidar,Bidar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,16/01/2025,4461,6200,5802,6
+Karnataka,Bidar,"Basava Kalayana","Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,6500,7600,7200,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,16/01/2025,5001,8355,7145,49
+Karnataka,Bidar,Bidar,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,4888,8000,6998,49
+Karnataka,Bidar,"Basava Kalayana",Sajje,Sajje,FAQ,10/01/2025,2000,2000,2000,271
+Karnataka,Bidar,"Basava Kalayana",Sajje,Sajje,FAQ,13/01/2025,2500,2500,2500,271

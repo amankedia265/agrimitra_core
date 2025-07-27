@@ -1,0 +1,359 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Haveri,Shiggauv,Cotton,GCH,FAQ,01/01/2025,5850,5950,5875,15
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,08/01/2025,2010,2200,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,10/01/2025,1920,2110,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,21/01/2025,2000,2100,2080,2
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,17/01/2025,4034,4200,4200,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,27/01/2025,4045,4133,4117,13
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,20/01/2025,2231,7361,7021,15
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,22/01/2025,4210,4225,4225,13
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,10/01/2025,2200,2200,2200,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,08/01/2025,2250,2400,2337,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,24/01/2025,2300,2350,2328,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,27/01/2025,2220,2360,2302,4
+Karnataka,Haveri,Hirekerur,Maize,Local,"Ref grade-1",31/01/2025,2100,2343,2224,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,13/01/2025,2120,2525,2400,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,18/01/2025,1950,2435,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,20/01/2025,2100,2360,2345,4
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",30/01/2025,3850,3950,3900,114
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,02/01/2025,2529,5293,4162,10
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,06/01/2025,1289,5669,3886,10
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,"Ref grade-1",31/01/2025,3802,4039,4039,13
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,09/01/2025,1029,16759,14009,132
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,21/02/2025,4303,4413,4413,13
+Karnataka,Haveri,Byadagi,Ginger(Dry),Dry,FAQ,24/02/2025,1700,1700,1700,27
+Karnataka,Haveri,Savanur,Groundnut,Balli/Habbu,FAQ,17/02/2025,1514,4911,3647,10
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,24/02/2025,3109,36119,29000,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,24/02/2025,989,16109,14009,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,28/02/2025,909,15589,13509,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,06/02/2025,3069,37111,29000,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,"Ref grade-1",05/02/2025,1600,1600,1600,132
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,22/02/2025,8000,8000,8000,132
+Karnataka,Haveri,Savanur,Cotton,GCH,"Ref grade-1",03/02/2025,6583,7333,7249,15
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,19/02/2025,1500,1500,1500,103
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,28/02/2025,1110,1110,1110,103
+Karnataka,Haveri,Hirekerur,Paddy(Dhan)(Common),Paddy,FAQ,28/02/2025,2400,2400,2400,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,28/02/2025,2050,2200,2050,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,"Ref grade-1",02/02/2025,2050,2200,2200,2
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,28/02/2025,2250,2270,2260,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,07/02/2025,2240,2240,2240,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,06/02/2025,2180,2393,2250,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,13/02/2025,2250,2400,2350,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,18/02/2025,2435,2435,2435,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,05/02/2025,2050,2390,2100,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,08/02/2025,2100,2400,2100,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,10/02/2025,2200,2340,2330,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,22/02/2025,2100,2440,2365,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2100,2295,2250,4
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,28/04/2025,2300,2300,2300,3
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/04/2025,3600,3600,3600,114
+Karnataka,Haveri,Haveri,Sunflower,Local,FAQ,23/04/2025,0,0,5100,14
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,02/04/2025,0,0,4100,13
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,08/04/2025,0,0,4290,13
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,11/04/2025,0,0,4350,13
+Karnataka,Haveri,Haveri,"Tamarind Seed","Tamarind Seed",FAQ,21/04/2025,3800,3800,3800,208
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,15/03/2025,0,0,2400,4
+Karnataka,Haveri,Haveri,Rice,"IR 20 Fine Raw",FAQ,29/03/2025,5656,5656,5656,3
+Karnataka,Haveri,Haveri,Mataki,"Mataki (W)",FAQ,31/03/2025,5838,5838,5838,93
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,FAQ,26/05/2025,0,0,3100,30
+Karnataka,Haveri,Haveri,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,09/05/2025,12400,12400,12400,264
+Karnataka,Haveri,Haveri,Sunflower,Local,FAQ,14/05/2025,0,0,4960,14
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/05/2025,3400,3400,3400,114
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,23/07/2025,3000,3000,3000,114
+Karnataka,Haveri,Ranebennur,Beans,"Beans (Whole)",FAQ,30/01/2025,3000,3500,3300,94
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,11/01/2025,13000,13400,13000,280
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,19/01/2025,11200,11200,11200,280
+Karnataka,Haveri,Byadagi,Arecanut(Betelnut/Supari),Bette,FAQ,07/01/2025,17280,17280,17280,140
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,08/01/2025,1500,1500,1500,103
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,"Ref grade-1",30/01/2025,3329,45299,30209,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,10/01/2025,1009,16500,14000,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,"Ref grade-1",30/01/2025,3109,34881,28509,132
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,13/01/2025,1212,5041,3761,10
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,09/01/2025,2100,2252,2200,4
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,11/01/2025,2250,2300,2260,4
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,17/01/2025,2330,2330,2330,4
+Karnataka,Haveri,Hanagal,Maize,Local,FAQ,30/01/2025,2100,2250,2100,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,10/01/2025,2100,2350,2189,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,22/01/2025,2149,2300,2258,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,"Ref grade-1",29/01/2025,2200,2400,2385,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2225,2450,2335,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,08/01/2025,2185,2430,2340,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,11/01/2025,2100,2440,2355,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,17/01/2025,2000,2435,2260,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,21/01/2025,2000,2400,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,22/01/2025,1975,2400,2100,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2100,2470,2310,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,2000,2380,2300,4
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,08/01/2025,4200,4200,4200,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,11/01/2025,4042,4526,4200,13
+Karnataka,Haveri,Haveri,Mustard,Other,"Ref grade-1",31/01/2025,6000,6000,6000,12
+Karnataka,Haveri,Haveri,Paddy(Dhan)(Common),Paddy,FAQ,24/01/2025,2100,2100,2100,2
+Karnataka,Haveri,Hirekerur,Paddy(Dhan)(Common),Paddy,"Ref grade-1",31/01/2025,2400,2400,2400,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,17/01/2025,2200,2200,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,22/01/2025,2275,2275,2275,2
+Karnataka,Haveri,Ranebennur,Cucumbar(Kheera),Cucumbar,FAQ,27/01/2025,800,1800,1300,159
+Karnataka,Haveri,Haveri,Cotton,GCH,FAQ,28/03/2025,0,0,6400,15
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,17/03/2025,6281,6859,6543,15
+Karnataka,Haveri,Haveri,Maize,Local,FAQ,15/03/2025,0,0,2300,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,17/03/2025,2300,2300,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,01/03/2025,2250,2400,2330,4
+Karnataka,Haveri,Haveri,"Bengal Gram(Gram)(Whole)",Other,FAQ,12/03/2025,5400,5600,5500,6
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,31/03/2025,3360,3360,3360,1
+Karnataka,Haveri,Savanur,Groundnut,Balli/Habbu,FAQ,17/03/2025,4109,4109,4109,10
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,24/03/2025,0,0,4150,13
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,31/03/2025,4000,4000,4000,114
+Karnataka,Haveri,Haveri,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,27/03/2025,11400,11400,11400,263
+Karnataka,Haveri,Haveri,Safflower,Safflower,FAQ,28/04/2025,6000,6000,6000,59
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,15/04/2025,2880,2880,2880,1
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,17/04/2025,3380,3380,3380,1
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,21/04/2025,2850,2850,2850,1
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,04/04/2025,2275,2275,2275,3
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,22/04/2025,0,0,4300,13
+Karnataka,Haveri,Haveri,"Ragi (Finger Millet)",Medium,FAQ,28/04/2025,0,0,2900,30
+Karnataka,Haveri,Haveri,Cotton,GCH,FAQ,22/04/2025,0,0,6750,15
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,11/02/2025,16000,16000,16000,132
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/02/2025,3000,3000,3000,92
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,11/02/2025,2200,2200,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,18/02/2025,2100,2370,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,19/02/2025,2250,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,"Ref grade-1",01/02/2025,2400,2400,2400,2
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,19/02/2025,2300,2300,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,12/02/2025,2185,2405,2270,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,26/02/2025,2250,2370,2335,4
+Karnataka,Haveri,Savanur,Groundnut,Gejje,"Ref grade-1",03/02/2025,1611,4429,3670,10
+Karnataka,Haveri,Hirekerur,Jowar(Sorghum),Hybrid,FAQ,28/02/2025,3160,3160,3160,5
+Karnataka,Haveri,Haveri,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,15/02/2025,11500,11500,11500,264
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,22/02/2025,3870,4413,4413,13
+Karnataka,Haveri,Haveri,Cotton,GCH,FAQ,07/02/2025,6809,7519,7489,15
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,17/02/2025,4091,7289,6554,15
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,20/02/2025,6193,7289,6560,15
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,24/02/2025,1611,7069,5993,15
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,19/02/2025,2100,2405,2345,4
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,15/05/2025,0,0,4205,13
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,28/05/2025,0,0,4200,13
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/05/2025,3200,3200,3200,114
+Karnataka,Haveri,Haveri,Rice,"Broken Rice",FAQ,01/07/2025,3805,3805,3805,3
+Karnataka,Haveri,Haveri,Rice,"IR 20 Fine Raw",FAQ,01/07/2025,4800,5500,5350,3
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,09/06/2025,5000,5000,5000,92
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/06/2025,6500,6500,6500,92
+Karnataka,Haveri,Haveri,"Chennangi Dal","Chennangi Dal",FAQ,26/06/2025,6750,6750,6750,295
+Karnataka,Haveri,Haveri,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,13/01/2025,7200,7200,7200,260
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,10/01/2025,12500,13700,13600,280
+Karnataka,Haveri,Hirekerur,Coconut,Grade-I,FAQ,28/02/2025,14,14,14,138
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,"Ref grade-1",02/02/2025,10000,10000,10000,132
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,06/02/2025,3750,3750,3750,122
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,14/02/2025,3570,3570,3570,122
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,16/01/2025,1039,4239,3492,10
+Karnataka,Haveri,Savanur,Groundnut,Gejje,"Ref grade-1",30/01/2025,2896,5611,4064,10
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,15/01/2025,2200,2340,2268,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,20/01/2025,2200,2300,2250,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,21/01/2025,2000,2300,2165,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,30/01/2025,2225,2300,2262,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,06/01/2025,2100,2475,2330,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,20/01/2025,2185,2440,2380,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,06/01/2025,2000,2445,2340,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,12/01/2025,2100,2505,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,19/01/2025,2220,2360,2300,4
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,18/01/2025,1790,1790,1790,103
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,09/01/2025,3815,4327,4327,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,12/01/2025,4200,4200,4200,13
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,10/02/2025,6383,7281,6764,15
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,09/02/2025,2050,2285,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,23/02/2025,2150,2300,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,26/02/2025,2120,2180,2150,2
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,27/02/2025,4200,4200,4200,6
+Karnataka,Haveri,Shiggauv,Cotton,GCH,FAQ,19/01/2025,3397,6782,5530,15
+Karnataka,Haveri,Hirekerur,Paddy(Dhan)(Common),Paddy,FAQ,22/01/2025,2300,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,01/01/2025,2200,2200,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,15/01/2025,1950,2100,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,16/01/2025,2100,2100,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,18/01/2025,1900,2200,2000,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,20/01/2025,2100,2275,2100,2
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,29/01/2025,1500,1500,1500,103
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,07/01/2025,2959,33199,28009,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,17/01/2025,2969,32509,29509,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,07/01/2025,2609,32509,27209,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,09/01/2025,2899,39999,28009,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,10/01/2025,2609,31112,27009,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,12/01/2025,2689,28699,25899,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,17/01/2025,2709,30009,28000,132
+Karnataka,Haveri,Savanur,"Alasande Gram","Alasande Gram",FAQ,28/02/2025,7200,7200,7200,281
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,24/02/2025,2540,2540,2540,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,14/02/2025,2200,2360,2298,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,17/02/2025,2200,2200,2200,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,21/02/2025,2200,2300,2263,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,21/02/2025,2340,2440,2360,4
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,05/02/2025,2000,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,10/02/2025,2200,2475,2200,2
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,05/02/2025,3774,4141,4139,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,07/02/2025,3947,4279,4279,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,08/02/2025,4061,4150,4061,13
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,14/03/2025,3300,3300,3300,122
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,01/03/2025,4101,4403,4403,13
+Karnataka,Haveri,Hanagal,Maize,Local,"Ref grade-2",04/03/2025,2200,2300,2300,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,16/03/2025,0,0,2451,4
+Karnataka,Haveri,Haveri,Mustard,Other,FAQ,29/03/2025,5900,5900,5900,12
+Karnataka,Haveri,Haveri,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/04/2025,0,0,6000,49
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/04/2025,3650,3650,3650,114
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,23/04/2025,0,0,4100,13
+Karnataka,Haveri,Haveri,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/05/2025,0,0,5500,49
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,02/05/2025,2850,2850,2850,1
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,29/05/2025,2900,2900,2900,1
+Karnataka,Haveri,Haveri,"Bengal Gram(Gram)(Whole)",Other,FAQ,26/05/2025,5800,5800,5800,6
+Karnataka,Haveri,Haveri,"Alasande Gram","Alasande Gram",FAQ,12/05/2025,3300,3300,3300,281
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/05/2025,6750,6750,6750,92
+Karnataka,Haveri,Haveri,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,05/05/2025,11400,11400,11400,264
+Karnataka,Haveri,Haveri,Rice,"Broken Rice",FAQ,02/07/2025,3800,3850,3820,3
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,02/06/2025,2900,2900,2900,1
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,08/02/2025,2000,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,13/02/2025,2200,2200,2200,2
+Karnataka,Haveri,Hirekerur,"Ragi (Finger Millet)",Red,FAQ,28/02/2025,4120,4120,4120,30
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,09/02/2025,4278,4278,4278,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,10/02/2025,3963,4129,4129,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,11/02/2025,4113,4130,4113,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,13/02/2025,3805,4136,4063,13
+Karnataka,Haveri,Hirekerur,Sunflower,Hybrid,FAQ,28/02/2025,6000,6000,6000,14
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,28/02/2025,1900,2400,2183,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,10/02/2025,2300,2450,2350,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,14/02/2025,2540,2540,2540,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2152,2385,2300,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,27/02/2025,2050,2380,2340,4
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,10/02/2025,2481,4216,3766,10
+Karnataka,Haveri,Haveri,Mustard,Other,FAQ,07/02/2025,6000,6000,6000,12
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,27/02/2025,2233,2400,2314,4
+Karnataka,Haveri,Hirekerur,Maize,Local,"Ref grade-1",04/02/2025,2200,2200,2200,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,07/02/2025,2100,2400,2320,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,18/02/2025,2100,2360,2310,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,28/02/2025,2050,2400,2380,4
+Karnataka,Haveri,Haveri,"Chennangi Dal","Chennangi Dal","Ref grade-1",31/01/2025,7400,7400,7400,295
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,26/02/2025,3800,3800,3800,114
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,10/01/2025,2909,34009,28509,132
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,18/02/2025,3550,3550,3550,122
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,19/02/2025,3540,3540,3540,122
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local","Ref grade-1",03/02/2025,3700,3700,3700,122
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,28/02/2025,2809,29509,28209,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,06/02/2025,1009,16329,14009,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,24/02/2025,2689,30689,27859,132
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,05/02/2025,4000,10000,9000,132
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,28/02/2025,7000,7000,7000,132
+Karnataka,Haveri,Shiggauv,"Foxtail Millet(Navane)",Other,FAQ,26/02/2025,2600,2600,2600,121
+Karnataka,Haveri,Hirekerur,Banana,Medium,Small,26/03/2025,3105,3105,3105,19
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,01/03/2025,4200,4200,4200,6
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,14/03/2025,0,0,2450,4
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,20/01/2025,4038,4351,4351,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,"Ref grade-1",30/01/2025,3890,4105,4009,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,21/01/2025,3915,4107,4107,13
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,09/01/2025,1011,5361,4002,10
+Karnataka,Haveri,Byadagi,Maize,Hybrid/Local,FAQ,07/01/2025,2200,2250,2250,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,13/01/2025,2213,2300,2271,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,16/01/2025,2150,2350,2266,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,28/01/2025,2250,2350,2322,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,02/01/2025,2085,2217,2100,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,16/01/2025,2150,2400,2350,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,01/01/2025,2000,2335,2325,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,10/01/2025,2200,2430,2355,4
+Karnataka,Haveri,Hirekerur,Paddy(Dhan)(Common),Jaya,FAQ,15/01/2025,2300,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),1001,FAQ,06/01/2025,1900,2000,2000,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,12/01/2025,2000,2200,2200,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,19/01/2025,2100,2100,2100,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,"Ref grade-1",30/01/2025,2010,2050,2050,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,"Ref grade-1",31/01/2025,2000,2200,2100,2
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,02/01/2025,1621,7049,6688,15
+Karnataka,Haveri,Savanur,Cotton,GCH,"Ref grade-1",30/01/2025,6989,7332,7288,15
+Karnataka,Haveri,Haveri,"Tamarind Fruit","Tamarind Fruit",FAQ,25/04/2025,7000,7000,7000,261
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,02/05/2025,2300,2300,2300,3
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,07/05/2025,2300,2300,2300,3
+Karnataka,Haveri,Haveri,"Avare Dal","Avare (Whole)",FAQ,12/05/2025,2300,2300,2300,269
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,02/06/2025,2275,2275,2275,3
+Karnataka,Haveri,Hirekerur,Paddy(Dhan)(Common),Paddy,FAQ,18/01/2025,2300,2400,2330,2
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,06/01/2025,4533,7143,6620,15
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,13/01/2025,5250,7273,7029,15
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,11/01/2025,1900,1920,1900,2
+Karnataka,Haveri,Savanur,Cotton,GCH,FAQ,16/01/2025,6331,6781,6588,15
+Karnataka,Haveri,Savanur,Cotton,LD-327,FAQ,09/01/2025,2013,7121,6448,15
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,09/01/2025,3009,40119,29529,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,07/01/2025,1009,16509,13859,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,"Ref grade-1",30/01/2025,1089,16659,14509,132
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,09/01/2025,16000,16000,16000,132
+Karnataka,Haveri,Shiggauv,"Dry Chillies",Other,FAQ,19/01/2025,4000,15000,10000,132
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,10/01/2025,3989,4179,4154,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,18/01/2025,4028,4202,4202,13
+Karnataka,Haveri,Savanur,Groundnut,Gejje,FAQ,20/01/2025,1212,5291,4063,10
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,04/01/2025,2150,2349,2223,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,09/01/2025,2250,2280,2265,4
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,29/01/2025,2200,2250,2225,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,09/01/2025,2160,2420,2340,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,09/01/2025,2000,2430,2350,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,14/01/2025,2300,2355,2355,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,15/01/2025,2220,2440,2350,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,16/01/2025,2220,2400,2330,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,27/01/2025,2100,2460,2315,4
+Karnataka,Haveri,Savanur,Soyabean,Soyabeen,FAQ,16/01/2025,4564,4564,4564,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,06/01/2025,3928,4351,4351,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,15/01/2025,4045,4204,4200,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,16/01/2025,4033,4289,4166,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,19/01/2025,4381,4381,4381,13
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,01/01/2025,13500,13600,13500,280
+Karnataka,Haveri,Haveri,"Bengal Gram(Gram)(Whole)",Other,FAQ,31/03/2025,5500,5500,5500,6
+Karnataka,Haveri,Savanur,Same/Savi,"Same/Savi Local",FAQ,15/03/2025,3400,3400,3400,122
+Karnataka,Haveri,Haveri,"Chennangi Dal","Chennangi Dal",FAQ,27/03/2025,6600,6600,6600,295
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,05/04/2025,3700,3700,3700,114
+Karnataka,Haveri,Haveri,"Chennangi Dal","Chennangi Dal",FAQ,17/04/2025,10480,10480,10480,295
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,08/04/2025,6800,6800,6800,92
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/04/2025,6800,6800,6800,92
+Karnataka,Haveri,Haveri,Safflower,Safflower,FAQ,11/04/2025,5300,5300,5300,59
+Karnataka,Haveri,Haveri,Safflower,Safflower,FAQ,14/04/2025,5500,5500,5500,59
+Karnataka,Haveri,Haveri,Safflower,Safflower,FAQ,19/04/2025,5400,5400,5400,59
+Karnataka,Haveri,Hanagal,Arecanut(Betelnut/Supari),Chali,FAQ,28/04/2025,20000,20000,20000,140
+Karnataka,Haveri,Haveri,Cotton,GCH,FAQ,12/05/2025,0,0,5999,15
+Karnataka,Haveri,Haveri,Soyabean,Soyabeen,FAQ,20/05/2025,0,0,4200,13
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,30/05/2025,2870,2870,2870,1
+Karnataka,Haveri,Hirekerur,Banana,Medium,Small,31/05/2025,3105,3105,3105,19
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/05/2025,4400,4400,4400,92
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/05/2025,3200,3200,3200,114
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,04/06/2025,2900,2900,2900,1
+Karnataka,Haveri,Haveri,Wheat,Local,FAQ,06/06/2025,2890,2890,2890,1
+Karnataka,Haveri,Savanur,Jowar(Sorghum),"Jowar ( White)",FAQ,28/02/2025,2445,2445,2445,5
+Karnataka,Haveri,Shiggauv,Jowar(Sorghum),"Jowar Hybrid",FAQ,10/02/2025,2125,2125,2125,5
+Karnataka,Haveri,Hirekerur,Maize,Local,FAQ,19/02/2025,2000,2000,2000,4
+Karnataka,Haveri,Hirekerur,Maize,Local,"Ref grade-1",06/02/2025,2200,2300,2240,4
+Karnataka,Haveri,Savanur,Maize,Hybrid/Local,FAQ,20/02/2025,2440,2440,2440,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,09/02/2025,2100,2400,2200,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,11/02/2025,2100,2340,2340,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,13/02/2025,2003,2410,2260,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,FAQ,23/02/2025,2250,2575,2275,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",01/02/2025,2150,2285,2200,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",02/02/2025,2175,2285,2220,4
+Karnataka,Haveri,Shiggauv,Maize,Hybrid/Local,"Ref grade-1",04/02/2025,2100,2390,2100,4
+Karnataka,Haveri,Savanur,Groundnut,Balli/Habbu,FAQ,20/02/2025,3221,4081,3750,10
+Karnataka,Haveri,Savanur,Groundnut,Balli/Habbu,FAQ,24/02/2025,2011,4226,3595,10
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,19/02/2025,3852,4278,4278,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,FAQ,28/02/2025,3751,4111,3950,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,"Ref grade-1",01/02/2025,3818,4104,4104,13
+Karnataka,Haveri,Shiggauv,Soyabean,Soyabeen,"Ref grade-1",02/02/2025,3500,4050,4050,13
+Karnataka,Haveri,Byadagi,"Dry Chillies",Guntur,FAQ,17/01/2025,960,16500,14209,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,11/01/2025,2169,25969,23989,132
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,21/01/2025,1500,1828,1609,103
+Karnataka,Haveri,Hirekerur,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,28/02/2025,8320,8320,8320,9
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,21/02/2025,2200,2300,2300,2
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,"Ref grade-1",03/02/2025,2100,2100,2100,2
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,18/02/2025,5920,5928,5920,6
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,19/02/2025,5900,5950,5900,6
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,21/02/2025,5650,5650,5650,6
+Karnataka,Haveri,Shiggauv,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,22/02/2025,4300,5700,4300,6
+Karnataka,Haveri,Haveri,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,07/02/2025,3000,3000,3000,121
+Karnataka,Haveri,Hirekerur,Ginger(Green),"Green Ginger",FAQ,15/02/2025,1500,1500,1500,103
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,27/02/2025,2100,2400,2400,2
+Karnataka,Haveri,Ranebennur,"Ragi (Finger Millet)",Local,FAQ,05/02/2025,2300,2600,2400,30
+Karnataka,Haveri,Shiggauv,Cotton,GCH,FAQ,13/02/2025,5800,6100,6000,15
+Karnataka,Haveri,Byadagi,"Dry Chillies",Dabbi,FAQ,06/02/2025,2829,33399,27809,132
+Karnataka,Haveri,Byadagi,"Dry Chillies",Kaddi,FAQ,28/02/2025,2500,28000,27009,132
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,13/02/2025,13000,13500,13000,280
+Karnataka,Haveri,Shiggauv,Lint,Other,FAQ,21/02/2025,13000,13000,13000,280
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/03/2025,6200,6580,6400,92
+Karnataka,Haveri,Shiggauv,Paddy(Dhan)(Common),Paddy,FAQ,01/03/2025,2100,2200,2100,2
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,24/03/2025,2325,2325,2325,3
+Karnataka,Haveri,Haveri,Rice,Coarse,FAQ,31/03/2025,3802,3802,3802,3
+Karnataka,Haveri,Haveri,Mustard,Other,FAQ,17/03/2025,6000,6000,6000,12
+Karnataka,Haveri,Haveri,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/06/2025,3300,3300,3300,114
+Karnataka,Haveri,Haveri,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,03/06/2025,6000,6000,6000,92

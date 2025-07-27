@@ -1,0 +1,286 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bijapur,Bijapur,"Dry Grapes","Dry Grapes",FAQ,25/01/2025,2400,25000,16100,278
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,03/01/2025,6700,7000,6850,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/01/2025,6000,6400,6200,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,5700,6000,5850,6
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,10/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,28/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,09/01/2025,5800,6200,6000,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,20/01/2025,6000,6350,6175,14
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/01/2025,6200,6600,6400,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/01/2025,5700,6000,5850,6
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,08/01/2025,3000,3500,3250,1
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,23/01/2025,3000,3600,3300,1
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,04/01/2025,5096,7560,7234,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,07/01/2025,4006,7650,7352,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,16/01/2025,3006,7630,7286,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,21/01/2025,1016,7631,7311,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,24/01/2025,1006,7552,7237,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,28/01/2025,1036,7460,7131,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,29/01/2025,4006,7410,7144,15
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/01/2025,2200,2550,2375,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/01/2025,2200,2500,2300,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,23/01/2025,2200,2450,2325,28
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/01/2025,7200,7500,7350,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/01/2025,7000,7500,7250,49
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,01/03/2025,6000,6200,6100,14
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/03/2025,6800,7250,7025,49
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,27/03/2025,1000,4800,2500,180
+Karnataka,Bijapur,Bijapur,Gur(Jaggery),Achhu,FAQ,19/02/2025,3451,3701,3462,74
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,14/02/2025,6100,6200,6150,14
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,6000,6150,6075,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,6000,6100,6050,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,6000,6100,6050,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/02/2025,5700,5900,5800,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,5800,6100,5950,6
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,12/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,19/02/2025,2016,7520,7284,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,27/02/2025,3006,7467,7172,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,"Ref grade-1",03/02/2025,2006,7360,7107,15
+Karnataka,Bijapur,Sindagi,Cotton,LH-1556,FAQ,17/02/2025,6500,7000,6800,15
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,06/02/2025,3200,3800,3500,1
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,11/02/2025,3200,3400,3300,1
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,12/02/2025,6500,7100,6800,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,6000,7000,6500,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",04/02/2025,6000,6900,6450,49
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,06/02/2025,2200,2400,2300,4
+Karnataka,Bijapur,Sindagi,Wheat,Jawari,Local,16/07/2025,0,0,2400,1
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,12/06/2025,200,1200,500,180
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,11/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,14/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/02/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,07/02/2025,1066,7380,7163,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,11/02/2025,6479,7409,7198,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,15/02/2025,2006,7530,7230,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,18/02/2025,1006,7484,7276,15
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,"Ref grade-1",04/02/2025,6100,6200,6150,14
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,20/02/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,"Ref grade-1",04/02/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,10/02/2025,500,3200,2000,23
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,28/01/2025,6000,6200,6100,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,"Ref grade-1",31/01/2025,5800,6200,6000,14
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,10/01/2025,3000,3500,3250,1
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,08/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/01/2025,2200,2450,2325,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/01/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,Safflower,Safflower,FAQ,14/02/2025,5300,5500,5400,59
+Karnataka,Bijapur,Sindagi,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,21/02/2025,6500,6500,6500,9
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/02/2025,6800,7100,6950,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,6500,7100,6800,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,7000,7100,7050,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,6500,6900,6700,49
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,01/03/2025,4006,7389,7200,15
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,6900,7300,7100,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,7000,7600,7300,49
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,09/01/2025,6500,6800,6650,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,29/01/2025,5500,5800,5650,6
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,20/01/2025,800,3000,1800,23
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,04/01/2025,2200,2400,2300,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,09/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,10/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,29/01/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/01/2025,6500,7300,6900,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,6800,7300,7050,49
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,08/01/2025,6500,6900,6700,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/01/2025,6000,6500,6250,6
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,04/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,06/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,09/01/2025,2200,2400,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,17/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,22/01/2025,2200,2500,2350,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,08/01/2025,3000,7670,7435,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,09/01/2025,2000,7757,7425,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,23/01/2025,2006,7600,7266,15
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,04/04/2025,1000,4500,2500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,12/05/2025,1000,4000,2000,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,29/05/2025,500,1500,800,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,16/06/2025,200,1000,500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,02/06/2025,500,1400,700,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,07/07/2025,200,700,400,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,10/07/2025,200,600,400,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,17/07/2025,200,600,400,180
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,17/02/2025,600,3000,1500,23
+Karnataka,Bijapur,Bijapur,Lime,Lime,"Ref grade-1",03/02/2025,300,1600,900,180
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/01/2025,6200,6800,6500,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/01/2025,6400,6900,6650,6
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,15/01/2025,3000,3500,3250,1
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/01/2025,7000,7650,7325,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/01/2025,7000,7700,7350,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,7000,7400,7200,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,6000,7100,6550,49
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,08/01/2025,5700,6100,5900,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,17/01/2025,6000,6450,6225,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,27/01/2025,5800,6200,6000,14
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,07/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/01/2025,2200,2400,2300,28
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/01/2025,6800,7400,7100,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/01/2025,7000,7300,7150,49
+Karnataka,Bijapur,Bijapur,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",31/01/2025,1800,2500,2150,5
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/01/2025,6000,6300,6150,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,5800,6150,5975,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,5700,6000,5850,6
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,03/01/2025,2100,2400,2250,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,07/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,20/01/2025,2000,2400,2200,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,29/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,06/01/2025,5800,6000,5900,14
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,5900,6150,6025,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5800,6050,5925,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,5600,5900,5750,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,5600,6500,6050,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5800,6100,5950,6
+Karnataka,Bijapur,Sindagi(Indi),"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/02/2025,5700,6000,5800,6
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,10/02/2025,5900,6200,6050,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,13/02/2025,6000,6350,6175,14
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,06/01/2025,1000,7569,7280,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,11/01/2025,1568,7680,7305,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,17/01/2025,1016,7601,7325,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,18/01/2025,1006,7687,7287,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,"Ref grade-1",31/01/2025,3681,7345,7160,15
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,10/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,17/02/2025,2100,2300,2200,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,"Ref grade-1",05/02/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,20/02/2025,3026,7490,7267,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,21/02/2025,1006,7501,7291,15
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/02/2025,6500,7200,6850,49
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,6500,7000,6500,49
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,6800,6900,6800,49
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,5600,5700,5650,6
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,24/03/2025,1000,5000,2500,180
+Karnataka,Bijapur,Bijapur,"Dry Grapes","Dry Grapes",FAQ,01/03/2025,7000,22700,18000,278
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,05/05/2025,1000,4500,2000,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,26/05/2025,500,1500,1000,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,24/04/2025,1000,5000,2500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,23/06/2025,100,600,400,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,26/06/2025,100,600,400,180
+Karnataka,Bijapur,Sindagi,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",Local,16/07/2025,0,0,6200,49
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,13/02/2025,500,3000,1500,23
+Karnataka,Bijapur,Bijapur,Onion,Onion,"Ref grade-1",03/02/2025,500,2200,1200,23
+Karnataka,Bijapur,Bijapur,"Dry Grapes","Dry Grapes",FAQ,15/02/2025,4000,30500,16600,278
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,10/01/2025,3561,7681,7364,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,20/01/2025,2006,7654,7307,15
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,03/01/2025,2200,2450,2325,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,22/01/2025,2200,2450,2325,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/01/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,03/01/2025,5096,7434,7136,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,22/01/2025,3006,7560,7288,15
+Karnataka,Bijapur,Bijapur,Jowar(Sorghum),"Jowar ( White)",FAQ,10/01/2025,2000,2800,2400,5
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/01/2025,6000,6400,6200,6
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,13/01/2025,2300,2400,2350,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,15/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,24/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,27/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Jowar(Sorghum),"Jowar ( White)",FAQ,15/01/2025,2000,2700,2350,5
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,09/01/2025,3000,3700,3350,1
+Karnataka,Bijapur,Bijapur,Wheat,Sona,FAQ,29/01/2025,3000,3500,3250,1
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,06/01/2025,1000,3500,2000,23
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/02/2025,6500,7100,6800,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/02/2025,6800,7300,7050,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/02/2025,6700,7100,6900,49
+Karnataka,Bijapur,Sindagi(Indi),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,6900,7000,6900,49
+Karnataka,Bijapur,Sindagi(Indi),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/02/2025,7000,7000,7000,49
+Karnataka,Bijapur,Sindagi(Indi),"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,6500,7000,6800,49
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,11/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,12/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,15/02/2025,2100,2300,2200,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,18/02/2025,2300,2400,2350,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,19/02/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,27/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,13/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,15/02/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,15/02/2025,6300,6400,6350,14
+Karnataka,Bijapur,Bijapur,"Castor Seed","Castor seed",FAQ,13/02/2025,5400,5500,5450,123
+Karnataka,Bijapur,Bijapur,Safflower,Safflower,FAQ,15/02/2025,5000,5300,5150,59
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,10/02/2025,2006,7375,7169,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,13/02/2025,1566,7430,7212,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,14/02/2025,3589,7510,7234,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,28/02/2025,3006,7407,7161,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,"Ref grade-1",04/02/2025,1006,7370,7163,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,"Ref grade-1",05/02/2025,3006,7390,7190,15
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/02/2025,6000,6300,6150,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,5900,6150,6025,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,5600,5900,5750,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,5500,5800,5650,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/02/2025,5600,5750,5675,6
+Karnataka,Bijapur,Bijapur,"Dry Grapes","Dry Grapes",FAQ,11/01/2025,3100,18100,14600,278
+Karnataka,Bijapur,Bijapur,"Dry Grapes","Dry Grapes",FAQ,18/01/2025,7200,18200,15100,278
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/01/2025,7000,7500,7250,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/01/2025,6800,7200,7000,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,7000,7400,7200,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",30/01/2025,6500,7100,6800,49
+Karnataka,Bijapur,Bijapur,Lime,Lime,"Ref grade-1",30/01/2025,500,1700,1000,180
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,16/01/2025,6000,6400,6200,14
+Karnataka,Bijapur,Bijapur,Safflower,Safflower,FAQ,15/01/2025,5400,5700,5550,59
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,07/04/2025,1000,5000,2500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,21/04/2025,1000,6000,3000,180
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,01/03/2025,2300,2400,2350,4
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,02/05/2025,1000,4500,2500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,15/05/2025,1000,4000,2000,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,19/05/2025,500,2000,1200,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,22/05/2025,500,4000,1500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,03/07/2025,200,800,500,180
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,03/01/2025,6000,6400,6200,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,13/01/2025,6000,6300,6150,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,15/01/2025,6300,6400,6350,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,22/01/2025,6000,6300,6150,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,24/01/2025,6000,6300,6150,14
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,25/01/2025,2006,7510,7196,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,27/01/2025,1006,7423,7150,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,15/01/2025,1006,7563,7152,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,"Ref grade-1",30/01/2025,1006,7441,7134,15
+Karnataka,Bijapur,Bijapur,Safflower,Safflower,FAQ,20/01/2025,5400,5600,5500,59
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/01/2025,7000,7600,7300,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/01/2025,6500,7100,6800,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/01/2025,7400,7600,7500,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,16/01/2025,6700,7300,7000,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,6000,7000,6500,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,29/01/2025,6000,7000,6500,49
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,15/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/01/2025,2300,2400,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",31/01/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,09/01/2025,1000,3000,2000,23
+Karnataka,Bijapur,Bijapur,Onion,Onion,"Ref grade-1",30/01/2025,500,3000,1800,23
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,13/01/2025,2200,2500,2350,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",30/01/2025,2200,2350,2275,28
+Karnataka,Bijapur,Bijapur,Jowar(Sorghum),"Jowar ( White)",FAQ,27/01/2025,1800,2400,2100,5
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,5700,6000,5850,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5700,6000,5850,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,04/01/2025,6700,7000,6850,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/01/2025,6000,6500,6250,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5800,6100,5950,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,5800,6150,5975,6
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,08/01/2025,2000,2450,2225,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,16/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,18/01/2025,2200,2450,2325,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,21/01/2025,2100,2350,2225,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,23/01/2025,2200,2400,2300,4
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,13/03/2025,1000,4500,2500,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,17/03/2025,1000,4500,2000,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,08/05/2025,1000,4500,2500,180
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,FAQ,17/02/2025,5900,6300,6100,14
+Karnataka,Bijapur,Bijapur,Sunflower,Sunflower,"Ref grade-1",03/02/2025,5800,6200,6000,14
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5900,6100,6000,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/02/2025,6000,6200,6100,6
+Karnataka,Bijapur,Bijapur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5800,6100,5950,6
+Karnataka,Bijapur,Bijapur,Onion,Onion,FAQ,06/02/2025,500,2500,1300,23
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/02/2025,6500,7200,6850,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,14/02/2025,7000,7200,7100,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/02/2025,7000,7100,7050,49
+Karnataka,Bijapur,Bijapur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,6700,7200,6950,49
+Karnataka,Bijapur,Bijapur,"Castor Seed","Castor seed",FAQ,14/02/2025,5400,5500,5450,123
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/02/2025,2100,2350,2225,28
+Karnataka,Bijapur,Bijapur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/02/2025,2200,2400,2300,28
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,06/02/2025,2006,7410,7141,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,12/02/2025,1016,7430,7203,15
+Karnataka,Bijapur,Bijapur,Cotton,LH-1556,FAQ,17/02/2025,2006,7591,7212,15
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,07/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,13/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,14/02/2025,2200,2350,2275,4
+Karnataka,Bijapur,Bijapur,Maize,Hybrid/Local,FAQ,21/02/2025,2300,2400,2350,4
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,14/07/2025,200,700,400,180
+Karnataka,Bijapur,Bijapur,Lime,Lime,Medium,30/06/2025,300,900,500,180

@@ -1,0 +1,158 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,08/01/2025,5389,6299,5857,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,09/01/2025,4649,6369,5877,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,13/01/2025,4869,6309,5616,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,17/01/2025,5089,6409,5769,10
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,01/01/2025,5200,7769,6023,9
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,14/02/2025,5551,7259,6880,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,15/02/2025,6409,7239,6862,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,22/02/2025,5011,7119,6559,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,28/02/2025,6501,7501,6793,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,24/02/2025,6569,7659,6947,49
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,21/02/2025,5269,6529,5710,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,24/02/2025,4969,6462,5612,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)","Ref grade-1",03/02/2025,4789,5859,5125,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)","Ref grade-1",04/02/2025,4509,5875,5055,10
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5809,6069,6018,6
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",03/02/2025,7000,8001,7111,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",04/02/2025,6801,7515,6943,9
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,6111,6155,6141,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,5869,6179,6027,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/02/2025,5209,5929,5783,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,5369,5939,5738,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5909,6029,6009,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,17/01/2025,7281,8401,7704,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)","Ref grade-1",30/01/2025,6469,7631,6720,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,16/01/2025,7011,7999,7168,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,10/01/2025,6089,8330,7685,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,21/01/2025,6969,8151,7365,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,09/01/2025,6689,8442,7601,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,22/01/2025,7011,8157,7358,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,27/01/2025,6169,7629,6699,49
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/01/2025,6099,6099,6099,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,22/01/2025,7201,7919,7463,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,08/01/2025,6511,8452,7815,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,17/01/2025,6583,8137,7265,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)","Ref grade-1",31/01/2025,6301,7741,7319,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,03/01/2025,7011,8652,7988,49
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,01/01/2025,4569,6189,5727,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,06/01/2025,4449,6379,5779,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,16/01/2025,4009,6389,5741,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,24/01/2025,4749,5992,5402,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,25/01/2025,4539,6266,5355,10
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,11/01/2025,5300,7675,6352,9
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,04/01/2025,7669,8810,8554,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,23/01/2025,6339,8051,7518,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,04/01/2025,7099,8909,7718,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,23/01/2025,6411,8091,7176,49
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,06/02/2025,4939,5915,5339,10
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,24/02/2025,7139,8119,7369,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,28/02/2025,7009,7899,7686,9
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,07/02/2025,6069,7211,6504,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,10/02/2025,6569,7520,6845,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,21/02/2025,6269,7336,6736,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,06/02/2025,6859,7579,7010,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,"Ref grade-1",01/02/2025,6689,7729,7057,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,"Ref grade-1",04/02/2025,6169,7509,6648,49
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,6099,6101,6099,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/02/2025,6050,6319,6190,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,5699,5849,5807,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,5951,5951,5951,6
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,10/02/2025,4989,6209,5407,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,12/02/2025,5059,6351,5522,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,13/02/2025,4979,6369,5613,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,14/02/2025,4690,6389,5669,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)","Ref grade-1",01/02/2025,4689,5809,5110,10
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,04/01/2025,7669,7669,7669,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,06/01/2025,6869,6869,6869,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,08/01/2025,7011,7189,7026,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,09/01/2025,5811,7501,6388,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,21/01/2025,7599,7599,7599,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/01/2025,6009,7600,7593,9
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,13/02/2025,6209,7159,6753,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,17/02/2025,6269,7289,6534,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)","Ref grade-1",03/02/2025,6469,7564,6773,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,12/02/2025,6211,7689,6910,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,13/02/2025,6311,7629,7064,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,21/02/2025,6569,7719,7084,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,28/02/2025,6069,7762,7116,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,01/03/2025,5989,7501,6309,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,06/01/2025,6011,8362,7592,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,10/01/2025,6311,8319,7669,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,28/01/2025,6469,7899,6714,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,06/01/2025,7089,8681,8260,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,01/01/2025,7266,8680,7949,49
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,5799,5899,5830,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,21/01/2025,6689,8159,7119,49
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,10/01/2025,4829,6319,5872,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,11/01/2025,5319,6369,5692,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,22/01/2025,4869,6159,5547,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,23/01/2025,5309,6119,5996,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,27/01/2025,4869,6122,5270,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)","Ref grade-1",30/01/2025,4869,5709,5263,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)","Ref grade-1",31/01/2025,4569,5719,5244,10
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5799,5799,5799,6
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,04/01/2025,5049,6269,5640,10
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,5700,5700,5700,6
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/01/2025,6839,7000,6997,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,23/01/2025,6201,6901,6721,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,28/01/2025,8002,8002,8002,9
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,01/01/2025,7569,8810,8510,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,02/01/2025,7351,9021,8683,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,13/01/2025,6869,8301,7438,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,27/01/2025,6569,7801,7304,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,11/01/2025,7011,8356,7531,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,13/01/2025,6569,8051,7242,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,24/01/2025,7011,8062,7113,49
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,5919,6879,6181,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5799,6149,6079,6
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,07/02/2025,4869,6079,5382,10
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,06/02/2025,6201,7013,6680,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)","Ref grade-1",01/02/2025,5989,7501,6284,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)","Ref grade-1",04/02/2025,6075,6859,6209,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,07/02/2025,6569,7611,6945,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,17/02/2025,6869,7787,7225,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,22/02/2025,6509,7659,7045,49
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,01/03/2025,7099,7969,7654,9
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,5701,5989,5926,6
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,01/03/2025,5269,6582,5689,10
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,5709,5831,5761,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,03/01/2025,7109,8820,8565,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,09/01/2025,6859,8340,7670,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,11/01/2025,7169,8351,7681,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,25/01/2025,6301,7851,7308,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,02/01/2025,7459,8760,7962,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,25/01/2025,6011,7939,6998,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,07/01/2025,6711,8781,8292,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,16/01/2025,6669,8240,7007,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,24/01/2025,6501,8051,7415,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,28/01/2025,6689,7800,7181,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,07/01/2025,6356,8323,7698,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,"Ref grade-1",31/01/2025,6811,7700,7004,49
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,02/01/2025,6811,8175,7563,9
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,24/01/2025,5001,7100,5107,9
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/01/2025,5599,5821,5795,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5750,5750,5750,6
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,02/01/2025,5169,6299,5760,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,03/01/2025,5319,6139,5744,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,07/01/2025,4449,6229,5705,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,21/01/2025,4809,6289,5605,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,28/01/2025,4869,5897,5260,10
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,5339,5869,5665,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,08/01/2025,6311,8731,8125,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,"Ref grade-1",30/01/2025,6469,7861,6763,49
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,15/02/2025,4937,6399,5802,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,17/02/2025,4869,6453,5558,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,22/02/2025,4630,6429,5519,10
+Karnataka,Yadgiri,Yadgir,Groundnut,"Big (With Shell)",FAQ,28/02/2025,4889,6392,5623,10
+Karnataka,Yadgiri,Yadgir,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,22/02/2025,7899,8039,7979,9
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,5829,6279,6132,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5539,5959,5816,6
+Karnataka,Yadgiri,Yadgir,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5712,6131,5997,6
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,12/02/2025,5601,7414,6936,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)","Arhar Dal(Tur)",FAQ,24/02/2025,6169,7041,6490,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,10/02/2025,6769,7851,7224,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,14/02/2025,6399,7749,7226,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,15/02/2025,6811,7769,7174,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,"Ref grade-1",03/02/2025,6569,7586,6939,49
+Karnataka,Yadgiri,Yadgir,"Arhar (Tur/Red Gram)(Whole)",Red,FAQ,01/03/2025,6569,7999,7060,49

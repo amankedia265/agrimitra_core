@@ -1,0 +1,1150 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Hassan,Hassan,Brinjal,Other,"Ref grade-1",30/01/2025,1800,2100,2100,35
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,26/01/2025,1000,2500,1000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,04/01/2025,1000,1000,1000,78
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,18/01/2025,1500,6500,3000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,05/01/2025,3000,5000,3000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,19/01/2025,3000,4000,3000,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)","Ref grade-1",31/01/2025,2100,3400,2100,94
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,27/01/2025,2853,2900,2900,30
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,13/01/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,22/01/2025,2000,2000,2000,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,28/01/2025,1800,1800,1800,296
+Karnataka,Hassan,Arasikere,"Tamarind Seed","Tamarind Seed",FAQ,27/01/2025,3130,3185,3130,208
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,02/01/2025,27000,28000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,04/01/2025,15000,25000,20000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,09/01/2025,19500,31000,25000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,17/01/2025,15000,19900,19900,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,23/01/2025,19000,19610,19000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,29/01/2025,15000,15000,15000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,"Ref grade-1",31/01/2025,24000,24000,24000,138
+Karnataka,Hassan,Belur,Coconut,Coconut,FAQ,22/01/2025,19000,29000,27000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,16/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,20/01/2025,20000,25000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,29/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Arasikere,"Bhindi(Ladies Finger)",Bhindi,FAQ,18/01/2025,2500,2500,2500,85
+Karnataka,Hassan,Arasikere,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,28/01/2025,10000,10000,10000,265
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal","Ref grade-1",30/01/2025,10250,10250,10250,265
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,28/01/2025,14667,14667,14667,260
+Karnataka,Hassan,Arasikere,"Ground Nut Seed","Ground Nut Seed",FAQ,13/01/2025,4000,4400,4400,268
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Other,FAQ,27/01/2025,10000,10000,10000,140
+Karnataka,Hassan,Sakaleshpura,Arecanut(Betelnut/Supari),Other,FAQ,27/01/2025,31000,31000,31000,140
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,04/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,23/01/2025,1500,1600,1500,103
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,18/01/2025,1000,5000,1000,87
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,27/01/2025,7000,10000,7000,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",31/01/2025,900,900,900,103
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),"Ref grade-1",30/01/2025,1900,1900,1900,160
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,17/01/2025,3000,3000,3000,3
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,24/01/2025,3000,3000,3000,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,27/01/2025,2900,2900,2900,3
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,08/01/2025,2000,2375,2050,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,10/01/2025,2050,2420,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,22/01/2025,2000,2400,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,24/01/2025,2100,2350,2100,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,27/01/2025,2100,2410,2100,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,02/01/2025,2375,2375,2375,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,04/01/2025,2375,2400,2375,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,24/01/2025,2250,2440,2375,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,28/01/2025,1800,2400,1950,4
+Karnataka,Hassan,Belur,Ginger(Dry),Dry,"Ref grade-1",30/01/2025,11800,12000,11800,27
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,23/01/2025,2200,4150,2200,2
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,"Ref grade-1",30/01/2025,2100,2450,2225,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,11/01/2025,2200,2500,2250,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,"Ref grade-1",30/01/2025,2600,2600,2600,2
+Karnataka,Hassan,Arasikere,Wheat,Local,FAQ,20/01/2025,3441,3900,3441,1
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,16/01/2025,7400,7400,7400,15
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,28/01/2025,4000,4000,4000,15
+Karnataka,Hassan,Hassan,Gur(Jaggery),Other,FAQ,28/01/2025,4000,4600,4500,74
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,08/01/2025,7550,7550,7550,92
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/01/2025,7250,7300,7250,92
+Karnataka,Hassan,Belur,"Knool Khol","Knool Khol",FAQ,12/01/2025,1200,1200,1200,177
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,02/01/2025,1000,2000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,23/01/2025,1300,1300,1300,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,26/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,18/01/2025,2000,3000,2500,24
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,10/01/2025,35500,64000,50000,38
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,02/01/2025,2100,2100,2100,23
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,30/01/2025,1600,3000,3000,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,19/01/2025,2000,2000,2000,23
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,01/01/2025,14600,14600,14600,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,02/01/2025,14610,14610,14610,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,04/01/2025,14550,14550,14550,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,29/01/2025,13500,13850,13500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,10/01/2025,10000,10000,10000,129
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-1",31/01/2025,7500,7500,7500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,19/01/2025,14000,15850,15850,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,20/01/2025,14000,14100,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,24/01/2025,13700,14100,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",31/01/2025,13800,15900,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,16/01/2025,8000,8000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,24/01/2025,7000,7000,7000,129
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,12/03/2025,2003,2100,2050,35
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)","Ref grade-2",04/03/2025,8500,8500,8500,15
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,12/03/2025,4583,9010,5652,25
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,01/03/2025,2000,2500,2500,24
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,12/03/2025,900,2900,1400,23
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,14/03/2025,2800,2800,2800,3
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-2",04/03/2025,10000,14500,14200,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,14/03/2025,13800,15000,14500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,26/03/2025,16000,19000,16900,129
+Karnataka,Hassan,Hassan,Raddish,Raddish,FAQ,12/03/2025,1100,1400,1100,161
+Karnataka,Hassan,Hassan,Raddish,Raddish,FAQ,13/03/2025,1800,1900,1850,161
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,26/03/2025,22000,22000,22000,138
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,12/03/2025,1800,2700,2100,85
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,14/03/2025,900,900,900,103
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,01/03/2025,2000,4000,2000,153
+Karnataka,Hassan,Hassan,"Sweet Potato","Sweet Potato",FAQ,12/03/2025,1000,1500,1100,152
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,12/03/2025,2100,3100,2200,157
+Karnataka,Hassan,Hassan,Drumstick,Drumstick,FAQ,12/03/2025,4100,4900,4800,168
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,12/03/2025,1600,2100,1700,154
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,21/04/2025,5252,5252,5252,3
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,21/04/2025,7907,7907,7907,265
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,FAQ,16/04/2025,2000,2000,2000,78
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3000,3000,3000,85
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,05/04/2025,20000,27000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,22/04/2025,25000,25000,25000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,21/04/2025,45,45,45,138
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,FAQ,16/04/2025,2850,2850,2850,157
+Karnataka,Hassan,Hassan,Raddish,Raddish,FAQ,27/02/2025,1400,1800,1400,161
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,28/02/2025,19900,19900,19900,138
+Karnataka,Hassan,Belur,Coconut,Coconut,FAQ,05/02/2025,19000,24000,22000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,06/02/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,15/02/2025,20000,25000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",01/02/2025,20000,30000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",02/02/2025,20000,29000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",04/02/2025,20000,25000,20000,138
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",FAQ,19/02/2025,592,600,592,173
+Karnataka,Hassan,Hassan,Drumstick,Drumstick,FAQ,27/02/2025,5000,6800,5500,168
+Karnataka,Hassan,Hassan,Cucumbar(Kheera),Cucumbar,FAQ,19/02/2025,1700,1900,1800,159
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,28/02/2025,3012,3012,3012,154
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,14/02/2025,13800,14100,13972,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,27/02/2025,14000,14530,14000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,28/02/2025,13800,14640,14045,129
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-1",05/02/2025,14000,14500,14000,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,11/02/2025,7500,7500,7500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,20/02/2025,11000,11000,11000,129
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-1",04/02/2025,8000,12000,12000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,14/02/2025,13700,14200,14200,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,15/02/2025,14100,14325,14325,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",01/02/2025,14000,14600,14600,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,06/02/2025,6000,8000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,"Ref grade-1",04/02/2025,8000,8000,8000,129
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger","Ref grade-1",01/02/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger","Ref grade-1",03/02/2025,1500,1500,1500,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",03/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",05/02/2025,900,2000,900,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,11/02/2025,1000,2000,1800,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,28/02/2025,1000,2000,1500,103
+Karnataka,Hassan,Sakaleshpura,Arecanut(Betelnut/Supari),Red,"Ref grade-1",01/02/2025,31000,31000,31000,140
+Karnataka,Hassan,Arasikere,"Bitter gourd","Bitter Gourd","Ref grade-1",01/02/2025,4000,4000,4000,81
+Karnataka,Hassan,Belur,Tomato,Hybrid,"Ref grade-1",03/02/2025,1000,1000,1000,78
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",05/02/2025,7600,7600,7600,92
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,06/02/2025,2298,2298,2298,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,15/02/2025,2500,2500,2500,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,"Ref grade-1",04/02/2025,2500,2500,2500,2
+Karnataka,Hassan,Arasikere,Ginger(Dry),Dry,FAQ,14/02/2025,8500,8500,8500,27
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,15/02/2025,2100,2100,2100,4
+Karnataka,Hassan,Arasikere,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,18/02/2025,12660,12660,12660,8
+Karnataka,Hassan,Arasikere,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",04/02/2025,11713,11713,11713,8
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,10/02/2025,2000,3500,3000,24
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,06/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,10/02/2025,3300,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,11/02/2025,3000,3000,3000,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,14/02/2025,3300,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,17/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,27/02/2025,3200,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,28/02/2025,2800,5200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-1",04/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,07/02/2025,3000,3000,3000,3
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,14/02/2025,3000,3000,3000,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,21/02/2025,6000,6000,6000,3
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,10/02/2025,2800,2800,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,28/02/2025,2700,2700,2700,30
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,13/02/2025,3000,4000,3500,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,19/02/2025,2000,2400,2200,94
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,24/02/2025,5135,6900,5300,25
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,10/02/2025,1000,1000,1000,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,13/02/2025,2500,2500,2500,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)","Ref grade-1",02/02/2025,2500,2500,2500,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,19/02/2025,1800,2400,1900,23
+Karnataka,Hassan,Arasikere,Capsicum,Capsicum,FAQ,10/02/2025,4000,5000,4000,164
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",02/02/2025,15000,15000,15000,200
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,07/02/2025,2050,2480,2480,4
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-1",03/02/2025,2400,2400,2400,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,10/02/2025,2250,2350,2250,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,13/02/2025,2350,2430,2410,4
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,02/05/2025,900,1800,1000,23
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,02/05/2025,900,1800,1400,24
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,15/05/2025,17000,19880,17000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,28/05/2025,19500,20000,20000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,29/05/2025,19500,19500,19500,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,28/05/2025,10500,10500,10500,129
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,27/05/2025,700,800,700,103
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,06/05/2025,3100,4100,3100,87
+Karnataka,Hassan,Hassan,Rice,Coarse,FAQ,13/06/2025,2100,2250,2200,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,19/06/2025,4000,7200,4100,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,23/06/2025,2500,4500,2560,3
+Karnataka,Hassan,Channarayapatna,Onion,Onion,FAQ,10/06/2025,3000,3000,3000,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,15/07/2025,900,1800,1700,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,17/07/2025,700,1800,700,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,21/07/2025,1158,1800,1500,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,22/07/2025,900,2400,1400,23
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,24/06/2025,1600,1700,1600,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,03/07/2025,900,2400,1600,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,14/07/2025,1163,1163,1163,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,16/07/2025,900,2400,1100,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,21/07/2025,900,1148,1100,24
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,FAQ,04/06/2025,2850,2850,2850,153
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,Local,05/07/2025,2850,2850,2850,157
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,11/06/2025,2000,2400,2000,157
+Karnataka,Hassan,Hassan,"Sweet Potato","Sweet Potato",FAQ,19/06/2025,1000,2600,1800,152
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",Local,02/07/2025,4067,4067,4067,165
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",Local,02/07/2025,2100,3500,2900,87
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,Local,05/07/2025,2000,2000,2000,78
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,Local,18/07/2025,2000,2000,2000,78
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",FAQ,04/06/2025,4550,4550,4550,94
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",FAQ,24/06/2025,4550,4550,4550,94
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)",Local,05/07/2025,4550,4550,4550,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,19/06/2025,3000,6500,3500,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",Local,02/07/2025,2800,3500,3000,94
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,23/06/2025,800,800,800,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",Local,15/07/2025,1000,2000,1500,103
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,FAQ,04/06/2025,3000,3000,3000,85
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,FAQ,24/06/2025,3000,3000,3000,85
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,Local,02/07/2025,3000,3000,3000,85
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,Local,16/07/2025,2100,2500,2400,85
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,02/06/2025,25000,25000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,10/06/2025,28000,28000,28000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,04/07/2025,30000,34000,34000,138
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,Local,02/07/2025,300,600,300,154
+Karnataka,Hassan,Channarayapatna,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,04/06/2025,3000,3000,3000,160
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,12/06/2025,2469,2500,2480,160
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),Local,02/07/2025,1900,2400,1900,160
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,03/06/2025,18500,19900,19000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,05/06/2025,19000,20400,19000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,12/06/2025,20000,22300,22000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,18/06/2025,21000,23100,22000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,20/06/2025,21000,24200,22600,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,24/06/2025,22000,25500,23000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,23/06/2025,11500,15000,15000,129
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,Local,02/07/2025,2000,2000,2000,162
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",Local,02/07/2025,600,1100,800,173
+Karnataka,Hassan,Hassan,Drumstick,Drumstick,Local,16/07/2025,4949,5100,5000,168
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,11/06/2025,600,900,600,154
+Karnataka,Hassan,Hassan,Cucumbar(Kheera),Cucumbar,Local,02/07/2025,4000,4700,4500,159
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,05/07/2025,5450,5500,5500,281
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,09/07/2025,5800,5800,5800,281
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,15/07/2025,4965,6000,6000,281
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,01/07/2025,15000,24000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,04/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,05/07/2025,6100,6900,6200,263
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",Local,05/07/2025,11910,11910,11910,264
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,10/06/2025,11200,11200,11200,260
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,05/07/2025,9793,11000,9800,260
+Karnataka,Hassan,Channarayapatna,Cow,Cow,Local,11/07/2025,35000,50000,45000,212
+Karnataka,Hassan,Channarayapatna,Cow,Cow,Local,18/07/2025,30000,45000,35000,212
+Karnataka,Hassan,Channarayapatna,Ox,Ox,Local,18/07/2025,40000,60000,50000,213
+Karnataka,Hassan,Channarayapatna,"He Buffalo","He Baffelo",Local,11/07/2025,20000,40000,30000,216
+Karnataka,Hassan,Channarayapatna,Bull,Bull,FAQ,20/06/2025,25000,85000,60000,214
+Karnataka,Hassan,Arasikere,Drumstick,Drumstick,"Ref grade-1",01/02/2025,7000,7000,7000,168
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,27/02/2025,3000,4500,3100,94
+Karnataka,Hassan,Arasikere,Raddish,Raddish,"Ref grade-1",01/02/2025,2500,2500,2500,161
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,07/02/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",03/02/2025,20000,22000,20000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,19/02/2025,22,28,25,138
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,15/02/2025,1000,6000,2000,78
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,10/02/2025,10000,14700,10000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,17/02/2025,14000,14000,14000,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,07/02/2025,10439,10439,10439,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,12/02/2025,6000,10665,10665,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,27/02/2025,7500,7500,7500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,06/02/2025,14400,14600,14600,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,16/02/2025,14000,14100,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",05/02/2025,14000,14800,14400,129
+Karnataka,Hassan,Hassan,Copra,other,FAQ,28/02/2025,14670,14670,14670,129
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,15/02/2025,1000,1000,1000,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,24/02/2025,1200,3100,2600,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,28/02/2025,1200,3000,2100,23
+Karnataka,Hassan,Belur,Cauliflower,Local,"Ref grade-1",02/02/2025,2000,2000,2000,34
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,10/02/2025,1500,6000,2000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,10/02/2025,1000,1000,1000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,"Ref grade-1",02/02/2025,1000,1000,1000,78
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,19/02/2025,2100,2200,2100,162
+Karnataka,Hassan,Hassan,"Corriander seed","Coriander Seed",FAQ,28/02/2025,8470,8470,8470,108
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,27/02/2025,1800,2100,1800,35
+Karnataka,Hassan,Channarayapatna,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,4150,4150,4150,114
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",01/02/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",05/02/2025,15000,15000,15000,200
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/02/2025,13000,13000,13000,140
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,27/01/2025,7400,7400,7400,15
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,10/01/2025,2100,4120,4100,2
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,16/01/2025,2120,2500,2120,2
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,27/01/2025,2300,4350,3500,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,"Ref grade-1",31/01/2025,2297,2297,2297,2
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,10/01/2025,2800,2800,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,23/01/2025,3020,3020,3020,30
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,27/01/2025,2000,3000,2000,24
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,01/01/2025,2000,2050,2050,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,16/01/2025,2375,2400,2375,4
+Karnataka,Hassan,Hassan,Maize,Local,"Ref grade-1",30/01/2025,1800,2450,2300,4
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,04/01/2025,3000,5000,4000,153
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,04/01/2025,2500,2500,2500,157
+Karnataka,Hassan,Arasikere,Cabbage,Cabbage,FAQ,18/01/2025,1500,1500,1500,154
+Karnataka,Hassan,Belur,Cabbage,Cabbage,FAQ,19/01/2025,1250,1250,1250,154
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,24/01/2025,900,1000,900,103
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/01/2025,3931,3931,3931,114
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",31/01/2025,4115,4500,4500,114
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,19/01/2025,3000,3000,3000,3
+Karnataka,Hassan,Hassan,Rice,Other,"Ref grade-1",30/01/2025,2900,5400,3115,3
+Karnataka,Hassan,Arasikere,Wheat,Local,FAQ,09/01/2025,3260,3260,3260,1
+Karnataka,Hassan,Belur,"Black pepper",Malabar,FAQ,04/01/2025,39844,39844,39844,38
+Karnataka,Hassan,Belur,"Black pepper",Malabar,FAQ,15/01/2025,36000,59000,36000,38
+Karnataka,Hassan,Belur,"Black pepper",Malabar,FAQ,16/01/2025,40971,40971,40971,38
+Karnataka,Hassan,Belur,"Black pepper",Malabar,FAQ,27/01/2025,37100,40000,39100,38
+Karnataka,Hassan,Belur,"Black pepper",Malabar,"Ref grade-1",30/01/2025,52000,53200,52000,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,27/01/2025,35700,35700,35700,38
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,15/01/2025,1100,1100,1100,23
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,18/01/2025,1000,1000,1000,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,12/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,18/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,26/01/2025,1500,1600,1500,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger","Ref grade-1",30/01/2025,1000,1500,1000,103
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,01/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,10/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,22/01/2025,15000,29000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,24/01/2025,19800,20000,19800,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,22/01/2025,21500,36000,24000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,24/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,19/02/2025,9000,10000,9000,25
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,27/02/2025,5070,10000,8000,25
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/02/2025,7100,7100,7100,92
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Other,FAQ,15/02/2025,26800,26800,26800,38
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,06/02/2025,2700,2800,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,17/02/2025,3050,3100,3050,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,19/02/2025,3050,3200,3050,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,"Ref grade-1",01/02/2025,3000,3000,3000,30
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,FAQ,06/02/2025,3150,3150,3150,30
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",FAQ,28/02/2025,1984,1984,1984,173
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal","Ref grade-1",03/02/2025,11200,11200,11200,264
+Karnataka,Hassan,Arasikere,"Green Gram Dal (Moong Dal)","Green Gram Dal","Ref grade-1",04/02/2025,9582,9582,9582,265
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,19/02/2025,1000,1800,1400,153
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,27/02/2025,1500,1800,1600,154
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",FAQ,27/02/2025,11644,11644,11644,165
+Karnataka,Hassan,Hassan,"Green Peas","Green Peas",FAQ,11/02/2025,6220,6220,6220,50
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,13/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,20/02/2025,3200,3300,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,21/02/2025,4402,4402,4402,296
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,19/02/2025,1800,3000,2900,85
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,10/02/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,10/02/2025,1500,4200,1500,157
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,"Ref grade-1",01/02/2025,2000,2000,2000,157
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,"Ref grade-1",03/02/2025,2850,2850,2850,157
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,19/02/2025,2000,2400,2200,157
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,11/02/2025,3900,7200,4679,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,19/02/2025,2700,2700,2700,3
+Karnataka,Hassan,Sakaleshpura,Rice,"Kachha Basmati",FAQ,06/02/2025,3634,3634,3634,3
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,15/02/2025,2000,4000,3000,87
+Karnataka,Hassan,Belur,"Green Chilli","Green Chilly",FAQ,13/02/2025,2000,2000,2000,87
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,06/02/2025,2300,2300,2300,103
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,15/02/2025,2000,2000,2000,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,07/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,10/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",02/02/2025,900,1000,900,103
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-1",04/02/2025,2100,2100,2100,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,05/02/2025,2250,2350,2250,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,11/02/2025,2000,2600,2350,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,17/02/2025,2100,2550,2300,4
+Karnataka,Hassan,Arasikere,"Corriander seed","Coriander Seed",FAQ,06/01/2025,5780,5780,5780,108
+Karnataka,Hassan,Arasikere,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,18/01/2025,7000,7000,7000,160
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,22/01/2025,14300,14300,14300,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,24/01/2025,13500,14100,13898,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,27/01/2025,14100,14500,14500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,03/01/2025,6600,6600,6600,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,13/01/2025,7500,12000,10500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,17/01/2025,14000,14400,14400,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,18/01/2025,13900,18000,14200,129
+Karnataka,Hassan,Arasikere,"Bunch Beans","Bunch Beans",FAQ,27/01/2025,6000,6000,6000,224
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/01/2025,7250,7250,7250,92
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,5800,5800,5800,49
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,27/01/2025,1000,1000,1000,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,"Ref grade-1",30/01/2025,2500,2500,2500,78
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,04/01/2025,3000,3000,3000,296
+Karnataka,Hassan,Arasikere,"Bitter gourd","Bitter Gourd",FAQ,04/01/2025,2000,2000,2000,81
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/01/2025,8000,8000,8000,92
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,24/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,"Ref grade-1",30/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Hassan,Cauliflower,Local,FAQ,28/01/2025,1200,2100,1800,34
+Karnataka,Hassan,Hassan,Cauliflower,Local,"Ref grade-1",30/01/2025,2998,2998,2998,34
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,08/01/2025,14400,14400,14400,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,30/01/2025,13800,13800,13800,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,17/01/2025,11000,12000,11000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,22/01/2025,14000,16290,14200,129
+Karnataka,Hassan,Arasikere,"Green Gram Dal (Moong Dal)","Green Gram Dal","Ref grade-2",04/03/2025,9828,9828,9828,265
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,12/03/2025,3000,3400,3100,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,13/03/2025,2900,4100,3500,153
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-2",04/03/2025,6050,6050,6050,49
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,01/03/2025,1000,1000,1000,23
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",FAQ,13/03/2025,1200,2400,2100,173
+Karnataka,Hassan,Hassan,Cucumbar(Kheera),Cucumbar,FAQ,12/03/2025,4000,4800,4500,159
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-2",03/03/2025,1700,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-2",04/03/2025,2200,2500,2200,296
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-2",03/03/2025,14300,16100,16100,129
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-2",03/03/2025,9700,9700,9700,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,15/03/2025,8000,8000,8000,129
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,21/04/2025,6917,6917,6917,263
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,21/04/2025,11942,11942,11942,264
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,18/04/2025,17000,17100,17100,129
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,21/04/2025,1612,2500,2000,153
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,24/04/2025,33,45,33,138
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,FAQ,16/04/2025,2000,2000,2000,161
+Karnataka,Hassan,Arasikere,Wheat,Local,"Ref grade-2",03/03/2025,3350,3725,3350,1
+Karnataka,Hassan,Hassan,Cauliflower,Local,FAQ,12/03/2025,1800,2400,1900,34
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,01/03/2025,2000,6000,3500,94
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,26/05/2025,12100,12100,12100,140
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,11/06/2025,5100,6800,6000,25
+Karnataka,Hassan,Hassan,Garlic,Garlic,Local,16/07/2025,4900,6500,5400,25
+Karnataka,Hassan,Hassan,"Black pepper",Malabar,FAQ,10/06/2025,30000,30000,30000,38
+Karnataka,Hassan,Hassan,Onion,Other,Local,05/07/2025,1100,2100,1800,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,16/07/2025,900,1800,1400,23
+Karnataka,Hassan,Channarayapatna,Potato,Local,FAQ,24/06/2025,2000,2000,2000,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,23/06/2025,900,1600,1400,24
+Karnataka,Hassan,Channarayapatna,"Green Chilli","Green Chilly",FAQ,24/06/2025,2850,2850,2850,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",Local,16/07/2025,300,3600,3500,87
+Karnataka,Hassan,Hassan,Ginger(Dry),Other,FAQ,12/06/2025,12000,12000,12000,27
+Karnataka,Hassan,Hassan,Rice,Other,Local,22/07/2025,2500,6500,2500,3
+Karnataka,Hassan,Hassan,Garlic,Garlic,Local,15/07/2025,4900,5400,5000,25
+Karnataka,Hassan,Hassan,Wheat,Other,FAQ,10/06/2025,3250,3850,3500,1
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,09/06/2025,3700,3700,3700,74
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,10/06/2025,600,1800,1100,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,11/06/2025,900,2100,1900,24
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,19/06/2025,1900,2100,1900,85
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,Local,02/07/2025,1200,1800,1200,85
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,FAQ,04/06/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,FAQ,19/06/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,Local,16/07/2025,1000,1800,1200,78
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",Local,03/07/2025,2900,4500,3100,94
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,11/06/2025,1600,1800,1600,35
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,19/06/2025,100,1500,1500,35
+Karnataka,Hassan,Hassan,Brinjal,Other,Local,03/07/2025,1400,1800,1500,35
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",Local,16/07/2025,4100,5400,4300,94
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,Local,02/07/2025,2000,2000,2000,161
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,Local,05/07/2025,2000,2000,2000,161
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,16/06/2025,21000,23600,21000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,19/06/2025,23000,23000,23000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,23/06/2025,22600,22600,22600,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,12/06/2025,10000,10000,10000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,Local,01/07/2025,10000,10000,10000,129
+Karnataka,Hassan,Hassan,Drumstick,Drumstick,Local,02/07/2025,5000,6500,5000,168
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,Local,17/07/2025,600,600,600,154
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,24/06/2025,25000,30000,26000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,28/06/2025,20000,30000,26000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,01/07/2025,26000,26000,26000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,15/07/2025,20000,34500,25000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,10/06/2025,15,28,25,138
+Karnataka,Hassan,Hassan,Arecanut(Betelnut/Supari),Other,FAQ,19/06/2025,20179,20179,20179,140
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,07/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,14/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,16/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",Local,04/07/2025,800,800,800,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",Local,15/07/2025,800,800,800,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,10/06/2025,1000,2000,1800,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,11/06/2025,1000,1500,1400,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",Local,14/07/2025,1000,2000,1500,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",Local,16/07/2025,1000,2000,1500,103
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,Local,02/07/2025,2850,2850,2850,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,Local,16/07/2025,2400,2600,2500,153
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,11/06/2025,1800,2400,1800,160
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),Local,17/07/2025,2000,2500,2400,160
+Karnataka,Hassan,Channarayapatna,Calf,Other,Local,04/07/2025,15000,25000,20000,215
+Karnataka,Hassan,Channarayapatna,Calf,Other,Local,11/07/2025,3000,7000,4000,215
+Karnataka,Hassan,Channarayapatna,"She Buffalo","She Baffelo",FAQ,27/06/2025,25000,55000,30000,217
+Karnataka,Hassan,Channarayapatna,"She Buffalo","She Baffelo",Local,18/07/2025,20000,30000,25000,217
+Karnataka,Hassan,Channarayapatna,Ox,Ox,Local,11/07/2025,30000,50000,40000,213
+Karnataka,Hassan,Channarayapatna,Sheep,"Sheep Small",FAQ,24/06/2025,2500,18000,10000,218
+Karnataka,Hassan,Channarayapatna,"He Buffalo","He Baffelo",FAQ,27/06/2025,5000,20000,10000,216
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,14/07/2025,6975,6975,6975,263
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,13/06/2025,8400,8600,8500,265
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,14/07/2025,10016,10016,10016,260
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,14/07/2025,5000,5000,5000,281
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,18/07/2025,5200,5200,5200,281
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,09/01/2025,11800,11800,11800,264
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,20/01/2025,9800,14800,9800,260
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,29/01/2025,9800,9800,9800,260
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,13/02/2025,2500,2500,2500,2
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,21/02/2025,2500,3100,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,"Ref grade-1",04/02/2025,2800,2800,2800,30
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,FAQ,07/02/2025,3000,3000,3000,30
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,FAQ,11/02/2025,2800,3900,3400,30
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,06/02/2025,35486,64000,40000,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,26/02/2025,35000,36100,35000,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,28/02/2025,35000,41688,35000,38
+Karnataka,Hassan,Channarayapatna,Maize,Local,"Ref grade-1",02/02/2025,1500,1500,1500,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,28/02/2025,2100,2375,2300,4
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",FAQ,19/02/2025,3000,3600,3400,165
+Karnataka,Hassan,Arasikere,Carrot,Carrot,"Ref grade-1",01/02/2025,2000,5000,2000,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,27/02/2025,2000,3100,2800,153
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,18/02/2025,1200,1200,1200,23
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,10/02/2025,2000,6500,2000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,06/02/2025,2500,2500,2500,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)","Ref grade-1",02/02/2025,3000,4000,3000,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,17/02/2025,3000,3500,3100,94
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,13/02/2025,4000,4000,4000,4
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-1",01/02/2025,2350,2410,2410,4
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-1",05/02/2025,2100,2100,2100,4
+Karnataka,Hassan,Hassan,Thogrikai,Thogarikai,FAQ,27/02/2025,1800,2900,2500,170
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-1",05/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,Cabbage,Cabbage,FAQ,10/02/2025,2000,2000,2000,154
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",30/01/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",31/01/2025,15000,15000,15000,200
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,09/01/2025,3200,3326,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,03/01/2025,3300,3300,3300,296
+Karnataka,Hassan,Sakaleshpura,"Tamarind Fruit","Tamarind Fruit","Ref grade-1",04/02/2025,6000,6000,6000,261
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/02/2025,3847,3847,3847,114
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,11/02/2025,12736,12736,12736,264
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,24/02/2025,11381,11381,11381,264
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,24/02/2025,7150,7150,7150,265
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,11/02/2025,11300,11300,11300,260
+Karnataka,Hassan,Hassan,Wheat,Other,"Ref grade-1",31/01/2025,3900,4100,3900,1
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa","Ref grade-1",31/01/2025,3000,3000,3000,3
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,FAQ,18/01/2025,3000,3000,3000,30
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,FAQ,28/01/2025,3000,3600,3500,30
+Karnataka,Hassan,Arasikere,Raddish,Raddish,FAQ,27/01/2025,2500,2500,2500,161
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,07/01/2025,13500,14400,13863,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,09/01/2025,14000,14000,14000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,13/01/2025,14170,14170,14170,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,29/01/2025,8000,9500,9500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,15/01/2025,14000,15700,14400,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",30/01/2025,13500,16840,14000,129
+Karnataka,Hassan,Hassan,Copra,other,"Ref grade-1",31/01/2025,14364,14364,14364,129
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,05/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Pudi,FAQ,27/01/2025,8837,8837,8837,140
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",31/01/2025,11500,11500,11500,140
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,07/01/2025,25000,25000,25000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,13/01/2025,15000,30000,30000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,20/01/2025,19000,29000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,30/01/2025,19000,29000,19000,138
+Karnataka,Hassan,Belur,Coconut,Coconut,FAQ,01/01/2025,19000,27000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,17/01/2025,20000,25000,22000,138
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,06/02/2025,14000,14000,14000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,11/02/2025,14000,14000,14000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,18/02/2025,13500,14475,13800,129
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-1",03/02/2025,14000,14000,14000,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,17/02/2025,8500,11600,11600,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,07/02/2025,14000,14000,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,11/02/2025,14000,16640,14250,129
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,11/02/2025,19900,33000,19900,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,15/02/2025,25000,35000,35000,138
+Karnataka,Hassan,Arasikere,Thondekai,Thondekai,FAQ,15/02/2025,7000,7000,7000,162
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/02/2025,7200,7200,7200,92
+Karnataka,Hassan,Hassan,Wheat,Other,FAQ,11/02/2025,3850,3850,3850,1
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,"Ref grade-1",03/02/2025,2000,2000,2000,161
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,14/02/2025,20000,35000,35000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,20/02/2025,28500,43010,34000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,28/02/2025,35,35,35,138
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,06/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,11/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",04/02/2025,900,900,900,103
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,19/02/2025,13500,13500,13500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,14/02/2025,8600,8600,8600,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,10/02/2025,14000,17000,14500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",03/02/2025,14000,14400,14000,129
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,13/02/2025,1000,1000,1000,78
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,"Ref grade-1",03/02/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,27/02/2025,2000,2600,2100,160
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,19/02/2025,2000,2500,2100,154
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",04/02/2025,15000,15000,15000,200
+Karnataka,Hassan,Arasikere,Potato,Local,"Ref grade-1",01/02/2025,2500,3000,2500,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,19/02/2025,1000,1400,1100,24
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,"Ref grade-1",02/02/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,Drumstick,Drumstick,FAQ,01/03/2025,7000,7000,7000,168
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,15/03/2025,20000,34000,20000,138
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",FAQ,12/03/2025,4100,4800,4300,165
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,13/03/2025,1900,2600,2100,87
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,01/03/2025,1000,6500,1000,78
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,12/03/2025,1000,2100,1800,103
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-2",04/03/2025,4000,4000,4000,114
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-2",04/03/2025,9100,9100,9100,129
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,FAQ,12/03/2025,2100,2300,2100,162
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/01/2025,6500,7100,7100,92
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/01/2025,6000,6000,6000,49
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,27/01/2025,1000,5000,1000,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,28/01/2025,2100,3500,2900,87
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,03/01/2025,1000,1000,1000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,20/01/2025,1000,1000,1000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,"Ref grade-1",30/01/2025,1500,1500,1500,78
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,"Ref grade-1",30/01/2025,3000,3000,3000,85
+Karnataka,Hassan,Belur,Cabbage,Cabbage,FAQ,27/01/2025,1500,1500,1500,154
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,27/01/2025,1000,1000,1000,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,"Ref grade-1",30/01/2025,2615,2615,2615,153
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)","Ref grade-1",30/01/2025,4762,4762,4762,165
+Karnataka,Hassan,Arasikere,Gur(Jaggery),Other,FAQ,29/01/2025,3700,3700,3700,74
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,5900,5900,5900,49
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,05/01/2025,2000,2000,2000,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,23/01/2025,2500,2500,2500,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)","Ref grade-1",30/01/2025,2500,2500,2500,23
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,27/01/2025,2000,6500,2000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,12/01/2025,3000,3000,3000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)","Ref grade-1",30/01/2025,2590,3000,2590,94
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,28/01/2025,2100,2100,2100,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,23/01/2025,2350,2400,2350,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2250,2460,2375,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,27/01/2025,1700,2440,2300,4
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,24/01/2025,3530,4514,4495,2
+Karnataka,Hassan,Hassan,Paddy(Dhan)(Common),Paddy,"Ref grade-1",30/01/2025,2100,2300,2100,2
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,03/01/2025,7500,9000,9000,15
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,09/01/2025,8200,8200,8200,15
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,07/01/2025,2050,2375,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,09/01/2025,2050,2200,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,13/01/2025,2050,2425,2200,4
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,19/01/2025,1200,1200,1200,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,22/01/2025,900,1000,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,29/01/2025,900,900,900,103
+Karnataka,Hassan,Belur,"Knool Khol","Knool Khol",FAQ,23/01/2025,1500,1500,1500,177
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,4200,4778,4400,114
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,03/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,10/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,20/01/2025,1000,1100,1000,103
+Karnataka,Hassan,Channarayapatna,Potato,Local,FAQ,24/04/2025,2000,2000,2000,24
+Karnataka,Hassan,Hassan,Coriander(Leaves),Local,FAQ,21/04/2025,1000,1300,1000,43
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,24/04/2025,1000,2500,1500,25
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,24/04/2025,2800,2800,2800,3
+Karnataka,Hassan,Hassan,Wheat,Other,FAQ,21/04/2025,3536,3536,3536,1
+Karnataka,Hassan,Hassan,Wheat,Other,FAQ,24/04/2025,2000,2829,2400,1
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,04/04/2025,17000,18300,18300,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,05/04/2025,17800,19450,18300,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,16/04/2025,17500,17500,17500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,22/04/2025,17500,18700,17500,129
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,FAQ,24/04/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,24/04/2025,4843,4843,4843,94
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,24/04/2025,800,1000,800,103
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,24/04/2025,1900,2600,2100,23
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,16/04/2025,24000,24000,24000,138
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,02/05/2025,1000,1000,1000,157
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,22/05/2025,17800,18500,17800,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,22/05/2025,7000,8000,8000,129
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,02/05/2025,2000,4100,2800,153
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,06/05/2025,2000,2000,2000,24
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,28/05/2025,800,800,800,103
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,11/06/2025,2000,2900,2100,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",Local,17/07/2025,3000,3600,3500,87
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",Local,16/07/2025,1842,2400,2400,165
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,Local,22/07/2025,2500,2500,2500,85
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,Local,03/07/2025,300,400,300,154
+Karnataka,Hassan,Hassan,Drumstick,Drumstick,FAQ,11/06/2025,4900,6500,6000,168
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,20/06/2025,800,1250,1250,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,25/06/2025,800,800,800,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",Local,17/07/2025,1250,1250,1250,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,13/06/2025,1000,2000,1500,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",Local,02/07/2025,1000,1500,1000,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",Local,03/07/2025,1000,1500,1000,103
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,19/06/2025,2000,2500,2100,160
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),Local,03/07/2025,2287,2800,2300,160
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,04/06/2025,18000,20600,20600,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,10/06/2025,20000,22400,22350,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,11/06/2025,20000,22356,20000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,19/06/2025,11500,11500,11500,129
+Karnataka,Hassan,Channarayapatna,Copra,other,Local,07/07/2025,10000,10000,10000,129
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,FAQ,04/06/2025,2000,2000,2000,161
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,Local,18/07/2025,2000,2000,2000,161
+Karnataka,Hassan,Hassan,Raddish,Raddish,FAQ,11/06/2025,2000,2100,2100,161
+Karnataka,Hassan,Hassan,Raddish,Raddish,Local,02/07/2025,1400,1900,1500,161
+Karnataka,Hassan,Hassan,Raddish,Raddish,Local,03/07/2025,1400,1900,1500,161
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,Local,16/07/2025,3480,3600,3500,162
+Karnataka,Hassan,Hassan,"Corriander seed","Coriander Seed",Local,05/07/2025,5000,5800,5500,108
+Karnataka,Hassan,Hassan,"Corriander seed","Coriander Seed",Local,21/07/2025,6200,7500,6200,108
+Karnataka,Hassan,Hassan,Rice,Other,Local,05/07/2025,2500,2600,2550,3
+Karnataka,Hassan,Channarayapatna,Potato,Local,Local,02/07/2025,2000,2000,2000,24
+Karnataka,Hassan,Channarayapatna,Potato,Local,Local,18/07/2025,2000,2000,2000,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,13/06/2025,900,1600,1500,24
+Karnataka,Hassan,Hassan,Wheat,Other,FAQ,13/06/2025,3600,4500,3800,1
+Karnataka,Hassan,Hassan,Wheat,Other,Local,15/07/2025,3400,3800,3500,1
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,30/06/2025,3700,3700,3700,74
+Karnataka,Hassan,Hassan,Gur(Jaggery),Other,Local,03/07/2025,3800,4200,3800,74
+Karnataka,Hassan,Hassan,Brinjal,Other,Local,02/07/2025,1600,2100,1900,35
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,12/06/2025,600,1600,1400,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,19/06/2025,900,1600,1000,24
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,11/06/2025,3753,6800,3800,94
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,22/07/2025,24500,34500,34500,138
+Karnataka,Hassan,Hassan,Coconut,Other,Local,05/07/2025,35,48,35,138
+Karnataka,Hassan,Hassan,"Dry Chillies",Other,Local,21/07/2025,4873,5600,5000,132
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,Local,02/07/2025,2850,2850,2850,157
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,FAQ,24/06/2025,2850,2850,2850,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,Local,03/07/2025,2500,3000,2500,153
+Karnataka,Hassan,Hassan,"Sweet Potato","Sweet Potato",Local,02/07/2025,1000,1000,1000,152
+Karnataka,Hassan,Hassan,Seemebadnekai,Seemebadanekai,Local,16/07/2025,1000,1100,1000,176
+Karnataka,Hassan,Channarayapatna,"She Buffalo","She Baffelo",FAQ,20/06/2025,25000,55000,35000,217
+Karnataka,Hassan,Channarayapatna,"She Buffalo","She Baffelo",Local,04/07/2025,30000,45000,35000,217
+Karnataka,Hassan,Channarayapatna,Sheep,"Sheep Small",FAQ,30/06/2025,5000,10000,8000,218
+Karnataka,Hassan,Channarayapatna,Ox,Ox,FAQ,20/06/2025,35000,65000,45000,213
+Karnataka,Hassan,Channarayapatna,Bull,Bull,Local,04/07/2025,40000,70000,55000,214
+Karnataka,Hassan,Channarayapatna,Bull,Bull,Local,11/07/2025,25000,50000,35000,214
+Karnataka,Hassan,Channarayapatna,Bull,Bull,Local,18/07/2025,40000,60000,55000,214
+Karnataka,Hassan,Channarayapatna,Calf,Other,FAQ,20/06/2025,3000,10000,7000,215
+Karnataka,Hassan,Channarayapatna,Calf,Other,Local,18/07/2025,6000,15000,9000,215
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,05/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,06/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,09/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,17/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,21/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,22/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,Goat,Goat,FAQ,30/06/2025,8000,15000,10000,219
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,19/06/2025,10106,10106,10106,260
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,10/06/2025,7100,7100,7100,263
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,13/06/2025,10109,12500,11500,264
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,19/06/2025,10368,13000,12000,264
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,19/06/2025,5807,9500,5809,265
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,22/07/2025,5200,5300,5200,281
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,10/01/2025,2800,2800,2800,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,24/01/2025,2200,3300,3280,296
+Karnataka,Hassan,Arasikere,Turmeric,"Turmeric Stick",FAQ,10/01/2025,12150,12150,12150,39
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,04/01/2025,1500,1500,1500,78
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,18/01/2025,1000,1000,1000,78
+Karnataka,Hassan,Arasikere,Tomato,Tomato,FAQ,27/01/2025,2000,5000,2000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,05/01/2025,1500,2000,1600,78
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,04/01/2025,2000,3500,2000,87
+Karnataka,Hassan,Belur,Cauliflower,Local,"Ref grade-1",30/01/2025,1000,2000,1000,34
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)","Ref grade-1",01/02/2025,3000,6500,4000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,10/02/2025,2500,2593,2500,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,28/02/2025,2778,2778,2778,94
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,17/02/2025,3000,4500,3100,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,27/02/2025,800,3000,1800,23
+Karnataka,Hassan,Arasikere,Raddish,Raddish,FAQ,10/02/2025,5000,5000,5000,161
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,19/02/2025,2000,2500,2400,160
+Karnataka,Hassan,Arasikere,"Corriander seed","Coriander Seed",FAQ,27/02/2025,5450,5450,5450,108
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,19/02/2025,3200,3200,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-1",03/02/2025,4100,4100,4100,296
+Karnataka,Hassan,Arasikere,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,11/02/2025,12667,12667,12667,8
+Karnataka,Hassan,Channarayapatna,"Bhindi(Ladies Finger)",Bhindi,"Ref grade-1",03/02/2025,3000,3000,3000,85
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,19/02/2025,1800,2600,2300,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,27/02/2025,1700,2100,1800,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,28/02/2025,3125,3125,3125,87
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,10/02/2025,1000,2500,1000,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,13/02/2025,1500,1500,1500,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,19/02/2025,1000,1500,1000,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,24/02/2025,1000,1500,1200,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,27/02/2025,1000,1800,1500,103
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,06/02/2025,29000,29000,29000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,10/02/2025,19000,25000,20000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,17/02/2025,24000,30000,24000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,21/02/2025,28000,28000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,"Ref grade-1",03/02/2025,19000,29000,22000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,11/02/2025,25000,31000,31000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,24/02/2025,20,28,25,138
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,20/02/2025,14100,14500,14500,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,21/02/2025,14100,14100,14100,129
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-1",01/02/2025,14000,14100,14000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-1",04/02/2025,14200,14200,14200,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,19/02/2025,7500,7700,7500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,28/02/2025,8100,11000,11000,129
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-1",01/02/2025,7500,8000,8000,129
+Karnataka,Hassan,Arasikere,Copra,other,"Ref grade-1",03/02/2025,8000,10000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,"Ref grade-1",04/02/2025,14000,14500,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,15/02/2025,8500,8500,8500,129
+Karnataka,Hassan,Arasikere,Tomato,Tomato,"Ref grade-1",01/02/2025,1000,2500,1000,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,FAQ,19/02/2025,1500,1800,1500,78
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,21/02/2025,2500,2500,2500,85
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,20/02/2025,7056,7056,7056,92
+Karnataka,Hassan,Arasikere,Sajje,Sajje,FAQ,13/02/2025,3800,3800,3800,271
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,03/01/2025,2100,2375,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,04/01/2025,2050,2300,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,17/01/2025,2050,2200,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,20/01/2025,2050,2050,2050,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,23/01/2025,2000,2350,2350,4
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-1",31/01/2025,2100,2100,2100,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,07/01/2025,2100,2460,2375,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,15/01/2025,2375,2400,2375,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,2250,2460,2375,4
+Karnataka,Hassan,Hassan,Maize,Local,"Ref grade-1",31/01/2025,1700,2450,2350,4
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger",FAQ,04/01/2025,1000,1000,1000,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,11/01/2025,1600,1600,1600,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,15/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,27/01/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,28/01/2025,900,1000,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",30/01/2025,900,1000,900,103
+Karnataka,Hassan,Arasikere,"Bitter gourd","Bitter Gourd",FAQ,18/01/2025,2500,6500,2500,81
+Karnataka,Hassan,Arasikere,"Bitter gourd","Bitter Gourd",FAQ,27/01/2025,4500,4500,4500,81
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,18/01/2025,2000,5000,3000,157
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,27/01/2025,2500,2500,2500,157
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,04/01/2025,2500,6500,5000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,20/01/2025,3000,4000,3000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,23/01/2025,2000,2500,2000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,26/01/2025,2500,3000,2500,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,27/01/2025,2000,2000,2000,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)","Ref grade-1",30/01/2025,2990,6500,3100,94
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,18/01/2025,1000,5000,1000,153
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,20/01/2025,2924,2924,2924,30
+Karnataka,Hassan,Channarayapatna,"Ragi (Finger Millet)",Local,FAQ,19/01/2025,3240,3240,3240,30
+Karnataka,Hassan,Hassan,Potato,Potato,"Ref grade-1",30/01/2025,1300,2508,1400,24
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,"Ref grade-1",30/01/2025,35000,63997,47487,38
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/01/2025,6100,6100,6100,49
+Karnataka,Hassan,Arasikere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,5000,5000,5000,49
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,02/01/2025,2000,2375,2050,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,06/01/2025,2050,2050,2050,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,15/01/2025,2000,2200,2200,4
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,28/01/2025,2900,2900,2900,3
+Karnataka,Hassan,Channarayapatna,Paddy(Dhan)(Common),"Hassan Dappa",FAQ,07/02/2025,2200,2200,2200,2
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,11/02/2025,3100,3100,3100,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,13/02/2025,2800,2800,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,27/02/2025,2700,3100,2700,30
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa","Ref grade-1",03/02/2025,3000,3000,3000,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,28/02/2025,5800,5800,5800,3
+Karnataka,Hassan,Arasikere,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,06/01/2025,10300,10950,10300,263
+Karnataka,Hassan,Arasikere,Onion,Onion,FAQ,27/01/2025,5000,5000,5000,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,12/01/2025,2500,3000,2500,23
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,20/01/2025,4500,4500,4500,23
+Karnataka,Hassan,Hassan,Onion,Other,"Ref grade-1",30/01/2025,2741,2741,2741,23
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/01/2025,7500,8325,8275,92
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,10/01/2025,7700,7700,7700,92
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/01/2025,6600,7000,7000,92
+Karnataka,Hassan,Arasikere,Cotton,"Varalakshmi  (Ginned)",FAQ,18/01/2025,7100,7100,7100,15
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,FAQ,04/01/2025,2125,2250,2140,2
+Karnataka,Hassan,Belur,Gur(Jaggery),Achhu,FAQ,16/01/2025,3500,3500,3500,74
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,17/01/2025,3700,3700,3700,74
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,27/01/2025,3700,3700,3700,74
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,07/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,20/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/01/2025,7000,7500,7000,92
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,15/01/2025,19900,32000,19900,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,18/01/2025,34000,34000,34000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,27/01/2025,19000,30000,23000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,18/01/2025,20000,31000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,19/01/2025,20000,25000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,27/01/2025,25000,25000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,28/01/2025,20000,29500,20000,138
+Karnataka,Hassan,Hassan,Coconut,Other,"Ref grade-1",30/01/2025,30,30,30,138
+Karnataka,Hassan,Hassan,Raddish,Raddish,"Ref grade-1",30/01/2025,2000,2100,2000,161
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,03/01/2025,14100,14550,14168,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,28/01/2025,13500,13830,13689,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,15/01/2025,7500,12100,10000,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,22/01/2025,7000,10785,10785,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,23/01/2025,10934,10934,10934,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,27/01/2025,9500,11800,11000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,16/01/2025,14100,14600,14400,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,17/01/2025,8000,8000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,28/01/2025,8000,8000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,"Ref grade-1",30/01/2025,7000,8000,7000,129
+Karnataka,Hassan,Hassan,Copra,other,"Ref grade-1",30/01/2025,14336,14336,14336,129
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/01/2025,13000,13000,13000,140
+Karnataka,Hassan,Belur,"Knool Khol","Knool Khol",FAQ,19/01/2025,1300,2000,1300,177
+Karnataka,Hassan,Belur,"Knool Khol","Knool Khol",FAQ,27/01/2025,1000,1000,1000,177
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,"Ref grade-1",31/01/2025,1100,1400,1100,154
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,03/01/2025,2000,2000,2000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,12/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,22/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,27/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,10/02/2025,3033,3033,3033,153
+Karnataka,Hassan,Arasikere,"Bunch Beans","Bunch Beans","Ref grade-1",01/02/2025,6000,6000,6000,224
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,15/02/2025,2000,2500,2000,24
+Karnataka,Hassan,Channarayapatna,Potato,Local,"Ref grade-1",03/02/2025,2000,2000,2000,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,27/02/2025,1200,2600,2300,24
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,18/02/2025,2450,2450,2450,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,21/02/2025,2100,2500,2500,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,21/02/2025,2525,2525,2525,4
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,27/02/2025,1700,2450,2100,4
+Karnataka,Hassan,Belur,Paddy(Dhan)(Common),Paddy,"Ref grade-1",01/02/2025,2350,2350,2350,2
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,4312,4377,4312,114
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,15/02/2025,2000,2500,2000,157
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",FAQ,27/02/2025,1500,1500,1500,173
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,06/02/2025,1000,1000,1000,159
+Karnataka,Hassan,Arasikere,"Bhindi(Ladies Finger)",Bhindi,FAQ,01/03/2025,4000,4000,4000,85
+Karnataka,Hassan,Hassan,"Bitter gourd","Bitter Gourd",FAQ,12/03/2025,1400,1561,1450,81
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,01/03/2025,14000,18000,18000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,15/03/2025,14600,15200,15200,129
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,13/03/2025,3000,4500,3100,94
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,12/03/2025,900,1800,1100,24
+Karnataka,Hassan,Arasikere,Maize,Local,"Ref grade-2",03/03/2025,2500,2500,2500,4
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)","Ref grade-2",03/03/2025,9800,12800,11400,260
+Karnataka,Hassan,Arasikere,"Green Gram Dal (Moong Dal)","Green Gram Dal","Ref grade-2",03/03/2025,9650,9650,9650,265
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal","Ref grade-2",03/03/2025,10149,11428,10149,264
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,14/03/2025,20000,20000,20000,138
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,01/03/2025,3000,3000,3000,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,"Ref grade-2",04/03/2025,2700,3000,2800,30
+Karnataka,Hassan,Arasikere,Cabbage,Cabbage,FAQ,01/03/2025,2000,2000,2000,154
+Karnataka,Hassan,Arasikere,Beetroot,Beetroot,FAQ,01/03/2025,1000,2000,2000,157
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,21/04/2025,5722,5722,5722,260
+Karnataka,Hassan,Channarayapatna,Potato,Local,FAQ,16/04/2025,2000,2000,2000,24
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,24/04/2025,38000,38000,38000,138
+Karnataka,Hassan,Hassan,"Green Peas","Green Peas",FAQ,24/04/2025,4510,4510,4510,50
+Karnataka,Hassan,Channarayapatna,Onion,Onion,FAQ,24/04/2025,3000,3000,3000,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,21/04/2025,600,1200,800,23
+Karnataka,Hassan,Hassan,"Corriander seed","Coriander Seed",FAQ,21/04/2025,5250,5250,5250,108
+Karnataka,Hassan,Hassan,"Corriander seed","Coriander Seed",FAQ,24/04/2025,6500,7629,7629,108
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,02/05/2025,1900,1900,1900,35
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,FAQ,02/05/2025,600,780,600,154
+Karnataka,Hassan,Hassan,Raddish,Raddish,FAQ,02/05/2025,1400,1900,1400,161
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,27/05/2025,19200,20300,19200,129
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,02/05/2025,3636,3636,3636,94
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,02/05/2025,7000,7100,7000,87
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,09/06/2025,2630,2630,2630,3
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,29/06/2025,2500,2500,2500,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,13/06/2025,4448,4700,4600,3
+Karnataka,Hassan,Hassan,Rice,Other,Local,03/07/2025,2500,2600,2550,3
+Karnataka,Hassan,Hassan,Rice,Other,Local,15/07/2025,2500,2800,2600,3
+Karnataka,Hassan,Hassan,Rice,Other,Local,21/07/2025,2600,3500,2600,3
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,10/06/2025,1800,2100,1900,35
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,12/06/2025,7500,7500,7500,25
+Karnataka,Hassan,Hassan,Garlic,Garlic,Local,02/07/2025,450,5372,5372,25
+Karnataka,Hassan,Channarayapatna,Potato,Local,FAQ,04/06/2025,2000,2000,2000,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,05/07/2025,700,1800,800,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,17/07/2025,900,2400,1400,24
+Karnataka,Hassan,Hassan,Potato,Potato,Local,22/07/2025,1179,1900,1800,24
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,11/06/2025,951,2100,1100,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,03/07/2025,800,1800,1500,23
+Karnataka,Hassan,Hassan,Onion,Other,Local,14/07/2025,1578,1578,1578,23
+Karnataka,Hassan,Hassan,Cauliflower,Local,Local,02/07/2025,1800,3100,2900,34
+Karnataka,Hassan,Channarayapatna,Goat,Goat,FAQ,24/06/2025,3000,16000,12000,219
+Karnataka,Hassan,Channarayapatna,Calf,Other,FAQ,27/06/2025,3000,15000,8000,215
+Karnataka,Hassan,Channarayapatna,"She Buffalo","She Baffelo",Local,11/07/2025,40000,60000,50000,217
+Karnataka,Hassan,Channarayapatna,Cow,Cow,FAQ,27/06/2025,30000,50000,45000,212
+Karnataka,Hassan,Channarayapatna,Ox,Ox,Local,04/07/2025,35000,55000,40000,213
+Karnataka,Hassan,Channarayapatna,Sheep,"Sheep Large",FAQ,18/06/2025,3000,16000,10000,218
+Karnataka,Hassan,Channarayapatna,Bull,Bull,FAQ,27/06/2025,7000,20000,15000,214
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,13/06/2025,6100,7400,6800,263
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",Local,14/07/2025,7500,7500,7500,265
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,21/07/2025,5500,5500,5500,281
+Karnataka,Hassan,Hassan,Garlic,Garlic,Local,22/07/2025,4700,6500,4700,25
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",Local,17/07/2025,4000,4500,4000,94
+Karnataka,Hassan,Hassan,Tomato,Tomato,Local,03/07/2025,2000,3000,2500,78
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,FAQ,24/06/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,Local,17/07/2025,2000,2500,2400,85
+Karnataka,Hassan,Hassan,Carrot,Carrot,Local,02/07/2025,2488,3500,2600,153
+Karnataka,Hassan,Hassan,Carrot,Carrot,Local,17/07/2025,2000,3400,2500,153
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,FAQ,24/06/2025,2850,2850,2850,157
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,11/06/2025,1305,1305,1305,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,16/06/2025,800,1273,1273,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",Local,14/07/2025,800,800,800,103
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,19/06/2025,2000,2000,2000,103
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,11/06/2025,30000,30000,30000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,12/06/2025,15000,15000,15000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,FAQ,20/06/2025,30000,31000,30000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,05/07/2025,25000,34000,26000,138
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,21/07/2025,20000,20000,20000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,19/06/2025,22,45,40,138
+Karnataka,Hassan,Channarayapatna,"Green Chilli","Green Chilly",Local,02/07/2025,4550,4550,4550,87
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",FAQ,11/06/2025,4367,4367,4367,165
+Karnataka,Hassan,Hassan,"Green Avare (W)","Green Avare (W)",FAQ,19/06/2025,5083,6000,5500,165
+Karnataka,Hassan,Hassan,Cabbage,Cabbage,Local,16/07/2025,1476,1476,1476,154
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,Local,03/07/2025,1900,2400,1900,162
+Karnataka,Hassan,Channarayapatna,Raddish,Raddish,FAQ,24/06/2025,2000,2000,2000,161
+Karnataka,Hassan,Hassan,Raddish,Raddish,Local,17/07/2025,1400,1700,1500,161
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,02/06/2025,7000,11000,11000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,16/06/2025,7000,7000,7000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,Local,18/07/2025,10000,10000,10000,129
+Karnataka,Hassan,Channarayapatna,Cucumbar(Kheera),Cucumbar,FAQ,04/06/2025,2000,2000,2000,159
+Karnataka,Hassan,Channarayapatna,Cucumbar(Kheera),Cucumbar,Local,02/07/2025,2000,2000,2000,159
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,10/01/2025,2200,2500,2300,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,27/01/2025,2000,2500,2000,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,FAQ,12/01/2025,2200,2200,2200,2
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,18/01/2025,7100,7100,7100,92
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/01/2025,6600,6600,6600,92
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",31/01/2025,6958,6958,6958,92
+Karnataka,Hassan,Arasikere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,4200,4200,4200,114
+Karnataka,Hassan,Belur,Ginger(Dry),Dry,"Ref grade-1",31/01/2025,12000,12500,12000,27
+Karnataka,Hassan,Arasikere,Potato,Local,FAQ,04/01/2025,2000,6000,2000,24
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Other,FAQ,10/01/2025,25000,34500,30000,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Other,FAQ,11/01/2025,26330,26330,26330,38
+Karnataka,Hassan,Belur,Onion,"Bombay (U.P.)",FAQ,26/01/2025,2500,2500,2500,23
+Karnataka,Hassan,Arasikere,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,15/01/2025,11967,11967,11967,8
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,16/01/2025,2050,2200,2200,4
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,29/01/2025,2100,2350,2350,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,10/01/2025,2375,2400,2375,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,12/01/2025,2400,2400,2400,4
+Karnataka,Hassan,Belur,Maize,Hybrid/Local,FAQ,18/01/2025,2400,2400,2400,4
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,02/01/2025,2000,2000,2000,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,19/01/2025,1200,2000,2000,78
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,28/01/2025,11500,11500,11500,140
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,03/01/2025,15000,28000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,06/01/2025,15000,28500,19000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,16/01/2025,28000,28000,28000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,28/01/2025,17000,26000,17000,138
+Karnataka,Hassan,Belur,Coconut,Coconut,FAQ,15/01/2025,22000,29500,22000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,15/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",30/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",31/01/2025,20000,20000,20000,138
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,"Ref grade-1",30/01/2025,2850,2850,2850,153
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,07/01/2025,12500,12500,12500,264
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,28/01/2025,12622,12622,12622,264
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal","Ref grade-1",30/01/2025,11206,11206,11206,264
+Karnataka,Hassan,Arasikere,"Ground Nut Seed","Ground Nut Seed",FAQ,15/01/2025,4400,4400,4400,268
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,07/01/2025,15667,15667,15667,260
+Karnataka,Hassan,Arasikere,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,15/01/2025,14388,14388,14388,260
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)","Ref grade-1",30/01/2025,1400,14000,14000,260
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,06/01/2025,3300,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,15/01/2025,3200,3300,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,20/01/2025,4400,4950,4400,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,27/01/2025,1700,3200,3200,296
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,15/01/2025,1000,1000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,19/01/2025,1100,1500,1300,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,20/01/2025,1250,1250,1250,159
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,27/01/2025,2853,3190,2900,30
+Karnataka,Hassan,Hassan,"Ragi (Finger Millet)",Other,FAQ,27/01/2025,3000,3600,3100,30
+Karnataka,Hassan,Channarayapatna,"Green Chilli","Green Chilly","Ref grade-1",30/01/2025,4550,4550,4550,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly","Ref grade-1",31/01/2025,1000,1800,1500,87
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,13/03/2025,5100,8100,5200,25
+Karnataka,Hassan,Arasikere,"Tamarind Fruit","Tamarind Fruit","Ref grade-2",03/03/2025,2700,2700,2700,261
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,01/03/2025,9000,9000,9000,129
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,12/03/2025,2000,2700,2100,160
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,13/03/2025,2100,2600,2400,160
+Karnataka,Hassan,Arasikere,Capsicum,Capsicum,FAQ,01/03/2025,3000,3000,3000,164
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,24/04/2025,7000,7400,7200,265
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,24/04/2025,17200,17200,17200,129
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,24/04/2025,11306,11306,11306,264
+Karnataka,Hassan,Hassan,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,24/04/2025,8146,8146,8146,263
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,24/04/2025,4728,4728,4728,260
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,FAQ,16/04/2025,2850,2850,2850,153
+Karnataka,Hassan,Channarayapatna,"Green Chilli","Green Chilly",FAQ,16/04/2025,4550,4550,4550,87
+Karnataka,Hassan,Hassan,"Sweet Pumpkin","Sweet Pumpkin",FAQ,21/04/2025,600,800,600,173
+Karnataka,Hassan,Channarayapatna,Drumstick,Drumstick,FAQ,16/04/2025,8000,8000,8000,168
+Karnataka,Hassan,Channarayapatna,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2000,2000,159
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,21/04/2025,1515,1515,1515,103
+Karnataka,Hassan,Hassan,Garlic,Garlic,FAQ,02/05/2025,4000,5400,4900,25
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,02/05/2025,1800,2600,1900,85
+Karnataka,Hassan,Hassan,Ginger(Green),"Green Ginger",FAQ,02/05/2025,1000,2000,1500,103
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,02/05/2025,2000,2500,2000,160
+Karnataka,Hassan,Hassan,Maize,Local,FAQ,24/02/2025,1800,2510,2300,4
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,FAQ,19/02/2025,18150,35000,35000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,"Ref grade-1",01/02/2025,1800,19900,18000,138
+Karnataka,Hassan,Arasikere,Coconut,Grade-III,"Ref grade-1",04/02/2025,25000,26000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II",FAQ,16/02/2025,21000,25000,25000,138
+Karnataka,Hassan,Channarayapatna,Coconut,"Grade- II","Ref grade-1",05/02/2025,20000,23000,23000,138
+Karnataka,Hassan,Hassan,Coconut,Other,FAQ,11/02/2025,25,40,31,138
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,16/02/2025,35000,99000,73400,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Malabar,FAQ,27/02/2025,35000,35500,35000,38
+Karnataka,Hassan,Sakaleshpura,"Black pepper",Other,FAQ,06/02/2025,25624,25624,25624,38
+Karnataka,Hassan,Arasikere,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,10/02/2025,7000,7000,7000,160
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",FAQ,11/02/2025,3000,3000,3000,3
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,06/02/2025,3700,3700,3700,74
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,14/02/2025,3700,3700,3700,74
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,01/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,17/01/2025,1000,1800,1000,103
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,08/01/2025,7000,10000,7000,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,24/01/2025,7500,11300,11300,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,18/01/2025,8000,8000,8000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,"Ref grade-1",31/01/2025,7000,10000,7000,129
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,07/02/2025,1800,6800,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/02/2025,3300,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,15/02/2025,1800,3300,3300,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,18/02/2025,2500,3300,3200,296
+Karnataka,Hassan,Arasikere,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-1",01/02/2025,3000,5200,3318,296
+Karnataka,Hassan,Hassan,"Black Gram (Urd Beans)(Whole)",Other,FAQ,28/02/2025,11891,11891,11891,8
+Karnataka,Hassan,Arasikere,Onion,Onion,"Ref grade-1",01/02/2025,3000,3000,3000,23
+Karnataka,Hassan,Arasikere,Onion,Onion,"Ref grade-1",05/02/2025,2100,2100,2100,23
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,10/02/2025,3000,4000,3600,87
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly","Ref grade-1",01/02/2025,3000,5000,4000,87
+Karnataka,Hassan,Arasikere,Ginger(Green),"Green Ginger","Ref grade-1",01/02/2025,2000,10000,10000,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,06/02/2025,1500,1500,1500,103
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger","Ref grade-1",02/02/2025,1500,1500,1500,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger",FAQ,14/02/2025,900,900,900,103
+Karnataka,Hassan,Channarayapatna,Ginger(Green),"Green Ginger","Ref grade-1",01/02/2025,900,900,900,103
+Karnataka,Hassan,Hassan,Brinjal,Other,FAQ,19/02/2025,2083,2083,2083,35
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,27/02/2025,3000,3600,3000,85
+Karnataka,Hassan,Hassan,Paddy(Dhan)(Common),Paddy,FAQ,19/02/2025,2000,2200,2100,2
+Karnataka,Hassan,Sakaleshpura,Paddy(Dhan)(Common),Paddy,"Ref grade-1",03/02/2025,2500,2500,2500,2
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,14/02/2025,2800,3060,2800,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,15/02/2025,3100,3100,3100,30
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,FAQ,18/02/2025,2700,2700,2700,30
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/02/2025,13000,13000,13000,140
+Karnataka,Hassan,Arasikere,Maize,Local,FAQ,19/02/2025,2200,2200,2200,4
+Karnataka,Hassan,Arasikere,Carrot,Carrot,FAQ,15/02/2025,2000,3000,2500,153
+Karnataka,Hassan,Channarayapatna,Carrot,Pusakesar,"Ref grade-1",03/02/2025,2850,2850,2850,153
+Karnataka,Hassan,Arasikere,Capsicum,Capsicum,FAQ,15/02/2025,3000,4000,4000,164
+Karnataka,Hassan,Arasikere,"Green Avare (W)","Green Avare (W)","Ref grade-1",01/02/2025,4000,4000,4000,165
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,FAQ,13/02/2025,1000,1000,1000,159
+Karnataka,Hassan,Belur,Cucumbar(Kheera),Cucumbar,"Ref grade-1",03/02/2025,1000,1000,1000,159
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut","Ref grade-1",03/02/2025,15000,15000,15000,200
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,06/02/2025,1000,1000,1000,78
+Karnataka,Hassan,Channarayapatna,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,4250,4250,4250,114
+Karnataka,Hassan,Belur,Ginger(Green),"Green Ginger",FAQ,19/01/2025,1500,1500,1500,103
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,27/02/2025,3000,3000,3000,157
+Karnataka,Hassan,Arasikere,Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",03/02/2025,9000,9000,9000,140
+Karnataka,Hassan,Arasikere,"Black Gram Dal (Urd Dal)","Black Gram Dal","Ref grade-1",04/02/2025,12400,12400,12400,264
+Karnataka,Hassan,Arasikere,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,18/02/2025,10318,10318,10318,265
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,24/02/2025,13000,13000,13000,260
+Karnataka,Hassan,Arasikere,Beans,"Beans (Whole)",FAQ,15/02/2025,2000,6500,2000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)","Ref grade-1",03/02/2025,2500,4000,3000,94
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)","Ref grade-1",03/02/2025,4550,4550,4550,94
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,24/02/2025,1800,3100,2600,94
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,18/01/2025,14300,14300,14300,129
+Karnataka,Hassan,Arasikere,Copra,Copra,"Ref grade-1",31/01/2025,13500,14120,13719,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,01/01/2025,7500,7500,7500,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,06/01/2025,7500,12150,10700,129
+Karnataka,Hassan,Arasikere,Copra,other,FAQ,09/01/2025,7800,10800,10800,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,28/01/2025,14000,14500,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,29/01/2025,14000,15500,14000,129
+Karnataka,Hassan,Channarayapatna,Copra,other,FAQ,20/01/2025,8000,8000,8000,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,12/02/2025,14250,14250,14250,129
+Karnataka,Hassan,Arasikere,Copra,Copra,FAQ,13/02/2025,14200,14200,14200,129
+Karnataka,Hassan,Channarayapatna,Copra,other,"Ref grade-1",03/02/2025,8000,8000,8000,129
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,01/01/2025,1200,2000,1200,78
+Karnataka,Hassan,Belur,Tomato,Hybrid,FAQ,12/01/2025,1000,2000,1000,78
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,"Ref grade-1",30/01/2025,2000,2000,2000,78
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,02/01/2025,4000,4000,4000,94
+Karnataka,Hassan,Belur,Beans,"Beans (Whole)",FAQ,24/01/2025,2500,2500,2500,94
+Karnataka,Hassan,Channarayapatna,Beans,"Beans (Whole)","Ref grade-1",30/01/2025,4550,4550,4550,94
+Karnataka,Hassan,Hassan,Thondekai,Thondekai,"Ref grade-1",30/01/2025,2000,2500,2456,162
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,24/02/2025,800,1600,1400,24
+Karnataka,Hassan,Hassan,Potato,Potato,FAQ,28/02/2025,900,1800,1500,24
+Karnataka,Hassan,Arasikere,"Ragi (Finger Millet)",Local,"Ref grade-2",03/03/2025,2700,3180,2800,30
+Karnataka,Hassan,Arasikere,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-2",04/03/2025,7600,7600,7600,92
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,12/03/2025,3000,3400,3100,94
+Karnataka,Hassan,Arasikere,"Green Chilli","Green Chilly",FAQ,01/03/2025,2000,4000,4000,87
+Karnataka,Hassan,Hassan,"Green Chilli","Green Chilly",FAQ,12/03/2025,2100,3500,3100,87
+Karnataka,Hassan,Arasikere,Brinjal,Other,FAQ,01/03/2025,1300,1500,1300,35
+Karnataka,Hassan,Channarayapatna,Rice,"Hassan Dappa",Local,22/07/2025,2500,2500,2500,3
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,12/06/2025,1900,3500,2400,3
+Karnataka,Hassan,Hassan,Rice,Other,Local,14/07/2025,2260,3500,2500,3
+Karnataka,Hassan,Hassan,Brinjal,Other,Local,15/07/2025,1500,1800,1600,35
+Karnataka,Hassan,Hassan,Brinjal,Other,Local,17/07/2025,1473,1800,1500,35
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,FAQ,19/06/2025,3700,3700,3700,74
+Karnataka,Hassan,Channarayapatna,Gur(Jaggery),Achhu,Local,05/07/2025,3700,3700,3700,74
+Karnataka,Hassan,Channarayapatna,Onion,Onion,FAQ,18/06/2025,3000,3000,3000,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,10/06/2025,800,2400,900,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,12/06/2025,900,1400,1300,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,13/06/2025,1500,1700,1550,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,16/06/2025,600,1700,700,23
+Karnataka,Hassan,Hassan,Onion,Other,FAQ,19/06/2025,1800,2100,1900,23
+Karnataka,Hassan,Hassan,Potato,Potato,Local,15/07/2025,700,1900,1800,24
+Karnataka,Hassan,Hassan,Rice,Other,FAQ,10/06/2025,2400,7500,3500,3
+Karnataka,Hassan,Hassan,Wheat,Other,Local,05/07/2025,3400,3800,3400,1
+Karnataka,Hassan,Hassan,Wheat,Other,Local,14/07/2025,3300,3700,3600,1
+Karnataka,Hassan,Hassan,Garlic,Garlic,Local,03/07/2025,4035,4100,4100,25
+Karnataka,Hassan,Hassan,"Bhindi(Ladies Finger)",Bhindi,FAQ,11/06/2025,2400,2900,2800,85
+Karnataka,Hassan,Channarayapatna,Tomato,Tomato,Local,02/07/2025,2000,2000,2000,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,FAQ,11/06/2025,600,2100,800,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,Local,02/07/2025,600,1200,900,78
+Karnataka,Hassan,Hassan,Tomato,Tomato,Local,17/07/2025,1400,1700,1400,78
+Karnataka,Hassan,Hassan,Beans,"Beans (Whole)",FAQ,10/06/2025,4902,8500,5600,94
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",Local,05/07/2025,7100,7300,7200,265
+Karnataka,Hassan,Hassan,"Green Gram Dal (Moong Dal)","Green Gram Dal",Local,21/07/2025,7500,9500,8000,265
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,10/06/2025,11100,12100,11100,264
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",Local,14/07/2025,10159,10159,10159,264
+Karnataka,Hassan,Hassan,"Black Gram Dal (Urd Dal)","Black Gram Dal",Local,15/07/2025,10800,10800,10800,264
+Karnataka,Hassan,Hassan,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,13/06/2025,9753,12000,9800,260
+Karnataka,Hassan,Channarayapatna,"Alasande Gram","Alasande Gram",Local,06/07/2025,4600,4600,4600,281
+Karnataka,Hassan,Channarayapatna,Goat,Goat,FAQ,18/06/2025,4000,15000,8000,219
+Karnataka,Hassan,Hassan,Cucumbar(Kheera),Cucumbar,Local,16/07/2025,4000,4900,4700,159
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,02/06/2025,15000,20000,18500,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,09/06/2025,20000,20400,20000,129
+Karnataka,Hassan,Channarayapatna,Copra,Copra,FAQ,25/06/2025,23000,25500,23800,129
+Karnataka,Hassan,Channarayapatna,Coconut,Grade-III,Local,11/07/2025,20000,20000,20000,138
+Karnataka,Hassan,Hassan,Coconut,Other,Local,14/07/2025,32,40,35,138
+Karnataka,Hassan,Hassan,Coconut,Other,Local,15/07/2025,33,45,40,138
+Karnataka,Hassan,Hassan,Arecanut(Betelnut/Supari),Other,FAQ,10/06/2025,10000,12000,10000,140
+Karnataka,Hassan,Hassan,"Honge seed","Honge Seed",FAQ,10/06/2025,5050,5050,5050,124
+Karnataka,Hassan,Hassan,Ridgeguard(Tori),Ridgeguard(Tori),Local,16/07/2025,3000,4100,3100,160
+Karnataka,Hassan,Hassan,Carrot,Carrot,FAQ,11/06/2025,4000,4500,4100,153
+Karnataka,Hassan,Channarayapatna,Beetroot,Beetroot,FAQ,04/06/2025,2850,2850,2850,157
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,FAQ,10/06/2025,2364,4500,2400,157
+Karnataka,Hassan,Hassan,Beetroot,Beetroot,Local,16/07/2025,2500,2500,2500,157
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,02/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,03/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,11/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,15/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,"Tender Coconut","Tender Coconut",Local,18/07/2025,15000,15000,15000,200
+Karnataka,Hassan,Channarayapatna,Cow,Cow,FAQ,20/06/2025,30000,50000,40000,212
+Karnataka,Hassan,Channarayapatna,Cow,Cow,Local,04/07/2025,20000,40000,35000,212
+Karnataka,Hassan,Channarayapatna,Ox,Ox,FAQ,27/06/2025,25000,60000,30000,213
+Karnataka,Hassan,Channarayapatna,"He Buffalo","He Baffelo",FAQ,20/06/2025,7000,11000,8000,216
+Karnataka,Hassan,Channarayapatna,"He Buffalo","He Baffelo",Local,04/07/2025,10000,25000,20000,216
+Karnataka,Hassan,Channarayapatna,"He Buffalo","He Baffelo",Local,18/07/2025,10000,20000,14000,216

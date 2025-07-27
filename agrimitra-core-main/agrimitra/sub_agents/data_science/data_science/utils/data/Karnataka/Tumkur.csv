@@ -1,0 +1,1337 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,12/02/2025,17000,17000,17000,138
+Karnataka,Tumkur,Madhugiri,"Tamarind Seed","Tamarind Seed",FAQ,15/02/2025,1800,2800,2000,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,27/02/2025,2300,2900,2480,208
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,17/02/2025,14000,14100,14095,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,18/02/2025,13700,14000,13711,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,20/02/2025,14600,14620,14610,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,24/02/2025,14200,14600,14288,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,20/02/2025,9500,9700,9600,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,19/02/2025,12000,14000,13000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,24/02/2025,12000,12500,12000,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,15/02/2025,10000,14200,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,06/02/2025,7000,17800,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,18/02/2025,8500,15000,13000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,20/02/2025,7500,16000,11500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,25/02/2025,6500,15500,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,"Ref grade-1",03/02/2025,6800,14800,13000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,06/02/2025,13800,14500,14400,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,12/02/2025,13800,14100,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,15/02/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,21/02/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,24/02/2025,13800,14700,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,28/02/2025,14000,14500,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,14/02/2025,10500,13300,11000,129
+Karnataka,Tumkur,Turvekere,Copra,Small,FAQ,21/02/2025,9500,9600,9500,129
+Karnataka,Tumkur,Tumkur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,18/02/2025,5800,9500,7100,263
+Karnataka,Tumkur,Sira,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/02/2025,4000,4000,4000,114
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,13/02/2025,9800,9800,9800,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)","Ref grade-1",01/02/2025,9900,9900,9900,260
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,09/01/2025,2580,4000,3400,30
+Karnataka,Tumkur,Huliyar,"Ragi (Finger Millet)",Local,FAQ,16/01/2025,3000,3200,3000,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,01/01/2025,2500,3529,3223,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,22/01/2025,3000,3330,3041,30
+Karnataka,Tumkur,Turvekere,"Ragi (Finger Millet)",Fine,FAQ,07/01/2025,3300,3300,3300,30
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,09/01/2025,1800,2225,2000,4
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,10/01/2025,1800,2225,2000,4
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,17/01/2025,1800,2225,2000,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,01/01/2025,2170,2300,2288,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,03/01/2025,2149,2149,2149,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,10/01/2025,2020,2020,2020,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,24/01/2025,2030,2030,2030,4
+Karnataka,Tumkur,Tumkur,Maize,Local,"Ref grade-1",31/01/2025,1850,2500,2250,4
+Karnataka,Tumkur,Huliyar,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/01/2025,4000,4200,4000,114
+Karnataka,Tumkur,Huliyar,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/01/2025,3500,4000,3800,114
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,15/01/2025,4000,6000,5362,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,27/01/2025,5018,5018,5018,10
+Karnataka,Tumkur,Tumkur,Groundnut,Other,FAQ,09/01/2025,5100,7400,6100,10
+Karnataka,Tumkur,Pavagada,Rice,Coarse,FAQ,18/01/2025,3000,4500,4000,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,06/01/2025,3600,6500,4400,3
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,07/01/2025,21000,28000,21500,140
+Karnataka,Tumkur,Pavagada,Arecanut(Betelnut/Supari),Red,FAQ,17/01/2025,35000,42000,37580,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,04/01/2025,19955,47456,37636,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,22/01/2025,21500,21500,21500,140
+Karnataka,Tumkur,Huliyar,Same/Savi,"Same/Savi Local","Ref grade-1",31/01/2025,3000,4000,3350,122
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,24/01/2025,12972,12972,12972,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,28/01/2025,25500,26000,25825,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,09/01/2025,48500,49600,49100,140
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,14/02/2025,1100,2000,1200,27
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,13/02/2025,4000,6000,5000,10
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,28/02/2025,4000,5200,5000,10
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,06/02/2025,2225,2600,2490,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,24/02/2025,2500,2500,2500,4
+Karnataka,Tumkur,Madhugiri,"Ragi (Finger Millet)",Local,"Ref grade-1",05/02/2025,3000,4000,3600,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,19/02/2025,3330,3600,3422,30
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,11/02/2025,2600,6600,5400,218
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,18/02/2025,12000,12000,12000,261
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,18/02/2025,23500,24000,23507,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,20/02/2025,26000,27000,26249,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,27/02/2025,26000,28000,27000,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,"Ref grade-1",02/02/2025,21000,23000,22000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,27/02/2025,43121,43747,43350,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,18/02/2025,48500,50800,49500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,28/02/2025,48600,50400,49500,140
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,06/02/2025,3600,6500,4500,3
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,06/02/2025,2100,2750,2300,2
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,27/02/2025,2100,2700,2320,2
+Karnataka,Tumkur,Huliyar,"Tamarind Seed","Tamarind Seed",FAQ,17/02/2025,2200,3000,2500,208
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,12/02/2025,3800,6000,3938,10
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,27/02/2025,4000,5200,5000,10
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,22/01/2025,5900,5900,5900,108
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,17/01/2025,14000,14200,14081,129
+Karnataka,Tumkur,Pavagada,"Ground Nut Seed","Ground Nut Seed",FAQ,23/01/2025,6000,11000,8000,268
+Karnataka,Tumkur,Sira,"Ground Nut Seed","Ground Nut Seed",FAQ,24/01/2025,8000,8000,8000,268
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,08/01/2025,1300,8000,1400,27
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,06/01/2025,14500,15000,14800,219
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/01/2025,4400,4600,4500,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)","Ref grade-1",31/01/2025,2800,3000,2900,296
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,03/01/2025,10000,10000,10000,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,10/01/2025,9800,9800,9800,260
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,07/01/2025,10000,11200,10900,129
+Karnataka,Tumkur,Huliyar,Copra,other,"Ref grade-1",31/01/2025,8000,8600,8500,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,03/01/2025,14000,14500,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,10/01/2025,10500,11000,10567,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,28/01/2025,13500,13800,13700,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,16/01/2025,14000,14900,14409,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,20/01/2025,8600,15100,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,27/01/2025,7500,14900,10500,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,"Ref grade-1",31/01/2025,13100,14300,13600,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,02/01/2025,14500,14750,14600,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,09/01/2025,14000,14100,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,10/01/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,17/01/2025,14000,14000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,20/01/2025,14000,14500,14100,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,06/01/2025,10500,11000,10500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,07/01/2025,8800,11000,8800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,15/01/2025,11800,12000,11800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,20/01/2025,12000,12000,12000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,28/01/2025,9000,9000,9000,129
+Karnataka,Tumkur,Pavagada,"Castor Seed","Castor seed",FAQ,16/01/2025,4800,5200,5000,123
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,22/03/2025,10200,10200,10200,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,24/03/2025,3563,14050,5203,261
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,25/03/2025,4333,9826,6452,261
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,26/03/2025,23500,23500,23500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,27/03/2025,45000,45000,45000,140
+Karnataka,Tumkur,Madhugiri,"Honge seed","Honge Seed",FAQ,01/03/2025,3000,4000,3500,124
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,25/03/2025,3400,3400,3400,208
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,20/03/2025,14500,14500,14500,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,17/03/2025,14400,16006,15306,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,22/03/2025,9000,16500,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,26/03/2025,8200,18000,15000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,28/03/2025,9000,16000,13000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,12/03/2025,14000,14500,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,18/03/2025,14000,16000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,24/03/2025,14800,18200,17600,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,27/03/2025,16800,16800,16800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,28/03/2025,11000,15000,12000,129
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,14/04/2025,4000,4500,4300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,23/04/2025,2000,2400,2296,296
+Karnataka,Tumkur,Sira,Millets,Other,FAQ,15/04/2025,4246,4246,4246,237
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,28/04/2025,8500,9600,9125,260
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,16/04/2025,6700,6700,6700,263
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,08/04/2025,14433,14433,14433,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,04/04/2025,8500,17000,11500,261
+Karnataka,Tumkur,Sira,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,16/04/2025,9950,9950,9950,265
+Karnataka,Tumkur,Sira,"Bengal Gram(Gram)(Whole)",Other,FAQ,15/04/2025,6843,6843,6843,6
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,15/04/2025,0,0,2570,4
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,16/04/2025,0,0,6413,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,28/04/2025,0,0,5024,10
+Karnataka,Tumkur,Huliyar,"Tamarind Seed","Tamarind Seed",FAQ,04/04/2025,3200,3400,3300,208
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,15/04/2025,3500,3500,3500,208
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Small,19/04/2025,18,50,20,200
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,14/04/2025,20000,22000,21250,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,08/04/2025,23800,23800,23800,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,15/04/2025,23600,23600,23600,140
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,04/04/2025,17500,18500,17809,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,16/04/2025,17000,17800,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,28/04/2025,17500,18000,17688,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,21/04/2025,10000,11500,11000,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,22/04/2025,10000,11000,10400,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,23/04/2025,10000,11000,10500,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,14/04/2025,15000,15500,15000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,28/04/2025,12500,13000,12900,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,10/04/2025,17000,18600,17500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,04/04/2025,9500,14800,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,10/04/2025,8500,18800,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,11/04/2025,8900,16600,13000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,14/04/2025,10300,18000,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,19/04/2025,8800,18500,12500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,09/04/2025,16800,16800,16800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,24/04/2025,16800,18500,18300,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,02/04/2025,12500,12500,12500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,09/04/2025,11000,12000,11000,129
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,09/04/2025,1100,3000,1200,27
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,26/03/2025,0,0,3467,30
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,22/03/2025,9874,9874,9874,108
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,07/05/2025,0,0,3300,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,21/05/2025,0,0,3430,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,02/05/2025,0,0,3517,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,13/05/2025,0,0,3536,30
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,07/05/2025,2800,2800,2800,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,28/05/2025,3400,5600,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,31/05/2025,3400,5600,4400,3
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,04/05/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/05/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,15/05/2025,2200,2500,2415,296
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,19/05/2025,10400,10400,10400,264
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,13/05/2025,2600,6900,5600,218
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,14/05/2025,3700,3700,3700,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,28/05/2025,2600,3600,3200,208
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,02/05/2025,6900,6900,6900,263
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,27/05/2025,6900,6900,6900,263
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,29/05/2025,7000,7000,7000,263
+Karnataka,Tumkur,Tumkur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,21/05/2025,6400,8500,7100,263
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,29/05/2025,8500,9500,9028,260
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,13/05/2025,9458,9458,9458,108
+Karnataka,Tumkur,Tumkur,Tomato,Tomato,FAQ,31/05/2025,1800,2500,2100,78
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,FAQ,14/05/2025,10500,14100,11600,43
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,09/05/2025,17500,18000,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,22/05/2025,18000,19200,18500,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,22/05/2025,12000,13000,12500,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,29/05/2025,18200,18600,18500,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,05/05/2025,16000,16500,16000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,08/05/2025,17000,18200,18000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,19/05/2025,17800,18900,18766,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,10/05/2025,9000,19600,13800,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,15/05/2025,9500,19667,17000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,16/05/2025,9400,21300,15000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,26/05/2025,16800,20300,20000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,23/05/2025,11000,13000,12000,129
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,02/05/2025,0,0,5657,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,06/05/2025,0,0,5495,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,13/05/2025,0,0,5763,10
+Karnataka,Tumkur,Tumkur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,31/05/2025,3200,4600,3500,114
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,15/05/2025,3200,4600,3800,124
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,21/05/2025,3000,4400,3800,124
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,02/05/2025,26000,27000,26583,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,20/05/2025,22800,32000,23000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,13/05/2025,40872,44271,43344,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,14/05/2025,52000,53600,53100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,15/05/2025,51000,53500,52500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,20/05/2025,51500,53000,52200,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,28/05/2025,53500,54800,54000,140
+Karnataka,Tumkur,Tumkur,Potato,Other,FAQ,28/05/2025,2400,3200,2800,24
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,11/07/2025,3100,5500,4500,3
+Karnataka,Tumkur,Sira,Groundnut,Other,Local,15/07/2025,0,0,6783,10
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,23/06/2025,3600,5600,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,01/07/2025,2800,5400,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,03/07/2025,3600,5600,4150,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,06/06/2025,3500,6100,4200,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,04/07/2025,3550,5800,4200,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,10/07/2025,3400,5400,4200,3
+Karnataka,Tumkur,Tumkur,Garlic,Garlic,Local,16/07/2025,6500,9800,8000,25
+Karnataka,Tumkur,Sira,Wheat,Other,FAQ,17/06/2025,3306,3306,3306,1
+Karnataka,Tumkur,Tumkur,Wheat,"Super Fine",Local,15/07/2025,2600,3500,2900,1
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,04/06/2025,0,0,2500,4
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,Local,01/07/2025,10500,12600,11200,43
+Karnataka,Tumkur,Tumkur,Onion,Onion,Local,21/07/2025,1600,2400,2000,23
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,17/06/2025,1850,2650,2250,23
+Karnataka,Tumkur,Tumkur,Onion,Other,Local,17/07/2025,1550,2300,1850,23
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,09/06/2025,20000,22000,20785,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,13/06/2025,21000,23800,21937,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,01/06/2025,20000,21000,20500,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,15/06/2025,12500,13500,13000,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,21/06/2025,14000,14200,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,16/06/2025,14900,15100,15000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,19/06/2025,20000,21000,20000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,09/06/2025,20000,22356,21500,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,19/06/2025,22600,24211,24166,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,11/06/2025,13000,22800,17000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,14/06/2025,11000,23200,18000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,20/06/2025,11000,27000,20000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,16/07/2025,15300,23000,22500,129
+Karnataka,Tumkur,Turvekere,Copra,other,Local,09/07/2025,12000,20000,12000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",18/07/2025,15000,16000,15000,129
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,11/06/2025,23500,24000,23780,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,13/06/2025,23500,25000,24000,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Other,FAQ,20/06/2025,50800,53100,51600,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,02/07/2025,51000,53100,52000,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,08/07/2025,51000,53200,52100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,10/07/2025,51000,53500,52100,140
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,15/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,18/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Sira,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,04/06/2025,4700,5100,4856,296
+Karnataka,Tumkur,Sira,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,04/06/2025,4500,4500,4500,114
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,09/06/2025,28000,28000,28000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,15/07/2025,28000,28000,28000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,21/07/2025,28000,30000,28725,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,16/07/2025,24000,38000,30000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,21/07/2025,25000,40000,32000,138
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,FAQ,10/06/2025,18000,32000,22000,138
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,10/06/2025,3500,7400,6100,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,17/06/2025,3600,7400,6100,219
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,10/06/2025,2400,6900,5800,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,17/06/2025,2500,6800,5700,218
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,02/06/2025,12000,14000,13500,218
+Karnataka,Tumkur,Tumkur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,11/07/2025,6500,8200,7100,263
+Karnataka,Tumkur,Sira,"Ground Nut Seed","Ground Nut Seed",Local,21/07/2025,9500,10100,9800,268
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,01/07/2025,9100,9100,9100,260
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,24/06/2025,0,0,3661,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,26/06/2025,0,0,3627,30
+Karnataka,Tumkur,Tumkur,Tomato,Tomato,Local,16/07/2025,1550,2380,1850,78
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Medium,09/06/2025,18,40,20,200
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,19/06/2025,2700,3650,3100,208
+Karnataka,Tumkur,Sira,Millets,Other,FAQ,24/06/2025,4000,4300,4052,237
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,12/02/2025,7100,7100,7100,263
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,19/02/2025,5800,5800,5800,263
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,10/02/2025,13500,14500,14000,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,01/01/2025,3300,7300,6400,219
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,09/01/2025,8100,17500,12500,261
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,04/01/2025,10700,10700,10700,264
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,24/01/2025,7500,7500,7500,263
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,04/01/2025,12500,12500,12500,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,24/01/2025,9800,10500,10006,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)","Ref grade-1",30/01/2025,9900,10290,10068,260
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,27/02/2025,3330,4000,3553,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,27/02/2025,2500,4100,3200,30
+Karnataka,Tumkur,Madhugiri,Rice,Other,FAQ,27/02/2025,3000,5000,4000,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,18/02/2025,3400,6200,4500,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,28/02/2025,3200,5800,4600,3
+Karnataka,Tumkur,Madhugiri,"Bengal Gram(Gram)(Whole)",Other,FAQ,14/02/2025,4000,6500,5500,6
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,20/02/2025,3800,4500,4454,10
+Karnataka,Tumkur,Tumkur,Groundnut,Other,FAQ,06/02/2025,4800,6900,5200,10
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,17/02/2025,2225,2420,2400,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,18/02/2025,2400,2400,2400,4
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut","Ref grade-1",31/01/2025,18,30,20,200
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,12/02/2025,9800,9800,9800,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,11/02/2025,5229,5229,5229,261
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,12/02/2025,7000,9833,9000,261
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,12/02/2025,1410,1410,1410,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,24/02/2025,7500,7500,7500,280
+Karnataka,Tumkur,Sira,"Ground Nut Seed","Ground Nut Seed","Ref grade-1",04/02/2025,9500,9500,9500,268
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,15/02/2025,45574,45574,45574,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,"Ref grade-1",01/02/2025,24802,24960,24890,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,"Ref grade-1",04/02/2025,23511,23511,23511,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,06/02/2025,48000,49600,49100,140
+Karnataka,Tumkur,Tumkur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/02/2025,4000,5500,4600,114
+Karnataka,Tumkur,Sira,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,15/02/2025,9500,9500,9500,265
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,19/02/2025,7500,14100,8835,280
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,02/01/2025,2200,2800,2400,2
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,"Ref grade-1",30/01/2025,3200,3200,3200,30
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,03/01/2025,14000,14500,14200,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,08/01/2025,14000,14200,14043,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,11/01/2025,8000,9000,8600,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,16/01/2025,8000,8500,8000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,"Ref grade-1",31/01/2025,9000,9300,9240,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,08/01/2025,8000,10600,10500,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,18/01/2025,14100,14100,14100,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,06/01/2025,14000,14750,14121,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,09/01/2025,13800,14600,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,03/01/2025,7500,14900,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,11/01/2025,7700,14200,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,15/01/2025,7500,17800,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,24/01/2025,8400,17800,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,29/01/2025,8000,15000,13000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,03/01/2025,14000,14500,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,06/01/2025,14000,14200,14100,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,18/01/2025,14000,14000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,21/01/2025,13800,14500,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,"Ref grade-1",31/01/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,09/01/2025,12000,12000,12000,129
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,24/01/2025,10000,11000,10535,132
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,"Ref grade-1",31/01/2025,24000,26000,24960,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,06/01/2025,47100,49500,48100,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,27/01/2025,17000,18000,17530,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,02/01/2025,12000,30000,20000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,06/01/2025,15000,30000,20000,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,"Ref grade-1",30/01/2025,24000,25500,24500,140
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,28/02/2025,14300,14600,14500,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,14/02/2025,14200,14200,14200,129
+Karnataka,Tumkur,Sira,Coconut,Grade-III,"Ref grade-1",03/02/2025,18000,18000,18000,138
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,12/02/2025,10000,14200,14052,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,21/02/2025,10000,15000,14000,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,24/02/2025,10000,14500,14127,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,24/02/2025,7000,8980,8940,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,"Ref grade-1",03/02/2025,13800,14529,14529,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,05/02/2025,8000,14000,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,22/02/2025,7400,15300,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,28/02/2025,9500,15000,11000,129
+Karnataka,Tumkur,Tumkur,Copra,Copra,FAQ,28/02/2025,13800,14600,14400,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,07/02/2025,13800,14100,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,10/02/2025,13800,14540,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,11/02/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,17/02/2025,13800,14200,14100,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,20/02/2025,13800,14900,14700,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,27/02/2025,14000,14600,14500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,"Ref grade-1",01/02/2025,13800,13800,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,"Ref grade-1",03/02/2025,13800,14500,14200,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,10/02/2025,10000,13500,10500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,11/02/2025,8500,11000,8500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,18/02/2025,10500,10500,10500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,19/02/2025,12000,12000,12000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,24/02/2025,10100,11500,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,27/02/2025,9700,10000,9700,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",03/02/2025,10500,11200,10500,129
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,15/02/2025,13000,15000,13846,132
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,12/02/2025,2800,2800,2800,208
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,19/02/2025,24927,24980,24954,140
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,20/03/2025,0,0,6000,10
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,27/03/2025,10000,10000,10000,260
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,21/03/2025,44724,46397,45825,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,25/03/2025,25678,41634,30972,140
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,24/03/2025,12500,13500,13000,218
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,25/03/2025,3500,7600,6600,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,24/03/2025,8000,10000,9000,219
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,25/03/2025,8900,8900,8900,280
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Medium,21/03/2025,18,40,20,200
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,01/03/2025,14500,14820,14815,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,01/03/2025,13500,14000,13500,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,02/03/2025,9800,10200,9900,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,24/03/2025,16800,19051,17500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,25/03/2025,9000,17800,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,27/03/2025,9000,17811,15000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,19/03/2025,11000,11000,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,27/03/2025,11000,14000,11000,129
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,27/01/2025,3650,3650,3650,30
+Karnataka,Tumkur,Sira,"Green Peas","Green Peas",FAQ,13/01/2025,3958,3958,3958,50
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,"Ref grade-1",31/01/2025,3400,6000,3500,10
+Karnataka,Tumkur,Pavagada,Groundnut,"Big (With Shell)",FAQ,20/01/2025,4500,5300,5250,10
+Karnataka,Tumkur,Pavagada,Maize,Hybrid/Local,FAQ,24/01/2025,2000,2400,2250,4
+Karnataka,Tumkur,Tumkur,Maize,Local,FAQ,09/01/2025,2000,2500,2180,4
+Karnataka,Tumkur,Madhugiri,Paddy(Dhan)(Common),"Paddy Medium",FAQ,07/01/2025,2000,2555,2533,2
+Karnataka,Tumkur,Madhugiri,"Alasande Gram","Alasande Gram",FAQ,21/01/2025,5000,7000,6000,281
+Karnataka,Tumkur,Pavagada,"She Goat","She Goat",FAQ,07/01/2025,3600,22000,8500,283
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,01/01/2025,14000,14300,14154,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,03/01/2025,13600,13600,13600,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,06/01/2025,12109,13100,12494,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,10/01/2025,12000,13700,12372,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,13/01/2025,10982,13602,12951,280
+Karnataka,Tumkur,Sira,Wheat,Other,FAQ,16/04/2025,2900,3190,3102,1
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,04/04/2025,3500,6100,4500,3
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,08/04/2025,2400,6600,5400,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,15/04/2025,2400,6700,5400,218
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,07/04/2025,2200,2400,2400,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,10/04/2025,3200,3400,3300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,15/04/2025,2000,2500,2067,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,26/04/2025,2200,2400,2300,296
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,08/04/2025,9800,10000,9900,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,23/04/2025,9600,9800,9667,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,15/04/2025,3000,15120,6166,261
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,08/04/2025,9400,9400,9400,264
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,22/04/2025,3400,7600,6400,219
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,05/04/2025,17400,18500,17486,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,14/04/2025,17000,17500,17375,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,25/04/2025,17500,18500,17816,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,19/04/2025,8500,9500,9000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,20/04/2025,14000,14800,14789,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,21/04/2025,17800,19500,18500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,05/04/2025,9500,14500,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,18/04/2025,9000,14000,12800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,03/04/2025,12000,12000,12000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,24/04/2025,14000,14000,14000,129
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,08/04/2025,2400,3400,2900,124
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,15/04/2025,0,0,3513,30
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,15/04/2025,0,0,6593,10
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,28/04/2025,5555,5555,5555,108
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,08/04/2025,4000,4000,4000,108
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,15/04/2025,39500,42000,39997,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,18/04/2025,30000,32000,31678,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,28/04/2025,26500,27000,26651,140
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,13/05/2025,3200,5800,4400,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,23/05/2025,3400,5900,4400,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,29/05/2025,3500,6400,4500,3
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,02/05/2025,0,0,2505,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,27/05/2025,0,0,2570,4
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,21/05/2025,13375,13375,13375,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,15/05/2025,6500,15600,8900,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,27/05/2025,7200,16200,9200,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,28/05/2025,7500,16500,10200,261
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,14/05/2025,0,0,3443,30
+Karnataka,Tumkur,Tumkur,Garlic,Garlic,FAQ,28/05/2025,5500,9000,7200,25
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,27/05/2025,0,0,3422,30
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,21/05/2025,3214,3214,3214,132
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,02/05/2025,17200,17800,17394,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,03/05/2025,17000,17500,17000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,05/05/2025,17000,18000,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,16/05/2025,17400,18000,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,24/05/2025,18400,19100,18500,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,16/05/2025,10500,11000,10800,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,21/05/2025,16000,16200,16000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,31/05/2025,14000,14500,14000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,05/05/2025,17000,18000,17969,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,12/05/2025,17000,18244,18244,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,06/05/2025,9200,17300,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,09/05/2025,8500,17100,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,23/05/2025,8900,21000,15000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,31/05/2025,10700,21000,20000,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,19/05/2025,16200,17800,17100,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,20/05/2025,12100,13600,13200,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,29/05/2025,18100,20500,19200,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,07/05/2025,16800,17700,17000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,07/05/2025,12000,12000,12000,129
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,16/05/2025,3500,4000,3800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,23/05/2025,2200,2400,2400,296
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,12/05/2025,0,0,5675,10
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,06/05/2025,1190,1500,1200,27
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,17/05/2025,790,1000,800,27
+Karnataka,Tumkur,Sira,Millets,Other,FAQ,06/05/2025,4000,4000,4000,237
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,26/05/2025,10000,15000,13000,219
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,04/05/2025,24000,25000,24706,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,21/05/2025,25000,25500,25136,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,07/05/2025,26000,53031,44026,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,21/05/2025,25000,41120,28216,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,13/05/2025,23015,24985,23850,138
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,FAQ,14/05/2025,14000,30000,20000,138
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,02/05/2025,2300,6600,5300,218
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,06/05/2025,3547,3547,3547,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,22/05/2025,2800,3700,3200,208
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,20/06/2025,3500,5800,4600,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,07/07/2025,3600,5500,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,09/07/2025,3300,5600,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,16/07/2025,3400,5800,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,21/07/2025,3500,5600,4300,3
+Karnataka,Tumkur,Huliyar,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,11/07/2025,6100,6200,6150,92
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,05/06/2025,19000,20202,19230,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,12/06/2025,21200,23555,22500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,24/06/2025,23450,25550,23530,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,06/06/2025,18500,19000,18800,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,12/06/2025,16000,16200,16100,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,13/06/2025,19500,21000,20000,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,16/06/2025,13650,14000,13800,129
+Karnataka,Tumkur,Huliyar,Copra,Small,Local,13/07/2025,22500,24000,23000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,02/06/2025,18500,20511,19800,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,06/06/2025,10800,17200,16100,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,07/06/2025,11000,20900,15000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,11/07/2025,12000,31500,23300,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,18/06/2025,2100,23500,21600,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,24/06/2025,23500,24800,24100,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,18/06/2025,1700,20500,18600,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,15/07/2025,23000,26000,24000,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,17/07/2025,21500,23600,22100,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,02/06/2025,12000,15000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,10/06/2025,11000,18000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,25/06/2025,12000,15800,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,Local,08/07/2025,12000,20000,17000,129
+Karnataka,Tumkur,Turvekere,Copra,other,Local,14/07/2025,12000,22800,20000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",05/07/2025,16000,20000,18000,129
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",FAQ,01/07/2025,3600,5600,4400,126
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,01/07/2025,3600,5600,4400,126
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,05/07/2025,4100,6800,5500,126
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,10/07/2025,3800,5600,4500,126
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,16/07/2025,4400,7400,6100,126
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,30/06/2025,3600,5100,4700,124
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",Local,05/07/2025,5525,5525,5525,108
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,04/06/2025,3500,5800,4200,3
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,Local,15/07/2025,0,0,3549,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,Local,21/07/2025,0,0,3598,30
+Karnataka,Tumkur,Sira,Wheat,Other,Local,18/07/2025,3225,3225,3225,1
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,24/06/2025,0,0,2545,4
+Karnataka,Tumkur,Sira,Maize,Local,Local,15/07/2025,0,0,2428,4
+Karnataka,Tumkur,Huliyar,"Black pepper",Malabar,FAQ,02/06/2025,35000,36000,35500,38
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,10/06/2025,1700,2600,2100,23
+Karnataka,Tumkur,Tumkur,Onion,Other,Local,02/07/2025,1800,2800,2250,23
+Karnataka,Tumkur,Huliyar,Coconut,Other,Local,18/07/2025,10000,11000,10000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,17/06/2025,23000,25440,24300,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,24/06/2025,25630,25630,25630,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,10/07/2025,22000,38000,30000,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,05/06/2025,27000,27500,27002,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,22/06/2025,23500,25000,24500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,01/07/2025,49900,52900,51500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,03/07/2025,51200,53500,52100,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,10/06/2025,25000,54179,44460,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,02/06/2025,54000,55100,54200,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,24/06/2025,50600,52800,51200,140
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,04/06/2025,3600,3600,3600,208
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,10/06/2025,3700,3700,3700,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",Local,02/07/2025,2900,3800,3250,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",Local,15/07/2025,3100,3850,3400,208
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,24/06/2025,2300,6600,5500,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",Local,01/07/2025,2400,6700,5600,218
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium","Ref grade-1",07/07/2025,12000,14000,13500,218
+Karnataka,Tumkur,Sira,Goat,Goat,Local,08/07/2025,3600,7400,6100,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,"Ref grade-1",07/07/2025,10000,15000,13000,219
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,12/06/2025,9000,9300,9212,260
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,05/07/2025,6900,6900,6900,263
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,17/06/2025,7500,16200,9800,261
+Karnataka,Tumkur,Madhugiri,"Ground Nut Seed","Ground Nut Seed",FAQ,09/06/2025,4000,10000,6000,268
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,22/06/2025,2700,2900,2800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,24/06/2025,2300,2500,2400,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,11/07/2025,2600,2800,2700,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,18/07/2025,3700,4000,3800,296
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,18/01/2025,10085,10085,10085,108
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,18/01/2025,2000,2200,2113,296
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,06/01/2025,13000,13500,13200,218
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,"Ref grade-1",31/01/2025,15000,30000,20000,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,08/01/2025,24000,25000,24035,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,17/01/2025,24000,25000,24500,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,20/01/2025,21000,28000,21500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,01/01/2025,22000,24188,23158,140
+Karnataka,Tumkur,Huliyar,Coconut,Grade-I,FAQ,29/01/2025,23000,24000,23580,138
+Karnataka,Tumkur,Tumkur,Potato,Other,"Ref grade-1",31/01/2025,2100,3200,2600,24
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,04/01/2025,7700,7700,7700,263
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,25/01/2025,7500,7500,7500,263
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,20/01/2025,8000,16500,10100,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit","Ref grade-1",31/01/2025,8100,18600,9850,261
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,03/01/2025,24200,25000,24290,140
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,18/01/2025,15000,19000,16769,132
+Karnataka,Tumkur,Madhugiri,Rice,Other,FAQ,20/01/2025,2200,2760,2750,3
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,22/01/2025,6587,6587,6587,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,02/01/2025,3500,6600,4750,3
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,28/01/2025,4000,6000,5500,10
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,15/01/2025,1800,2200,2000,4
+Karnataka,Tumkur,Madhugiri,Maize,Local,FAQ,18/01/2025,2000,2270,2268,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,06/01/2025,2050,2074,2066,4
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,"Ref grade-1",31/01/2025,1100,5000,1200,27
+Karnataka,Tumkur,Madhugiri,Cotton,Other,FAQ,07/01/2025,12000,15000,12595,15
+Karnataka,Tumkur,Sira,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/01/2025,7200,7200,7200,92
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,07/01/2025,14000,14200,14123,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,19/01/2025,14000,14200,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,"Ref grade-1",30/01/2025,13800,14013,13814,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,08/01/2025,12000,12500,12000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,17/01/2025,14400,14500,14400,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,18/01/2025,11500,12200,11982,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,29/01/2025,9400,9600,9500,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,09/01/2025,10000,13800,13500,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,21/01/2025,10000,12000,11000,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,21/01/2025,7000,9100,9000,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,29/01/2025,8000,11200,11000,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,02/01/2025,14500,14500,14500,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,13/01/2025,14000,14900,14629,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,30/01/2025,13600,14300,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,02/01/2025,8000,17800,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,09/01/2025,7500,16800,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,16/01/2025,7500,13300,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,23/01/2025,7500,13000,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,25/01/2025,7800,13600,10500,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,20/01/2025,10000,11500,10800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,04/01/2025,14000,14500,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,29/01/2025,13800,13800,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,"Ref grade-1",30/01/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,02/01/2025,11500,11500,11500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,21/01/2025,9500,9500,9500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,29/01/2025,10100,12800,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",30/01/2025,11000,13000,11500,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",31/01/2025,8500,11900,10500,129
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,26/03/2025,0,0,2581,4
+Karnataka,Tumkur,Madhugiri,Paddy(Dhan)(Common),"Paddy Medium",FAQ,03/03/2025,1800,2320,2000,2
+Karnataka,Tumkur,Sira,Paddy(Dhan)(Common),Hansa,FAQ,26/03/2025,0,0,2500,2
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,27/03/2025,17000,19000,17800,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,12/03/2025,8000,17800,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,14/03/2025,8000,12700,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,17/03/2025,9000,17800,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,21/03/2025,9000,20100,12500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,28/03/2025,16800,18200,17500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,24/03/2025,10000,12000,10800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,25/03/2025,12000,12000,12000,129
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,22/03/2025,10500,10500,10500,132
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,02/03/2025,38000,40000,39000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,20/03/2025,39551,48044,44329,140
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,02/03/2025,2200,3400,2262,296
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Medium,26/03/2025,18,40,20,200
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,26/03/2025,9900,10200,10023,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,26/03/2025,3500,16160,9262,261
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,22/04/2025,2300,6600,5300,218
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,08/04/2025,3200,7000,6300,219
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,21/04/2025,2800,3000,2800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,27/04/2025,2000,2200,2000,296
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,22/04/2025,9800,9800,9800,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,23/04/2025,6000,15000,8515,261
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,23/04/2025,0,0,3426,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,28/04/2025,0,0,3421,30
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,08/04/2025,1100,2000,1200,27
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,22/04/2025,0,0,5905,10
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,18/04/2025,18000,18525,18000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,26/04/2025,16000,16400,16091,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,10/04/2025,17500,18000,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,10/04/2025,14000,14500,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,28/04/2025,10200,21300,18500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,16/04/2025,17200,18000,17600,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,16/04/2025,12000,14000,12000,129
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,08/04/2025,0,0,2570,4
+Karnataka,Tumkur,Huliyar,Coconut,Other,FAQ,21/04/2025,4920,5200,5000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,16/04/2025,24578,24578,24578,138
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,16/04/2025,5583,5583,5583,108
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,08/04/2025,49800,52600,50900,140
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,05/05/2025,0,0,5544,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,07/05/2025,0,0,5823,10
+Karnataka,Tumkur,Sira,"Bengal Gram(Gram)(Whole)",Other,FAQ,05/05/2025,6900,6900,6900,6
+Karnataka,Tumkur,Tumkur,Wheat,"Super Fine",FAQ,21/05/2025,2400,3000,2650,1
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,15/05/2025,3100,5500,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,19/05/2025,3200,5600,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,22/05/2025,3500,5800,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,27/05/2025,3500,5500,4200,3
+Karnataka,Tumkur,Tumkur,Soapnut(Antawala/Retha),Medium,FAQ,19/05/2025,5100,10200,6800,207
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,12/05/2025,3600,3600,3600,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,27/05/2025,2900,3700,3200,208
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,11/02/2025,30000,30000,30000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,06/02/2025,12000,30000,20000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,18/02/2025,14000,28000,20000,138
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,"Ref grade-1",01/02/2025,9000,16000,12363,132
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,18/02/2025,10500,11000,10900,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,28/02/2025,8600,8800,8700,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,20/02/2025,13800,14000,13900,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,12/02/2025,8000,9700,9615,129
+Karnataka,Tumkur,Madhugiri,Copra,other,"Ref grade-1",05/02/2025,8000,9220,9200,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,06/02/2025,14000,14720,14500,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,13/02/2025,13800,14700,14200,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,17/02/2025,13800,14414,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,07/02/2025,7000,13700,11000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,19/02/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,12/02/2025,9500,11000,10500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,20/02/2025,10500,10500,10500,129
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,15/02/2025,9800,9950,9912,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,24/02/2025,9700,9700,9700,260
+Karnataka,Tumkur,Tumkur,Groundnut,Other,FAQ,18/02/2025,4600,6900,5400,10
+Karnataka,Tumkur,Madhugiri,Paddy(Dhan)(Common),"Paddy Medium",FAQ,12/02/2025,1800,2200,2000,2
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,18/02/2025,2150,2750,2400,2
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,28/02/2025,2100,2700,2320,2
+Karnataka,Tumkur,Sira,"Bengal Gram(Gram)(Whole)",Other,FAQ,27/02/2025,6474,6500,6489,6
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,28/02/2025,2350,2900,2580,208
+Karnataka,Tumkur,Turvekere,Goat,Goat,"Ref grade-1",03/02/2025,13500,14500,14000,219
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,18/02/2025,2300,6800,5700,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium","Ref grade-1",04/02/2025,2400,6900,5800,218
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium","Ref grade-1",03/02/2025,12500,13500,12800,218
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,18/02/2025,3300,4000,3400,296
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,27/02/2025,2306,18000,8415,261
+Karnataka,Tumkur,Sira,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,13/02/2025,9500,9500,9500,265
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,11/02/2025,3000,3636,3568,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,18/02/2025,3330,3600,3407,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,28/02/2025,2400,4000,3100,30
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,24/02/2025,22000,28000,22500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,18/02/2025,45051,45534,45167,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,27/02/2025,48000,50600,49500,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,12/05/2025,24000,26000,25000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,02/05/2025,22233,23212,23057,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,28/05/2025,23300,23300,23300,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,27/05/2025,52800,54200,53500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,31/05/2025,54000,55200,54500,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,06/05/2025,24800,24800,24800,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,12/05/2025,25000,25000,25000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,27/05/2025,16000,32000,24000,138
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,07/05/2025,5500,7000,6767,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,30/05/2025,7100,16500,9100,261
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,27/05/2025,14055,14055,14055,260
+Karnataka,Tumkur,Sira,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,07/05/2025,4000,4000,4000,296
+Karnataka,Tumkur,Sira,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,13/05/2025,2400,4850,3760,296
+Karnataka,Tumkur,Huliyar,Lint,Other,FAQ,30/05/2025,12200,12700,12500,280
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,02/05/2025,3200,7400,6200,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,13/05/2025,3300,7500,6300,219
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,27/05/2025,3200,7400,6200,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,12/05/2025,9000,14000,12000,219
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,08/05/2025,17600,18000,17846,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,27/05/2025,19100,20000,19500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,28/05/2025,19500,20000,19770,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,31/05/2025,18500,21000,19000,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,13/05/2025,17000,17000,17000,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,21/05/2025,18200,18200,18200,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,15/05/2025,17400,18712,18400,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,22/05/2025,18500,19566,19566,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,26/05/2025,19500,20900,20500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,02/05/2025,8300,19500,13500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,14/05/2025,8300,15000,13300,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,17/05/2025,9200,17800,15000,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,22/05/2025,16100,17800,16600,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,22/05/2025,12100,14000,13500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,12/05/2025,16800,18000,17500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,23/05/2025,16800,17000,16800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,31/05/2025,16800,21000,20000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,31/05/2025,12000,13000,12000,129
+Karnataka,Tumkur,Huliyar,"Honge seed","Honge Seed",FAQ,24/05/2025,4000,4500,4200,124
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,27/05/2025,2500,6800,5500,218
+Karnataka,Tumkur,Sira,Maize,Local,Local,01/07/2025,0,0,2570,4
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,02/07/2025,3600,5600,4100,3
+Karnataka,Tumkur,Sira,"Black Gram (Urd Beans)(Whole)",Other,FAQ,09/06/2025,0,0,10300,8
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,01/07/2025,2800,5400,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,02/06/2025,3600,5400,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,24/06/2025,3500,6000,4600,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,30/06/2025,2250,4600,3400,3
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,10/06/2025,0,0,3105,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,18/06/2025,0,0,3436,30
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,FAQ,01/07/2025,10500,12600,11200,43
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,Local,07/07/2025,9500,13500,11600,43
+Karnataka,Tumkur,Tumkur,Tomato,Tomato,Local,15/07/2025,1500,2400,1900,78
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",Local,18/07/2025,6000,6000,6000,108
+Karnataka,Tumkur,Huliyar,Coconut,Other,Local,14/07/2025,9200,10000,9337,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,02/06/2025,20000,25000,21950,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,11/07/2025,22000,30000,27546,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,18/07/2025,20000,30000,26945,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,23/06/2025,22000,38000,26000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,05/07/2025,28000,42000,32000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,09/07/2025,25000,38000,30000,138
+Karnataka,Tumkur,Tumkur,Coconut,Grade-I,FAQ,30/06/2025,26000,41000,30000,138
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,06/06/2025,52500,55000,53600,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,17/07/2025,51500,54600,53100,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,09/06/2025,24000,25000,24196,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,19/06/2025,23500,25000,24144,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,Local,02/07/2025,21500,23000,22000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,Local,15/07/2025,26248,52055,51093,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,Local,21/07/2025,31530,41040,37651,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Other,FAQ,19/06/2025,51000,53000,52300,140
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,Local,05/07/2025,12500,12500,12500,132
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,04/06/2025,19400,20000,19411,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,16/06/2025,22000,22500,22200,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,21/06/2025,22000,23000,22200,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,12/06/2025,19800,20000,19864,129
+Karnataka,Tumkur,Sira,Copra,Ball,Local,15/07/2025,23000,23000,23000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,05/06/2025,19500,21100,20115,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,02/06/2025,10000,22000,16000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,12/06/2025,10800,22400,17000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,03/07/2025,12000,26500,23000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,10/07/2025,13300,25000,24000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,12/07/2025,15700,29800,23000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,19/07/2025,17800,25600,21000,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,19/06/2025,16500,19500,17600,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,08/07/2025,17000,19800,18600,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,09/07/2025,21500,23600,22000,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,16/07/2025,19000,24000,21500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,10/06/2025,17000,22000,20000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",02/07/2025,12000,20000,17300,129
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,05/06/2025,3600,4600,4100,124
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,08/07/2025,4500,6870,5520,126
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,15/07/2025,4500,7500,6100,126
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",Local,08/07/2025,2500,6800,5700,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",Local,15/07/2025,2600,6700,5600,218
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Medium,21/06/2025,18,40,20,200
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,06/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,13/06/2025,2000,2400,2200,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,16/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,19/07/2025,2250,2300,2250,296
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,05/06/2025,7500,14600,9100,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,06/06/2025,8000,14600,9500,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",Local,04/07/2025,7500,14100,9500,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",Local,08/07/2025,6000,12300,8400,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",Local,10/07/2025,7500,14500,9100,261
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,04/06/2025,9200,9400,9287,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,10/06/2025,9300,9300,9300,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,05/07/2025,8950,9150,9045,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,13/01/2025,7800,12200,9184,260
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,20/01/2025,13000,14000,13500,219
+Karnataka,Tumkur,Pavagada,Sheep,"Sheep Small",FAQ,07/01/2025,3000,18500,6500,218
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,20/01/2025,12000,13000,12500,218
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,22/01/2025,4500,13500,10338,280
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,03/01/2025,11187,11187,11187,264
+Karnataka,Tumkur,Pavagada,"Ground Nut Seed","Ground Nut Seed",FAQ,08/01/2025,5000,11000,6500,268
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,28/02/2025,2000,2200,2090,296
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,24/02/2025,19000,22000,19690,138
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,19/02/2025,14000,14500,14374,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,"Ref grade-1",01/02/2025,14000,14100,14032,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,"Ref grade-1",02/02/2025,14000,14100,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,19/02/2025,10500,11000,10800,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,18/02/2025,9400,9600,9500,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,15/02/2025,14000,14000,14000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,20/02/2025,13800,15006,14500,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,27/02/2025,13800,14702,14535,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,13/02/2025,8300,14000,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,14/02/2025,8000,14400,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,15/02/2025,7700,14500,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,17/02/2025,7500,15500,13500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,21/02/2025,8500,14500,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,"Ref grade-1",01/02/2025,8300,17800,10500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,28/02/2025,9500,11000,10500,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,28/02/2025,10200,11600,11200,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,14/02/2025,13800,15800,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,15/02/2025,10500,13300,10500,129
+Karnataka,Tumkur,Pavagada,Groundnut,"Big (With Shell)",FAQ,03/01/2025,4800,5600,5200,10
+Karnataka,Tumkur,Tumkur,Groundnut,Other,FAQ,20/01/2025,4900,7100,5400,10
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,06/01/2025,2150,2800,2450,2
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,"Ref grade-1",31/01/2025,10500,13200,11800,43
+Karnataka,Tumkur,Huliyar,"Ragi (Finger Millet)",Local,FAQ,06/01/2025,2800,3000,2800,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,02/01/2025,2500,3900,3200,30
+Karnataka,Tumkur,Tumkur,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",31/01/2025,5600,8000,6600,8
+Karnataka,Tumkur,Madhugiri,Rice,"Broken Rice",FAQ,18/01/2025,1800,2200,2000,3
+Karnataka,Tumkur,Madhugiri,Rice,Other,"Ref grade-1",30/01/2025,1100,5500,5000,3
+Karnataka,Tumkur,Tumkur,Rice,Other,"Ref grade-1",31/01/2025,3500,6200,4800,3
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,24/02/2025,1100,3000,1200,27
+Karnataka,Tumkur,Madhugiri,"Ragi (Finger Millet)",Local,FAQ,17/02/2025,2500,4000,3300,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,"Ref grade-1",03/02/2025,3672,3672,3672,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,18/02/2025,2500,4800,3000,30
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,27/02/2025,3400,6100,4400,3
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,22/01/2025,7650,7650,7650,263
+Karnataka,Tumkur,Pavagada,"Castor Seed","Castor seed",FAQ,10/01/2025,5200,5400,5300,123
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,07/01/2025,25000,27000,26752,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,15/01/2025,23000,25000,24000,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,01/01/2025,11000,19000,16009,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,06/01/2025,17000,18000,17583,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,29/01/2025,15000,17000,15340,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,06/01/2025,24000,26000,25000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Red,FAQ,22/01/2025,22000,30000,23000,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,20/01/2025,49000,50700,50100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,"Ref grade-1",31/01/2025,48500,50100,49500,140
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,04/01/2025,9718,18000,11863,132
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,25/01/2025,10000,11000,10535,132
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,10/01/2025,14000,14200,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,11/01/2025,14000,14250,14027,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,15/01/2025,14200,14500,14300,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,18/01/2025,14000,14250,14181,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,"Ref grade-1",31/01/2025,14000,14100,14032,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,17/01/2025,11500,11900,11500,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,03/01/2025,8000,8200,8000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,16/01/2025,14000,14500,14400,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,16/01/2025,10000,15000,14053,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,28/01/2025,10000,14000,13866,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,10/01/2025,14000,14000,14000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,23/01/2025,13675,14500,14220,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,17/01/2025,7700,14600,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,18/01/2025,8000,14400,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,"Ref grade-1",31/01/2025,7800,14200,13000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,01/01/2025,14000,14600,14100,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,16/01/2025,14000,14440,14400,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,01/01/2025,8200,11900,8200,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,17/01/2025,13000,13000,13000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,27/01/2025,9400,12500,12000,129
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut","Ref grade-1",01/02/2025,18,30,20,200
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,15/02/2025,10425,10800,10611,264
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,19/02/2025,3000,13148,8967,261
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,11/02/2025,3500,7400,6300,219
+Karnataka,Tumkur,Sira,Goat,Goat,"Ref grade-1",04/02/2025,3300,7500,6600,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,24/02/2025,13500,14500,14000,219
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,24/02/2025,12500,13500,12800,218
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,"Ref grade-1",04/02/2025,4000,6000,4134,10
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,19/02/2025,2500,2500,2500,4
+Karnataka,Tumkur,Tumkur,Maize,Local,FAQ,18/02/2025,1800,2600,2200,4
+Karnataka,Tumkur,Tumkur,Soapnut(Antawala/Retha),Medium,FAQ,27/02/2025,5600,10800,6600,207
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,19/02/2025,2600,2600,2600,208
+Karnataka,Tumkur,Sira,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/02/2025,6100,6100,6100,49
+Karnataka,Tumkur,Sira,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,3817,3817,3817,49
+Karnataka,Tumkur,Sira,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,4000,4000,4000,114
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,12/02/2025,22084,22084,22084,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,24/02/2025,48306,48306,48306,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,"Ref grade-1",03/02/2025,23100,23100,23100,140
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,26/03/2025,8000,11600,11500,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,25/03/2025,15200,16500,15850,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,13/03/2025,14000,14896,14400,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,20/03/2025,14900,17100,17026,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,20/03/2025,9000,18500,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,"Ref grade-2",04/03/2025,7500,14600,10500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,19/03/2025,14000,15700,14000,129
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,26/03/2025,0,0,6199,10
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,25/03/2025,0,0,2570,4
+Karnataka,Tumkur,Huliyar,"Tamarind Fruit","Tamarind Fruit",FAQ,12/03/2025,4200,4500,4400,261
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/03/2025,2350,2500,2400,296
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,24/03/2025,0,0,3638,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,25/03/2025,0,0,3395,30
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,25/03/2025,2400,6700,5900,218
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,04/05/2025,890,1200,900,27
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,23/05/2025,800,1200,900,27
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,19/05/2025,0,0,2341,4
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,14/05/2025,0,0,5175,10
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,19/05/2025,2600,2600,2600,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,14/05/2025,3200,5900,4400,3
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,21/05/2025,1600,2500,2000,23
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,30/05/2025,24500,25500,25275,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,02/05/2025,24500,35000,25000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,04/05/2025,25000,35000,26000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,22/05/2025,22500,30000,23000,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,22/05/2025,51200,53200,52300,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,07/05/2025,18000,18000,18000,138
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,15/05/2025,18000,18100,18055,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,26/05/2025,19500,20000,19600,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,08/05/2025,10000,11000,10000,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,29/05/2025,11000,12500,11192,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,09/05/2025,16000,16500,16000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,11/05/2025,12300,12500,12400,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,14/05/2025,17500,18000,17600,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,03/05/2025,9500,20700,15000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,07/05/2025,8500,18800,15000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,12/05/2025,9000,17200,13000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,24/05/2025,11000,18800,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,30/05/2025,8000,20800,16000,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,31/05/2025,15000,16500,15800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,16/05/2025,16800,18000,17800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,30/05/2025,17000,19000,17000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,16/05/2025,10000,15000,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,30/05/2025,12000,14500,14000,129
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,06/05/2025,2500,6800,5500,218
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,26/05/2025,12500,14000,13500,218
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,03/05/2025,2100,2300,2200,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,05/05/2025,2000,2200,2065,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,22/05/2025,200,2200,2100,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,24/05/2025,2000,2200,2110,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,27/05/2025,2200,2400,2300,296
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,06/05/2025,5000,15250,10125,261
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,13/05/2025,7000,7333,7143,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,19/05/2025,7500,16200,9100,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,21/05/2025,8000,16500,9800,261
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,06/05/2025,8500,9800,9242,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,07/05/2025,9600,10000,9767,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,28/05/2025,9550,9550,9550,260
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,04/04/2025,2200,2500,2333,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,28/04/2025,3700,3900,3800,296
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,16/04/2025,9900,9900,9900,260
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,16/04/2025,6044,15483,7115,261
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,22/04/2025,4020,4020,4020,261
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,22/04/2025,0,0,2570,4
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,16/04/2025,0,0,3499,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,22/04/2025,0,0,3450,30
+Karnataka,Tumkur,Madhugiri,"Tender Coconut","Tender Coconut",Small,09/04/2025,18,40,20,200
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,23/04/2025,0,0,6033,10
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,03/04/2025,17300,18500,17500,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,21/04/2025,18500,18900,18800,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,22/04/2025,18350,18500,18421,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,08/04/2025,13500,14500,13933,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,24/04/2025,17300,18700,18405,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,28/04/2025,17500,18200,18000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,02/04/2025,9000,16000,12500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,25/04/2025,8800,21500,14000,129
+Karnataka,Tumkur,Tumkur,Copra,Copra,FAQ,08/04/2025,15600,16900,16100,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,02/04/2025,16800,17100,16800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,15/04/2025,16800,19000,17000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,23/04/2025,16800,16800,16800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,08/04/2025,11000,12000,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,17/04/2025,12000,12000,12000,129
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,05/04/2025,23000,24000,23500,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,07/04/2025,22500,30000,23000,140
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,22/04/2025,3600,3600,3600,208
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,13/05/2025,10226,10226,10226,264
+Karnataka,Tumkur,Sira,"Ground Nut Seed","Ground Nut Seed",FAQ,19/05/2025,11000,11000,11000,268
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,14/05/2025,12500,14000,13320,280
+Karnataka,Tumkur,Tumkur,Soapnut(Antawala/Retha),Medium,FAQ,27/05/2025,6100,10500,8500,207
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,31/05/2025,2800,3900,3650,208
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,31/05/2025,3600,4800,4100,124
+Karnataka,Tumkur,Sira,Millets,Other,FAQ,02/05/2025,4000,4000,4000,237
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,10/06/2025,0,0,5500,10
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,19/06/2025,3400,5600,4200,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,08/07/2025,3300,5600,4200,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,15/07/2025,3100,5600,4200,3
+Karnataka,Tumkur,Tumkur,Rice,Other,Local,17/07/2025,3400,5600,4100,3
+Karnataka,Tumkur,Sira,"Black Gram (Urd Beans)(Whole)",Other,FAQ,17/06/2025,0,0,10200,8
+Karnataka,Tumkur,Sira,Paddy(Dhan)(Common),Hansa,FAQ,09/06/2025,0,0,1800,2
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,26/06/2025,0,0,2300,4
+Karnataka,Tumkur,Sira,Maize,Local,Local,08/07/2025,0,0,2570,4
+Karnataka,Tumkur,Sira,Maize,Local,Local,18/07/2025,0,0,2500,4
+Karnataka,Tumkur,Sira,"Green Peas","Green Peas",FAQ,12/06/2025,4000,4000,4000,50
+Karnataka,Tumkur,Sira,"Green Peas","Green Peas",Local,11/07/2025,3750,3750,3750,50
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,19/06/2025,1800,2600,2000,23
+Karnataka,Tumkur,Huliyar,"Honge seed","Honge Seed",FAQ,20/06/2025,4100,4300,4200,124
+Karnataka,Tumkur,Sira,"Honge seed","Honge Seed",FAQ,10/06/2025,4500,4500,4500,124
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,18/07/2025,8850,8900,8875,260
+Karnataka,Tumkur,Tumkur,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,11/07/2025,8600,10500,9500,260
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,09/06/2025,7530,7530,7530,263
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,12/06/2025,6900,6900,6900,263
+Karnataka,Tumkur,Tumkur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,15/07/2025,6000,7800,6900,263
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,19/06/2025,7100,16500,10500,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",Local,02/07/2025,7100,16200,9400,261
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,09/06/2025,0,0,3622,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,17/06/2025,0,0,3689,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,Local,01/07/2025,0,0,3656,30
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,Local,03/07/2025,9600,12800,10600,43
+Karnataka,Tumkur,Sira,Goat,Goat,Local,01/07/2025,3500,7200,6400,219
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,02/06/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,17/06/2025,3200,3400,3300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,20/07/2025,3750,4000,3800,296
+Karnataka,Tumkur,Huliyar,"Alasande Gram","Alasande Gram",FAQ,10/07/2025,6000,6200,6150,281
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,04/06/2025,14000,14000,14000,280
+Karnataka,Tumkur,Sira,Lint,Other,Local,15/07/2025,12800,12800,12800,280
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,02/06/2025,19300,19800,19356,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,11/06/2025,21500,22500,22000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,17/06/2025,2100,22500,22167,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,18/06/2025,21800,23100,22000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,19/06/2025,22000,24000,22542,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,20/06/2025,22200,23500,22297,129
+Karnataka,Tumkur,Huliyar,Copra,other,Local,08/07/2025,15400,15900,15500,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,04/06/2025,21000,21000,21000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,03/06/2025,12200,20300,19000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,18/06/2025,11400,22300,17500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,25/06/2025,15000,25000,22000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,07/07/2025,12000,24000,20000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,17/07/2025,12000,23700,22000,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,18/07/2025,13500,24000,21000,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,02/06/2025,18500,20600,19800,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,24/06/2025,18600,22400,21600,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,10/07/2025,19100,23100,21500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,26/06/2025,12000,22000,16000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",07/07/2025,12000,16000,12000,129
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,10/06/2025,23300,23685,23500,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,18/06/2025,20000,30000,25760,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,01/07/2025,25000,25900,25666,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,08/07/2025,25987,26562,26370,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,17/07/2025,28421,28421,28421,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,03/07/2025,24000,38000,30000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,17/07/2025,26000,38000,32000,138
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,15/06/2025,26000,28000,26500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,18/06/2025,23400,23400,23400,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,10/06/2025,52100,54500,53200,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,01/07/2025,49900,52900,51500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,11/07/2025,51000,53100,52100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,15/07/2025,51000,55000,52100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,16/07/2025,50000,54600,52100,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,24/06/2025,2200,23000,22753,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,26/06/2025,42509,42509,42509,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,05/06/2025,52200,54900,53500,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,23/06/2025,51000,53100,52100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,04/07/2025,50500,54200,51500,140
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,"Ref grade-1",31/01/2025,2000,2700,2250,2
+Karnataka,Tumkur,Tumkur,Paddy(Dhan)(Common),Sona,FAQ,20/01/2025,2000,2750,2300,2
+Karnataka,Tumkur,Tumkur,Wheat,"Super Fine","Ref grade-1",31/01/2025,2600,3450,2880,1
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,16/01/2025,1180,6000,1200,27
+Karnataka,Tumkur,Tumkur,Onion,Other,"Ref grade-1",31/01/2025,2200,3100,2600,23
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,02/01/2025,2400,3400,2950,23
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,30/01/2025,4000,6000,5381,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,01/01/2025,3300,6389,4460,10
+Karnataka,Tumkur,Pavagada,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,02/01/2025,5000,6500,5500,6
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,04/01/2025,2389,2389,2389,4
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,20/01/2025,3600,6600,4650,3
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,10/01/2025,24000,25000,24500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,24/01/2025,25092,25092,25092,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,29/01/2025,23373,23373,23373,140
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",FAQ,03/01/2025,4716,4716,4716,108
+Karnataka,Tumkur,Pavagada,Sheep,"Sheep Small",FAQ,15/01/2025,2500,18000,6500,218
+Karnataka,Tumkur,Sira,Sheep,"Sheep Medium",FAQ,01/01/2025,2600,6900,5900,218
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,02/01/2025,14300,14300,14300,280
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,04/01/2025,12203,14500,12814,280
+Karnataka,Tumkur,Pavagada,"She Goat","She Goat",FAQ,15/01/2025,3500,22000,8000,283
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,22/01/2025,10571,11000,10684,264
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed","Ref grade-1",31/01/2025,2000,2650,2250,208
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,29/01/2025,1800,1900,1800,296
+Karnataka,Tumkur,Pavagada,Gur(Jaggery),Unde,FAQ,13/01/2025,4000,5000,4500,74
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,29/01/2025,3300,3726,3592,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,"Ref grade-1",31/01/2025,2400,3900,2950,30
+Karnataka,Tumkur,Madhugiri,"Ragi (Finger Millet)",Local,FAQ,23/01/2025,3100,4290,3150,30
+Karnataka,Tumkur,Tumkur,"Ragi (Finger Millet)",Local,FAQ,06/01/2025,2600,3900,3100,30
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,20/03/2025,3900,3900,3900,208
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,01/03/2025,2000,22000,2000,296
+Karnataka,Tumkur,Turvekere,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,12/03/2025,1900,1900,1900,296
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,21/03/2025,7127,7127,7127,261
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,22/03/2025,6550,6550,6550,263
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,02/03/2025,14350,14600,14447,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,01/03/2025,8000,11950,11800,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,01/03/2025,8000,11950,10721,129
+Karnataka,Tumkur,Madhugiri,Copra,other,FAQ,19/03/2025,7000,9600,9500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,25/03/2025,14800,17200,14800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,12/03/2025,9000,9000,9000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,18/03/2025,9500,11000,10500,129
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,23/03/2025,48100,48100,48100,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,26/03/2025,19531,19531,19531,138
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,15/04/2025,3300,7500,6300,219
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,08/04/2025,18000,18500,18335,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,20/04/2025,17300,18250,17439,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,16/04/2025,14000,15000,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,08/04/2025,13500,14000,13900,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,23/04/2025,16500,17500,17000,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,23/04/2025,17000,17000,17000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,03/04/2025,17100,19000,18350,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,07/04/2025,17200,18826,18500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,08/04/2025,9500,17400,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,12/04/2025,9000,16500,13000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,23/04/2025,9200,19400,13000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,26/04/2025,9500,18100,17400,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,03/04/2025,17100,18300,18000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,08/04/2025,16800,18000,16800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,17/04/2025,16800,18200,17000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,23/04/2025,10500,15000,12000,129
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,23/04/2025,9667,9667,9667,264
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,08/04/2025,0,0,3330,30
+Karnataka,Tumkur,Sira,Rice,Sona,FAQ,23/04/2025,6387,6387,6387,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,08/04/2025,3200,5800,4600,3
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,03/04/2025,29500,31000,29999,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,23/04/2025,52035,54272,53824,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,08/04/2025,24651,24651,24651,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,22/04/2025,22900,22900,22900,138
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,06/05/2025,0,0,2522,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,12/05/2025,0,0,2509,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,13/05/2025,0,0,2570,4
+Karnataka,Tumkur,Madhugiri,Gur(Jaggery),Unde,FAQ,16/05/2025,920,4000,950,74
+Karnataka,Tumkur,Tumkur,Gur(Jaggery),Other,FAQ,29/05/2025,3700,5000,4400,74
+Karnataka,Tumkur,Sira,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/05/2025,0,0,7050,49
+Karnataka,Tumkur,Tumkur,Onion,Onion,FAQ,23/05/2025,1600,2400,2000,23
+Karnataka,Tumkur,Tumkur,Onion,Other,FAQ,14/05/2025,1800,2600,2100,23
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,13/05/2025,2700,2800,2760,3
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,21/05/2025,2600,6640,6073,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,20/05/2025,3400,5900,4100,3
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,21/05/2025,3500,5800,4600,3
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,16/05/2025,1100,1250,1200,27
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,FAQ,21/05/2025,750,1200,800,27
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,05/05/2025,0,0,3300,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,28/05/2025,0,0,3481,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,06/05/2025,0,0,3366,30
+Karnataka,Tumkur,Sira,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/05/2025,4000,4000,4000,114
+Karnataka,Tumkur,Tumkur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/05/2025,4100,5400,4800,114
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,12/05/2025,18100,18500,18200,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,23/05/2025,18800,19000,18876,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,27/05/2025,13400,13600,13500,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,05/05/2025,10000,11000,10600,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,12/05/2025,10500,10700,10600,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,19/05/2025,18000,18600,18564,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,29/05/2025,20000,21809,20500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,21/05/2025,8900,18400,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,28/05/2025,10800,20600,17500,129
+Karnataka,Tumkur,Tumkur,Copra,Ball,FAQ,14/05/2025,16100,17800,17100,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,27/05/2025,12800,15600,14100,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,28/05/2025,11500,16500,14200,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,12/05/2025,10000,13000,12500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,26/05/2025,11000,13000,12000,129
+Karnataka,Tumkur,Sira,"Honge seed","Honge Seed",FAQ,07/05/2025,4500,4600,4563,124
+Karnataka,Tumkur,Sira,"Honge seed","Honge Seed",FAQ,14/05/2025,5000,5000,5000,124
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",FAQ,15/05/2025,2600,4500,3500,126
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,17/05/2025,20500,33000,21846,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,14/05/2025,43805,51675,48850,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,19/05/2025,26000,49547,29396,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,27/05/2025,20000,53223,33896,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,21/05/2025,51000,52800,51600,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,23/05/2025,51000,53100,52100,140
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,02/05/2025,21000,23114,22345,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,05/05/2025,25000,25000,25000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,14/05/2025,26000,26000,26000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,28/05/2025,21600,21600,21600,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,15/05/2025,18000,32000,21000,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,FAQ,28/05/2025,18000,32000,24000,138
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,09/05/2025,2500,2700,2645,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,14/05/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,25/05/2025,3700,3900,3800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,28/05/2025,190,2100,2000,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,30/05/2025,2200,2400,2300,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,31/05/2025,3600,4000,3800,296
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,19/05/2025,12500,13000,12720,280
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,02/05/2025,7125,15250,9314,261
+Karnataka,Tumkur,Sira,"Tamarind Fruit","Tamarind Fruit",FAQ,14/05/2025,5500,13730,9818,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,14/05/2025,7400,15500,9400,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,23/05/2025,7600,16500,9100,261
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,02/05/2025,9600,9600,9600,260
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,06/05/2025,7100,7100,7100,263
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,12/05/2025,12500,15000,14000,218
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,06/05/2025,3200,7400,6200,219
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,02/05/2025,3600,3600,3600,208
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,07/05/2025,3800,3800,3800,208
+Karnataka,Tumkur,Sira,"Tamarind Seed","Tamarind Seed",FAQ,21/05/2025,3500,3500,3500,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,20/05/2025,2800,3800,3200,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,23/05/2025,2800,3700,3200,208
+Karnataka,Tumkur,Madhugiri,Groundnut,Other,FAQ,18/02/2025,3800,5900,4765,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,15/02/2025,5000,5000,5000,10
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,19/02/2025,17500,17500,17500,138
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,18/02/2025,3100,7600,6400,219
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",FAQ,10/02/2025,12500,13500,12800,218
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,11/02/2025,2400,2500,2455,4
+Karnataka,Tumkur,Sira,Maize,Local,"Ref grade-1",04/02/2025,2250,2500,2268,4
+Karnataka,Tumkur,Tumkur,Maize,Local,FAQ,28/02/2025,1800,2550,2100,4
+Karnataka,Tumkur,Sira,"Dry Chillies",Local,FAQ,01/01/2025,16600,16600,16600,132
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,12/01/2025,22000,23000,22845,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,19/01/2025,21000,23000,22000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,21/01/2025,21400,28000,21500,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,06/01/2025,45552,46690,46038,140
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,06/01/2025,14000,14200,14057,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,12/01/2025,14000,14200,14000,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,16/01/2025,14100,14200,14129,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,27/01/2025,14000,14030,14016,129
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,28/01/2025,13500,14000,13793,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,03/01/2025,14100,14200,14200,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,FAQ,22/01/2025,10000,14200,14000,129
+Karnataka,Tumkur,Sira,Copra,Ball,FAQ,24/01/2025,14100,14100,14100,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,02/01/2025,14000,15100,14619,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,20/01/2025,13700,14500,14100,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,27/01/2025,13700,14550,13914,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,04/01/2025,7500,16000,13500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,07/01/2025,7000,14170,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,10/01/2025,8300,15000,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,28/01/2025,7500,14000,10500,129
+Karnataka,Tumkur,Tumkur,Copra,other,"Ref grade-1",31/01/2025,11000,11600,11200,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,07/01/2025,14000,14000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,15/01/2025,14000,14400,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,27/01/2025,13800,14000,13800,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,28/01/2025,13800,13800,13800,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,03/01/2025,10000,10000,10000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,04/01/2025,11500,12000,11500,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,10/01/2025,8300,10500,8300,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,16/01/2025,12000,12000,12000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,18/01/2025,8300,12400,9500,129
+Karnataka,Tumkur,Pavagada,"Castor Seed","Castor seed",FAQ,15/01/2025,4800,5200,5000,123
+Karnataka,Tumkur,Tumkur,Garlic,Garlic,FAQ,18/02/2025,12000,18000,14000,25
+Karnataka,Tumkur,Sira,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",04/02/2025,7500,7500,7500,92
+Karnataka,Tumkur,Tumkur,Onion,Onion,FAQ,27/02/2025,2500,3600,2900,23
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,15/02/2025,19000,19000,19000,138
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,27/02/2025,2479,2540,2507,4
+Karnataka,Tumkur,Tumkur,Maize,Local,FAQ,27/02/2025,1800,2600,2150,4
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,12/02/2025,3330,3700,3571,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,"Ref grade-1",04/02/2025,3330,3700,3481,30
+Karnataka,Tumkur,Turvekere,"Ragi (Finger Millet)",Fine,FAQ,17/02/2025,3900,3900,3900,30
+Karnataka,Tumkur,Madhugiri,Ginger(Dry),Other,"Ref grade-1",01/02/2025,1110,5000,1200,27
+Karnataka,Tumkur,Huliyar,Same/Savi,"Same/Savi Local",FAQ,15/01/2025,3000,3500,3350,122
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,"Ref grade-1",03/02/2025,23500,25000,24000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,12/02/2025,21500,28000,22000,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Other,FAQ,17/02/2025,22000,28000,22500,140
+Karnataka,Tumkur,Sira,Lint,Other,FAQ,27/02/2025,12803,12803,12803,280
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,27/02/2025,7200,16800,12500,261
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,28/02/2025,7000,15500,9500,261
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,17/02/2025,8000,9000,8500,129
+Karnataka,Tumkur,Huliyar,Copra,other,"Ref grade-1",03/02/2025,970,9900,9800,129
+Karnataka,Tumkur,Madhugiri,Copra,Copra,"Ref grade-1",05/02/2025,10000,12800,12687,129
+Karnataka,Tumkur,Sira,Copra,Ball,"Ref grade-1",01/02/2025,14000,14000,14000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,10/02/2025,13800,14800,14445,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,24/02/2025,14000,14801,14706,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,08/02/2025,7000,13800,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,12/02/2025,7500,14500,10500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,24/02/2025,8000,17800,11000,129
+Karnataka,Tumkur,Tiptur,Copra,other,"Ref grade-1",04/02/2025,8000,17800,9500,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,06/02/2025,10800,11500,11000,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,18/02/2025,10200,11200,10500,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,13/02/2025,13800,14300,14200,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,18/02/2025,14000,14000,14000,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,25/02/2025,14000,14700,14000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,06/02/2025,9500,10500,10000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,07/02/2025,11000,11000,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,13/02/2025,10400,12000,11000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,17/02/2025,8500,11000,10000,129
+Karnataka,Tumkur,Turvekere,Copra,other,FAQ,25/02/2025,10500,12000,10500,129
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,24/03/2025,0,0,6190,10
+Karnataka,Tumkur,Sira,Groundnut,Other,FAQ,25/03/2025,0,0,6634,10
+Karnataka,Tumkur,Madhugiri,"Chili Red",Other,FAQ,20/03/2025,8000,10000,9000,26
+Karnataka,Tumkur,Sira,Rice,Other,FAQ,20/03/2025,3000,3000,3000,3
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,02/06/2025,0,0,3500,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,FAQ,04/06/2025,0,0,3480,30
+Karnataka,Tumkur,Sira,"Ragi (Finger Millet)",Local,Local,08/07/2025,0,0,3551,30
+Karnataka,Tumkur,Tumkur,Coriander(Leaves),Local,FAQ,05/06/2025,9500,14500,12100,43
+Karnataka,Tumkur,Tumkur,Onion,Onion,Local,08/07/2025,1800,2400,2150,23
+Karnataka,Tumkur,Tumkur,Potato,Other,FAQ,17/06/2025,2200,3000,2650,24
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,10/06/2025,0,0,2250,4
+Karnataka,Tumkur,Sira,Maize,Local,FAQ,18/06/2025,0,0,2284,4
+Karnataka,Tumkur,Tumkur,Rice,Other,FAQ,10/06/2025,3500,6500,4600,3
+Karnataka,Tumkur,Tumkur,Tomato,Tomato,Local,21/07/2025,1500,2200,1710,78
+Karnataka,Tumkur,Sira,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",Local,01/07/2025,6901,6901,6901,263
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,04/06/2025,10180,10300,10225,264
+Karnataka,Tumkur,Sira,"Black Gram Dal (Urd Dal)","Black Gram Dal",Local,05/07/2025,9400,9400,9400,264
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,09/06/2025,9000,9000,9000,260
+Karnataka,Tumkur,Sira,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",Local,08/07/2025,9000,9150,9056,260
+Karnataka,Tumkur,Huliyar,Lint,Other,FAQ,09/06/2025,13000,13500,13000,280
+Karnataka,Tumkur,Sira,Goat,Goat,FAQ,24/06/2025,3400,7400,6300,219
+Karnataka,Tumkur,Sira,Goat,Goat,Local,15/07/2025,3500,7300,6000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,FAQ,02/06/2025,10000,15000,13000,219
+Karnataka,Tumkur,Turvekere,Goat,Goat,Local,14/07/2025,11000,13000,12000,219
+Karnataka,Tumkur,Turvekere,Sheep,"Sheep Medium",Local,14/07/2025,10000,12000,11000,218
+Karnataka,Tumkur,Sira,"Corriander seed","Coriander Seed",Local,11/07/2025,5570,5570,5570,108
+Karnataka,Tumkur,Tumkur,"Corriander seed","Coriander Seed",Local,04/07/2025,9600,13500,10800,108
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,05/06/2025,2700,3000,2800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,09/06/2025,3700,4000,3800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,21/06/2025,1900,2100,2000,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,08/07/2025,1800,2000,1800,296
+Karnataka,Tumkur,Huliyar,"Elephant Yam (Suran)","Elephant Yam (Suran)",Local,09/07/2025,2000,2200,2150,296
+Karnataka,Tumkur,Huliyar,Copra,Ball,FAQ,23/06/2025,23550,24500,23665,129
+Karnataka,Tumkur,Huliyar,Copra,Medium,FAQ,02/06/2025,12900,13100,13000,129
+Karnataka,Tumkur,Huliyar,Copra,other,FAQ,11/06/2025,13000,13500,13200,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,13/06/2025,17500,18200,17637,129
+Karnataka,Tumkur,Huliyar,Copra,Small,FAQ,14/06/2025,19500,21000,20000,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,12/06/2025,21000,24129,23850,129
+Karnataka,Tumkur,Tiptur,Copra,Copra,FAQ,16/06/2025,22000,23456,23000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,04/06/2025,10000,19700,15500,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,05/06/2025,10000,22100,19000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,09/06/2025,10000,20600,14000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,13/06/2025,13000,23100,18000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,21/06/2025,13800,23000,20000,129
+Karnataka,Tumkur,Tiptur,Copra,other,FAQ,30/06/2025,14000,29000,22500,129
+Karnataka,Tumkur,Tiptur,Copra,other,Local,02/07/2025,13800,29800,23000,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,05/06/2025,14200,16200,15100,129
+Karnataka,Tumkur,Tumkur,Copra,other,FAQ,23/06/2025,18500,22500,19800,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,07/07/2025,22100,24000,23500,129
+Karnataka,Tumkur,Tumkur,Copra,other,Local,11/07/2025,21000,24100,23150,129
+Karnataka,Tumkur,Turvekere,Copra,Copra,FAQ,02/06/2025,17000,20500,20000,129
+Karnataka,Tumkur,Turvekere,Copra,other,Local,10/07/2025,12000,24000,18000,129
+Karnataka,Tumkur,Turvekere,Copra,other,"Ref grade-1",04/07/2025,12000,20000,15800,129
+Karnataka,Tumkur,Tumkur,"Neem Seed","Neem Seed",Local,17/07/2025,4800,7200,6350,126
+Karnataka,Tumkur,Sira,Coconut,Grade-III,FAQ,26/06/2025,28000,28000,28000,138
+Karnataka,Tumkur,Sira,Coconut,Grade-III,Local,04/07/2025,22000,30000,26572,138
+Karnataka,Tumkur,Tumkur,Coconut,Coconut,Local,04/07/2025,25000,42000,34000,138
+Karnataka,Tumkur,Tumkur,"Honge seed","Honge Seed",FAQ,02/06/2025,3800,4800,4200,124
+Karnataka,Tumkur,Tumkur,"Tamarind Fruit","Tamarind Fruit",FAQ,10/06/2025,8500,15100,9600,261
+Karnataka,Tumkur,Tumkur,"Dry Chillies",Other,FAQ,30/06/2025,7000,18000,12000,132
+Karnataka,Tumkur,Tumkur,"Dry Chillies",Other,Local,11/07/2025,7100,12600,8900,132
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,19/07/2025,24350,25000,24500,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,FAQ,21/06/2025,23500,24000,23998,140
+Karnataka,Tumkur,Huliyar,Arecanut(Betelnut/Supari),Red,Local,03/07/2025,24000,24500,24200,140
+Karnataka,Tumkur,Madhugiri,Arecanut(Betelnut/Supari),Red,FAQ,19/06/2025,25000,40000,27000,140
+Karnataka,Tumkur,Sira,Arecanut(Betelnut/Supari),Other,FAQ,04/06/2025,20000,42157,35212,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Other,FAQ,17/06/2025,51200,54500,53100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,FAQ,04/06/2025,52000,54600,53100,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,07/07/2025,51000,53100,52400,140
+Karnataka,Tumkur,Tumkur,Arecanut(Betelnut/Supari),Rashi,Local,09/07/2025,51500,53200,52100,140
+Karnataka,Tumkur,Tumkur,Soapnut(Antawala/Retha),Medium,Local,08/07/2025,6000,11600,7850,207
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",FAQ,18/06/2025,2800,3800,3400,208
+Karnataka,Tumkur,Tumkur,"Tamarind Seed","Tamarind Seed",Local,04/07/2025,2800,3800,3200,208

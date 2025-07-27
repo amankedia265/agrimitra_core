@@ -1,0 +1,491 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,15/02/2025,1877,2021,1928,271
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,580,6069,5801,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,3801,5969,5674,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,2877,5963,5726,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,1477,5976,5638,6
+Karnataka,Gadag,Laxmeshwar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,25/02/2025,3050,5730,5541,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5639,5876,5750,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,08/02/2025,5828,5989,5913,6
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",03/02/2025,2139,2139,2139,28
+Karnataka,Gadag,Laxmeshwar,Soyabean,Soyabeen,FAQ,27/02/2025,2869,4029,3753,13
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,07/02/2025,5789,5789,5789,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,17/02/2025,5919,6219,6172,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,28/02/2025,6170,6170,6170,14
+Karnataka,Gadag,Laxmeshwar,Sunflower,Sunflower,FAQ,27/02/2025,6089,6089,6089,14
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,22/02/2025,1344,2293,1986,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,25/02/2025,1444,2560,2273,5
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,15/02/2025,2011,2203,2169,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,19/02/2025,1227,2244,2123,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,21/02/2025,2159,2221,2194,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,22/02/2025,2019,2144,2073,4
+Karnataka,Gadag,Laxmeshwar,Maize,Local,FAQ,27/02/2025,2175,2175,2175,4
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,07/02/2025,4147,4206,4160,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,20/02/2025,4110,4612,4498,10
+Karnataka,Gadag,Laxmeshwar,Groundnut,Balli/Habbu,FAQ,25/02/2025,2259,4239,3819,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,08/02/2025,1800,6209,4936,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,17/02/2025,2879,6833,5581,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,20/02/2025,2320,6839,5142,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,24/02/2025,2899,6859,5463,10
+Karnataka,Gadag,Gadag,Mustard,Other,FAQ,28/02/2025,4811,4811,4811,12
+Karnataka,Gadag,Laxmeshwar,Mustard,Other,FAQ,27/02/2025,5360,5819,5634,12
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,17/02/2025,5011,5011,5011,108
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,17/02/2025,1830,2317,2108,5
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,17/02/2025,1863,2261,2249,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,20/02/2025,1877,1877,1877,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,24/02/2025,2044,2150,2125,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,18/02/2025,2239,2239,2239,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,"Ref grade-1",01/02/2025,2266,2309,2289,4
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,14/02/2025,4090,5740,4341,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,24/02/2025,3866,6059,4539,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,"Ref grade-1",03/02/2025,3610,4468,4105,10
+Karnataka,Gadag,Laxmeshwar,Groundnut,Balli/Habbu,FAQ,24/02/2025,2219,4359,4089,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,12/02/2025,2609,6600,5454,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,21/02/2025,2750,6605,5354,10
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,13/02/2025,7379,7379,7379,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,15/02/2025,7369,7369,7369,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,24/02/2025,7129,7329,7292,281
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/02/2025,3111,5772,4102,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,3011,5719,4871,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/02/2025,2277,5379,4326,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/02/2025,2609,5419,4776,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/02/2025,3009,5269,4478,114
+Karnataka,Gadag,Laxmeshwar,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/02/2025,3260,5069,4003,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,11/02/2025,4059,4279,4132,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/02/2025,3879,3879,3879,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/02/2025,4059,5139,4872,114
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,22/01/2025,2169,3737,2615,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,24/01/2025,1977,4377,2760,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,30/01/2025,1807,4259,3124,1
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,22/01/2025,1801,2589,2128,5
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,23/01/2025,6189,6339,6275,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,27/01/2025,5819,6329,6198,14
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,27/01/2025,2106,8301,5816,9
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,30/01/2025,2150,4712,3502,108
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,13/02/2025,5069,5506,5269,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,21/02/2025,5369,5500,5408,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,25/02/2025,4401,5526,5250,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,"Ref grade-1",01/02/2025,4469,5569,4993,59
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,17/02/2025,6577,6577,6577,93
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,22/02/2025,6769,6813,6798,93
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,25/02/2025,5044,5044,5044,93
+Karnataka,Gadag,Laxmeshwar,Mataki,"Mataki (W)",FAQ,24/02/2025,5008,6609,6006,93
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,14/02/2025,7531,7566,7538,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,20/02/2025,4377,7501,6931,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,22/02/2025,7209,7521,7442,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,25/02/2025,5612,7609,7220,92
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,24/02/2025,1929,3857,2433,1
+Karnataka,Gadag,Gadag,Wheat,White,"Ref grade-1",05/02/2025,1829,3777,3154,1
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,15/02/2025,599,32955,22222,132
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,19/02/2025,5100,27786,18999,132
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,22/02/2025,1509,33209,10018,132
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,"Ref grade-1",01/02/2025,600,34109,12222,132
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,"Ref grade-1",05/02/2025,699,33669,11330,132
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,06/02/2025,3509,7812,6506,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,13/02/2025,2569,8250,5971,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,19/02/2025,1000,7307,6309,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,21/02/2025,3665,7629,7554,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,24/02/2025,1469,7207,4781,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/02/2025,1419,7512,5915,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",01/02/2025,799,8309,5904,9
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,06/02/2025,4889,4889,4889,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,15/02/2025,4012,5112,4287,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",01/02/2025,3809,5519,3973,8
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/02/2025,3412,5659,4382,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,4939,5639,5056,49
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,06/02/2025,1859,3309,2603,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,19/02/2025,1459,3015,2643,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,28/02/2025,2050,4827,3652,1
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,01/03/2025,1617,2865,2435,5
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/03/2025,1009,7211,6709,92
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,01/03/2025,2011,5677,4991,93
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,01/03/2025,2519,5339,3611,114
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,27/01/2025,5412,5412,5412,93
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,27/01/2025,2089,2393,2223,5
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,30/01/2025,2477,5949,5695,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,5557,6124,5983,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5680,5830,5729,6
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,30/01/2025,1077,5769,5287,49
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,24/01/2025,3890,5793,4756,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,27/01/2025,3570,5921,4700,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",31/01/2025,1609,5860,4262,10
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/01/2025,5850,6027,6002,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,5691,6109,5925,6
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,25/01/2025,2230,2320,2261,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,27/01/2025,2250,2250,2250,4
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,17/01/2025,7299,7299,7299,281
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,24/01/2025,1927,1927,1927,271
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/01/2025,3477,6950,5024,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/01/2025,4369,4400,4384,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/01/2025,4390,4390,4390,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/01/2025,4189,6009,4455,114
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,25/01/2025,5711,5711,5711,121
+Karnataka,Gadag,Gadag,Sajje,Sajje,"Ref grade-1",31/01/2025,2062,2062,2062,271
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/01/2025,3300,6069,4280,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,1077,6139,5211,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/01/2025,4309,4429,4377,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,4330,4330,4330,114
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,22/01/2025,2727,2727,2727,121
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,22/01/2025,1099,34000,13109,132
+Karnataka,Gadag,Gadag,Safflower,Safflower,"Ref grade-1",31/01/2025,5619,5619,5619,59
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,24/01/2025,1819,2393,2081,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,30/01/2025,1677,2489,2227,5
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,23/01/2025,3781,6212,4760,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,25/01/2025,2010,5673,4412,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,28/01/2025,1849,6109,4340,10
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,2277,6106,5990,6
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,27/01/2025,1859,2202,2164,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,30/01/2025,1639,2205,2148,4
+Karnataka,Gadag,Gadag,Soyabean,Soyabeen,FAQ,25/01/2025,3412,3412,3412,13
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,22/01/2025,5889,6369,6178,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,"Ref grade-1",31/01/2025,6219,6219,6219,14
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,25/01/2025,3511,6029,5131,8
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,5685,5967,5736,6
+Karnataka,Gadag,Gadag,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,30/01/2025,6044,6044,6044,11
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,24/01/2025,2424,9161,6204,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,30/01/2025,1677,8019,5788,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",31/01/2025,893,7749,7273,9
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,22/01/2025,6109,6109,6109,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,30/01/2025,4844,5659,5389,8
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,25/01/2025,1669,5739,3228,1
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,23/01/2025,3467,7160,5991,92
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,25/01/2025,2165,2165,2165,28
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,01/03/2025,1611,2307,2207,4
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,01/03/2025,1837,4833,3192,1
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,07/02/2025,5382,5382,5382,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,19/02/2025,269,5487,5119,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,20/02/2025,3551,3551,3551,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,22/02/2025,2161,5552,4455,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,28/02/2025,5000,5502,5373,59
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed","Ref grade-1",01/02/2025,2412,5239,3398,108
+Karnataka,Gadag,Laxmeshwar,"Corriander seed","Coriander Seed",FAQ,27/02/2025,6115,7059,6733,108
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,24/02/2025,1350,2657,2221,5
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,20/02/2025,6169,6169,6169,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,22/02/2025,5669,6229,6152,14
+Karnataka,Gadag,Laxmeshwar,Sunflower,Sunflower,FAQ,24/02/2025,6009,6009,6009,14
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/02/2025,7456,7530,7487,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/02/2025,3433,7529,7158,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/02/2025,6244,7469,7212,92
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)","Ref grade-1",03/02/2025,5465,6751,5894,93
+Karnataka,Gadag,Laxmeshwar,Mataki,"Mataki (W)",FAQ,27/02/2025,5598,6709,6170,93
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/02/2025,2215,2215,2215,28
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,1177,6109,5940,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,1269,6109,5869,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,1365,6029,5811,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,2077,5929,5721,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/02/2025,2217,5857,5692,6
+Karnataka,Gadag,Nargunda,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,15/02/2025,5700,6100,5800,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5639,5891,5843,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,5806,6048,5953,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,3667,5813,5641,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5711,5850,5807,6
+Karnataka,Gadag,Gadag,Maize,Local,"Ref grade-1",01/02/2025,1449,2175,2001,4
+Karnataka,Gadag,Laxmeshwar,Maize,Local,FAQ,25/02/2025,2141,2175,2158,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,17/02/2025,2257,2293,2284,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,19/02/2025,2302,2315,2311,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,20/02/2025,2276,2299,2289,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2025,2250,2207,4
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,06/02/2025,2906,4336,4121,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,17/02/2025,3510,5921,4741,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,"Ref grade-1",05/02/2025,3251,5659,4301,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,06/02/2025,2060,6015,4710,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,07/02/2025,2010,6230,4422,10
+Karnataka,Gadag,Gadag,Gurellu,Gurellu,FAQ,17/02/2025,6044,6044,6044,279
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,22/02/2025,2024,2024,2024,271
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,25/02/2025,1961,1961,1961,271
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,20/02/2025,1919,7412,5279,9
+Karnataka,Gadag,Rona,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,17/02/2025,5667,5940,5911,9
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,15/02/2025,2677,5692,3936,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/02/2025,3011,5379,4876,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,4011,6125,5278,114
+Karnataka,Gadag,Laxmeshwar,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/02/2025,2860,5196,3972,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,3869,4029,3932,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/02/2025,3639,3639,3639,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",01/02/2025,4209,4269,4249,114
+Karnataka,Gadag,Gadag,Mustard,Other,FAQ,22/02/2025,4044,5129,4858,12
+Karnataka,Gadag,Laxmeshwar,Mustard,Other,FAQ,24/02/2025,5319,6369,6069,12
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,06/02/2025,1412,2412,2217,5
+Karnataka,Gadag,Laxmeshwar,Soyabean,Soyabeen,FAQ,24/02/2025,2859,4039,3882,13
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,22/02/2025,2019,4857,3625,1
+Karnataka,Gadag,Laxmeshwar,Wheat,White,FAQ,27/02/2025,3525,3525,3525,1
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,14/02/2025,3854,4869,4191,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,3777,5412,4595,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,859,5679,4799,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,2011,5679,4658,49
+Karnataka,Gadag,Laxmeshwar,"Alasande Gram","Alasande Gram",FAQ,25/02/2025,2150,7409,6764,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,08/02/2025,7090,7310,7172,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,19/02/2025,7169,7169,7169,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,20/02/2025,6570,7890,7051,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram","Ref grade-1",04/02/2025,6969,6969,6969,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,18/01/2025,7429,7429,7429,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,20/01/2025,5917,6027,6002,281
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,23/01/2025,1877,1877,1877,271
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,13/02/2025,2777,6657,4717,93
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,24/02/2025,6619,6813,6765,93
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,22/02/2025,4669,4669,4669,108
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed","Ref grade-1",05/02/2025,5019,5019,5019,108
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,22/02/2025,1507,8370,6514,9
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/02/2025,2717,7641,6234,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",03/02/2025,3019,7501,7128,92
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,21/02/2025,2657,4877,3992,1
+Karnataka,Gadag,Gadag,Wheat,White,"Ref grade-1",03/02/2025,2177,4826,4006,1
+Karnataka,Gadag,Laxmeshwar,Wheat,White,FAQ,24/02/2025,2159,2159,2159,1
+Karnataka,Gadag,Gadag,Mustard,Other,FAQ,24/02/2025,4012,4012,4012,12
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",01/02/2025,3599,7511,6880,92
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,24/02/2025,2877,2877,2877,121
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,"Ref grade-1",05/02/2025,2751,2751,2751,121
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,23/01/2025,1629,2443,2229,5
+Karnataka,Gadag,Gadag,Groundnut,Gejje,"Ref grade-1",31/01/2025,3791,4866,4291,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,18/01/2025,1689,6509,3823,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,25/01/2025,2069,6319,3906,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",30/01/2025,2010,6089,4487,10
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,23/01/2025,1767,2245,2207,4
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,23/01/2025,1612,4515,3547,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,27/01/2025,2777,3843,3132,1
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,23/01/2025,4912,4912,4912,108
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,27/01/2025,4750,5419,5085,108
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,25/01/2025,6229,6311,6280,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,30/01/2025,5669,6319,6258,14
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,23/01/2025,1801,8189,7197,9
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,23/01/2025,5619,5619,5619,59
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/01/2025,2165,2189,2173,28
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,3412,5912,5579,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,25/01/2025,6039,6209,6134,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,25/01/2025,1099,5912,5463,49
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,4277,6089,5955,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/01/2025,2999,6089,5982,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,1719,6059,5795,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,2069,5936,5678,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/01/2025,6309,6609,6376,6
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2289,2289,2289,4
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,27/01/2025,3612,5044,4248,8
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,2893,6129,5960,6
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,19/02/2025,4120,6310,5020,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,22/02/2025,2899,6639,5325,10
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,07/02/2025,1875,2415,2167,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,21/02/2025,1844,2315,2104,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",03/02/2025,409,2372,2122,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",05/02/2025,1800,2327,2213,5
+Karnataka,Gadag,Laxmeshwar,Jowar(Sorghum),"Jowar ( White)",FAQ,24/02/2025,1860,2309,2112,5
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,2517,5975,5764,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5809,6169,6028,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/02/2025,5677,6009,5883,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,5705,5860,5849,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5500,5859,5735,6
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,13/02/2025,6039,6039,6039,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,21/02/2025,5069,5069,5069,14
+Karnataka,Gadag,Gadag,"Sesamum(Sesame,Gingelly,Til)",Black,"Ref grade-1",03/02/2025,4044,6424,5067,11
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,30/01/2025,3577,7219,5620,92
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/01/2025,2869,6712,4738,114
+Karnataka,Gadag,Laxmeshwar,"Alasande Gram","Alasande Gram",FAQ,24/02/2025,2088,7469,6817,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,22/02/2025,7040,7379,7207,281
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,06/02/2025,3962,6122,5716,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/02/2025,3724,5044,4017,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",01/02/2025,509,6270,5486,114
+Karnataka,Gadag,Laxmeshwar,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/02/2025,3360,5069,4063,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/02/2025,4069,4129,4124,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,08/02/2025,4019,4129,4116,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,4099,4210,4188,114
+Karnataka,Gadag,Laxmeshwar,Maize,Local,FAQ,24/02/2025,1650,2171,2005,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,15/02/2025,2247,2247,2247,4
+Karnataka,Gadag,Gadag,Groundnut,Balli/Habbu,FAQ,13/02/2025,4101,4571,4353,10
+Karnataka,Gadag,Gadag,Groundnut,Balli/Habbu,"Ref grade-1",01/02/2025,2851,5459,4134,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,25/02/2025,4210,6397,4621,10
+Karnataka,Gadag,Laxmeshwar,Groundnut,Balli/Habbu,FAQ,27/02/2025,2015,4289,3849,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,11/02/2025,2760,6611,5271,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,13/02/2025,2619,6709,5655,10
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",01/02/2025,2166,2166,2166,28
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,6039,6039,6039,49
+Karnataka,Gadag,Gadag,"Castor Seed","Castor seed",FAQ,19/02/2025,4369,4369,4369,123
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,24/02/2025,2219,5572,5105,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,"Ref grade-1",03/02/2025,5269,5656,5626,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,"Ref grade-1",05/02/2025,3819,5639,4496,59
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/02/2025,3689,4898,3992,114
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,5829,5829,5829,6
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,01/03/2025,5100,5100,5100,108
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,01/03/2025,509,30009,26201,132
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,22/02/2025,2677,2677,2677,121
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,25/02/2025,2477,2477,2477,121
+Karnataka,Gadag,Gadag,Sajje,Sajje,"Ref grade-1",05/02/2025,2099,2099,2099,271
+Karnataka,Gadag,Gadag,Gurellu,Gurellu,FAQ,25/02/2025,8069,8069,8069,279
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,06/02/2025,4169,4169,4169,108
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,24/02/2025,5044,5144,5069,108
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed","Ref grade-1",03/02/2025,4069,4069,4069,108
+Karnataka,Gadag,Laxmeshwar,"Corriander seed","Coriander Seed",FAQ,24/02/2025,4029,4819,4424,108
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/02/2025,3633,5812,5262,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/02/2025,3077,5611,4956,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/02/2025,2251,5369,4209,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/02/2025,3917,3917,3917,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,4169,5811,4946,114
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,25/01/2025,1539,2539,2227,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",31/01/2025,1700,2300,2216,5
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,25/01/2025,1765,2200,2148,4
+Karnataka,Gadag,Gadag,Maize,Local,"Ref grade-1",31/01/2025,2050,2165,2152,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,17/01/2025,2245,2349,2328,4
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",31/01/2025,3800,6250,5005,114
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,22/01/2025,3530,6150,4543,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,30/01/2025,3610,5529,4212,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,17/01/2025,2011,6570,4126,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,20/01/2025,1211,6631,3916,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,22/01/2025,1859,6209,4293,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,27/01/2025,2009,6251,4441,10
+Karnataka,Gadag,Gadag,"Dry Chillies",Local,FAQ,25/01/2025,1509,35786,13535,132
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,07/02/2025,4277,4877,4406,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,15/02/2025,1977,4959,3850,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,17/02/2025,2117,4938,3452,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,20/02/2025,2029,4417,3521,1
+Karnataka,Gadag,Gadag,Wheat,White,"Ref grade-1",01/02/2025,1813,6759,3662,1
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/02/2025,2511,5512,4092,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,3412,4702,3923,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,3729,5689,4727,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,5839,5839,5839,49
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,14/02/2025,1833,4325,2973,1
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,25/02/2025,1867,4812,3167,1
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,19/02/2025,2377,7631,7176,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/02/2025,5409,7512,7331,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",05/02/2025,5612,7511,7250,92
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,19/02/2025,5619,6109,6009,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,24/02/2025,5569,5769,5602,14
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,07/02/2025,1869,2075,2006,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,25/02/2025,2085,2220,2199,4
+Karnataka,Gadag,Gadag,Maize,Local,"Ref grade-1",03/02/2025,1444,2145,2074,4
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,15/02/2025,3666,5387,4385,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,21/02/2025,3911,4640,4584,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,22/02/2025,3989,4859,4490,10
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,28/02/2025,4191,6389,4740,10
+Karnataka,Gadag,Laxmeshwar,Groundnut,Gejje,FAQ,27/02/2025,2219,6333,5409,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",01/02/2025,1889,5917,4285,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",04/02/2025,2311,6269,4671,10
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,13/02/2025,1630,2343,2100,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,20/02/2025,1324,2343,2136,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,28/02/2025,1929,2809,2304,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",01/02/2025,1019,2460,2246,5
+Karnataka,Gadag,Laxmeshwar,Jowar(Sorghum),"Jowar ( White)",FAQ,25/02/2025,1909,2289,2171,5
+Karnataka,Gadag,Laxmeshwar,Jowar(Sorghum),"Jowar ( White)",FAQ,27/02/2025,1919,2189,2109,5
+Karnataka,Gadag,Gadag,"Avare Dal","Avare (Whole)",FAQ,17/02/2025,4211,4211,4211,269
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,11/02/2025,7401,7401,7401,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,17/02/2025,6779,7401,7211,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,18/02/2025,6479,6479,6479,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,21/02/2025,6180,7380,7242,281
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,20/02/2025,2877,2877,2877,93
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/02/2025,3065,6894,4910,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,15/02/2025,2196,8269,4884,9
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,13/02/2025,3109,4209,3824,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,17/02/2025,3811,5612,4311,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,19/02/2025,4412,4412,4412,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",05/02/2025,4859,4859,4859,8
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,15/02/2025,5069,5319,5146,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,17/02/2025,5319,5609,5411,59
+Karnataka,Gadag,Gadag,Cotton,GCH,FAQ,07/02/2025,6801,6801,6801,15
+Karnataka,Gadag,Nargunda,Cotton,GCH,FAQ,04/02/2025,6700,6700,6700,15
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,2767,6206,5896,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,1507,5906,5681,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",24/02/2025,3801,3801,3801,6
+Karnataka,Gadag,Laxmeshwar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,24/02/2025,1969,5800,5458,6
+Karnataka,Gadag,Laxmeshwar,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,27/02/2025,2050,5586,5050,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,5925,6150,6043,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/02/2025,5739,5813,5797,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,5460,5839,5741,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/02/2025,5609,5800,5745,6
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,28/02/2025,1637,2145,2045,4
+Karnataka,Gadag,Gadag,Maize,Local,"Ref grade-1",05/02/2025,1944,2172,2147,4
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)",FAQ,25/01/2025,5027,6507,5915,93
+Karnataka,Gadag,Gadag,Mataki,"Mataki (W)","Ref grade-1",31/01/2025,7800,7800,7800,93
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,3065,5819,5311,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,6000,6069,6034,49
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,22/01/2025,6069,7469,7195,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/01/2025,1517,7911,5636,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,25/01/2025,1399,7371,6178,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/01/2025,3199,7215,6472,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",31/01/2025,7097,7500,7390,92
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,25/01/2025,5469,5639,5522,59
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,4517,6109,5996,6
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,30/01/2025,3009,5739,5150,59
+Karnataka,Gadag,Gadag,Groundnut,Gejje,FAQ,01/03/2025,3941,6367,4901,10
+Karnataka,Gadag,Gadag,Wheat,White,"Ref grade-1",31/01/2025,2200,2200,2200,1
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,2077,5839,4639,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/01/2025,5698,6109,5920,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,5009,5844,5569,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,2877,5612,4869,49
+Karnataka,Gadag,Rona,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",30/01/2025,5939,5939,5939,49
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,22/01/2025,1077,8251,6470,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,25/01/2025,1611,8769,6517,9
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,4257,6079,5955,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5927,6027,5993,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/01/2025,5809,5809,5809,6
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,22/01/2025,1757,2201,2086,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,24/01/2025,1929,2225,2187,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,2280,2280,2280,4
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram","Ref grade-1",30/01/2025,7089,7089,7089,281
+Karnataka,Gadag,Gadag,Sajje,Sajje,FAQ,25/01/2025,2112,2112,2112,271
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,01/03/2025,2177,2177,2177,121
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,14/02/2025,977,2325,2057,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,15/02/2025,1869,2377,2191,5
+Karnataka,Gadag,Gadag,Jowar(Sorghum),"Jowar ( White)",FAQ,19/02/2025,1377,2777,2172,5
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,06/02/2025,1502,2190,2154,4
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,14/02/2025,1419,2165,1751,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,25/02/2025,2280,2280,2280,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,"Ref grade-1",05/02/2025,2269,2269,2269,4
+Karnataka,Gadag,Laxmeshwar,Groundnut,Gejje,FAQ,24/02/2025,3396,6266,4707,10
+Karnataka,Gadag,Laxmeshwar,Groundnut,Gejje,FAQ,25/02/2025,2465,5989,4512,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,14/02/2025,2810,6711,5580,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,15/02/2025,1919,6856,5489,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,18/02/2025,2689,6759,5512,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,19/02/2025,2300,6719,5516,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,FAQ,25/02/2025,2209,6781,5488,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",03/02/2025,1706,5935,4614,10
+Karnataka,Gadag,Rona,Groundnut,Gejje,"Ref grade-1",05/02/2025,2310,6075,4703,10
+Karnataka,Gadag,Laxmeshwar,Soyabean,Soyabeen,FAQ,25/02/2025,2050,3890,2720,13
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,06/02/2025,5269,5629,5362,59
+Karnataka,Gadag,Gadag,Safflower,Safflower,FAQ,14/02/2025,4019,5269,4233,59
+Karnataka,Gadag,Laxmeshwar,Safflower,Safflower,FAQ,25/02/2025,5175,5269,5237,59
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,06/02/2025,5669,5969,5859,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,15/02/2025,6006,6210,6160,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,FAQ,25/02/2025,6109,6109,6109,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,"Ref grade-1",01/02/2025,5936,6209,5985,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,"Ref grade-1",03/02/2025,5019,6279,6116,14
+Karnataka,Gadag,Gadag,Sunflower,Sunflower,"Ref grade-1",05/02/2025,6319,6319,6319,14
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,14/02/2025,7600,7669,7603,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,17/02/2025,1669,8211,4558,9
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)","Ref grade-1",03/02/2025,2829,7961,6138,9
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,22/02/2025,4012,5317,5281,8
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,28/02/2025,4989,5012,4994,8
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/02/2025,7539,7580,7552,92
+Karnataka,Gadag,Gadag,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/02/2025,3477,8500,7301,92
+Karnataka,Gadag,Gadag,Wheat,White,FAQ,13/02/2025,2289,4509,3649,1
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,1869,6081,5913,6
+Karnataka,Gadag,Gadag,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/02/2025,2077,5901,5616,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/02/2025,6006,6259,6137,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,5711,6100,5984,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,5609,5887,5801,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5250,5850,5674,6
+Karnataka,Gadag,Rona,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,4139,5862,5760,6
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,15/02/2025,4769,5124,4968,108
+Karnataka,Gadag,Gadag,"Corriander seed","Coriander Seed",FAQ,19/02/2025,4412,5244,5003,108
+Karnataka,Gadag,Laxmeshwar,Mataki,"Mataki (W)",FAQ,25/02/2025,3809,6636,5143,93
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",05/02/2025,1509,6161,4166,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,15/02/2025,4089,4109,4099,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/02/2025,3569,3569,3569,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/02/2025,3777,4012,3898,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/02/2025,3879,3879,3879,114
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/02/2025,2877,5659,4142,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,1817,5529,3796,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/02/2025,3112,8311,4415,49
+Karnataka,Gadag,Gadag,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,2211,6406,4102,49
+Karnataka,Gadag,Gadag,Mustard,Other,FAQ,14/02/2025,4244,4244,4244,12
+Karnataka,Gadag,Gadag,Mustard,Other,"Ref grade-1",03/02/2025,5119,5119,5119,12
+Karnataka,Gadag,Laxmeshwar,Mustard,Other,FAQ,25/02/2025,4815,5660,5237,12
+Karnataka,Gadag,Gadag,"Castor Seed","Castor seed",FAQ,24/02/2025,4069,4069,4069,123
+Karnataka,Gadag,Rona,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/02/2025,2209,2209,2209,28
+Karnataka,Gadag,Gadag,Maize,Local,FAQ,13/02/2025,2012,2012,2012,4
+Karnataka,Gadag,Rona,Maize,Hybrid/Local,FAQ,11/02/2025,2270,2270,2270,4
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/01/2025,4259,6003,5052,114
+Karnataka,Gadag,Gadag,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,30/01/2025,3229,6300,4982,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/01/2025,4169,5850,4379,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",30/01/2025,4247,4387,4323,114
+Karnataka,Gadag,Rona,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",31/01/2025,4119,4310,4248,114
+Karnataka,Gadag,Gadag,"Foxtail Millet(Navane)",Other,FAQ,30/01/2025,2327,2327,2327,121
+Karnataka,Gadag,Laxmeshwar,"Alasande Gram","Alasande Gram",FAQ,27/02/2025,4060,7329,6782,281
+Karnataka,Gadag,Rona,"Alasande Gram","Alasande Gram",FAQ,25/02/2025,5598,7282,6971,281
+Karnataka,Gadag,Gadag,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,01/03/2025,7850,7850,7850,9
+Karnataka,Gadag,Gadag,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,01/03/2025,4009,4912,4803,8

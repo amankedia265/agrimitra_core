@@ -1,0 +1,810 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,11/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,12/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,20/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,21/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,28/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",05/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",01/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,18/02/2025,22000,25000,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/02/2025,33000,37000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/02/2025,33000,37000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,12/02/2025,20500,27800,25600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,14/02/2025,20500,27800,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,19/02/2025,21000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/02/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/02/2025,28000,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/02/2025,28000,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/02/2025,28000,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/02/2025,28000,37000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",01/02/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",04/02/2025,28500,36500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,28/01/2025,31000,64500,35000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,04/01/2025,31000,62000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,09/01/2025,31000,62500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,03/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,27/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,28/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/01/2025,30000,34500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/01/2025,30000,34500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/01/2025,30000,35000,34000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,03/01/2025,22000,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,07/01/2025,22000,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,10/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,20/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,28/01/2025,20500,27500,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/01/2025,25000,34500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,04/01/2025,25000,35000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/01/2025,25000,35500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,08/01/2025,25000,35500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/01/2025,25000,36000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,07/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,20/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,28/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/01/2025,28000,35500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/01/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,FAQ,28/01/2025,15000,35000,27000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,14/02/2025,31000,63500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",01/02/2025,31000,64500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,19/02/2025,13000,63500,38250,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,19/02/2025,31000,63500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,20/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,26/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,01/03/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,17/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,20/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,25/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/03/2025,32000,41000,37500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,26/03/2025,0,0,25000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,28/04/2025,0,0,68300,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,24/04/2025,31000,69500,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,25/04/2025,31000,69000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/04/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/04/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,25/04/2025,14500,27000,19500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/04/2025,27000,45500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,07/04/2025,22000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,16/04/2025,21500,30000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/04/2025,26000,45000,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,11/04/2025,32500,42500,39500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,29/04/2025,25000,30000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,23/04/2025,20000,32000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,24/04/2025,20000,33000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/04/2025,35000,44000,42500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,22/04/2025,12000,17500,16400,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Cashewnuts,Local(Raw),FAQ,21/04/2025,11000,14000,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Cashewnuts,Local(Raw),FAQ,22/04/2025,13500,14500,14000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,14/03/2025,13000,68000,40500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,18/03/2025,31000,68000,57000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,26/03/2025,31000,68000,60000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,26/03/2025,14300,14600,14400,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,12/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Cashewnuts,Local(Raw),FAQ,07/05/2025,9000,11500,10000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,22/05/2025,31000,67000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,07/05/2025,11000,18000,15000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,08/05/2025,12000,18000,17100,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,13/05/2025,11000,18000,14400,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,27/05/2025,6000,19500,13000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,31/05/2025,17500,25000,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,22/05/2025,16000,30000,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/05/2025,22000,44500,28400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/05/2025,24000,45600,27900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/05/2025,27000,46000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/05/2025,28000,46000,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/05/2025,28000,49500,28400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/05/2025,27000,49500,27700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,03/05/2025,15000,27000,22000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,16/05/2025,21000,30500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,21/05/2025,20000,30500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,26/05/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,30/05/2025,20000,31500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/05/2025,26000,46000,30100,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,31/05/2025,20000,37500,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,09/05/2025,1800,2900,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,22/05/2025,1900,2900,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,23/05/2025,1900,3150,2650,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,26/06/2025,36000,65000,38000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,25/06/2025,30000,65000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,10/06/2025,0,0,11000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,21/06/2025,0,0,10700,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,26/06/2025,0,0,12000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,19/07/2025,6000,26500,18000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,21/07/2025,6000,26500,18000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,04/06/2025,0,0,44500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,05/06/2025,0,0,44500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/06/2025,0,0,44000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/06/2025,0,0,46600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,16/06/2025,14000,25000,18000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,21/06/2025,25000,26000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,05/07/2025,24000,26000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,08/07/2025,15000,26000,18000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,17/07/2025,15000,26000,19500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,19/07/2025,14000,27500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/06/2025,2700,29500,27900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/06/2025,27000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/06/2025,26000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/06/2025,27000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,03/07/2025,22000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,04/07/2025,26000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,05/07/2025,26500,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,07/07/2025,27000,47500,28200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,27/06/2025,22000,27000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,04/06/2025,28000,31500,29800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/06/2025,36000,49500,42800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/06/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,11/07/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,08/07/2025,20000,27500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,22/07/2025,20000,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/06/2025,26000,47500,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,04/07/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,16/07/2025,26000,47500,36500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,18/07/2025,26000,47500,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,16/06/2025,20000,36000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,25/06/2025,20000,37000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Dry Chillies",Other,FAQ,17/06/2025,12000,25700,17300,132
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Dry Chillies",Other,Local,16/07/2025,17500,25000,20000,132
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,27/06/2025,7600,11800,8900,264
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Other,Local,17/07/2025,35000,57200,35000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,Local,14/07/2025,13000,65500,39300,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,Local,16/07/2025,30000,64500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,24/02/2025,2500,3000,2800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Copra,Copra,"Ref grade-1",01/02/2025,13000,15000,14000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,04/01/2025,35000,62000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,08/01/2025,31000,62000,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,27/01/2025,31000,63500,33500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,03/01/2025,31000,60500,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,07/01/2025,31000,62000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,24/01/2025,31000,62500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,27/01/2025,31000,62500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",29/01/2025,31000,64500,52000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,10/02/2025,31000,62500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,12/02/2025,31000,62500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,15/02/2025,31000,63500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,28/02/2025,31000,63000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",03/02/2025,31000,64500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,06/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,16/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,24/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/01/2025,30000,35000,34000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",30/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",31/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,03/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,15/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,24/01/2025,21000,27800,25600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/01/2025,29000,35500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,04/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,09/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,22/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,23/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/01/2025,30000,35000,34000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",30/01/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",31/01/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,03/01/2025,1700,2500,1900,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,25/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,11/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/02/2025,26000,36500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,10/02/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,11/02/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,15/02/2025,20500,27800,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,24/02/2025,20500,27800,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,28/02/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",01/02/2025,21000,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",03/02/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/02/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/02/2025,28500,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/02/2025,28500,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/02/2025,28000,37000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,01/03/2025,13000,64000,38500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,17/03/2025,31000,68000,57000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,19/03/2025,31000,68000,57000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,24/03/2025,31000,68000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,01/03/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,15/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,27/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,18/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,24/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,14/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,27/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,06/05/2025,14000,14700,14500,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,26/05/2025,0,0,65000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,02/05/2025,21000,67000,26000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,21/05/2025,32000,67000,58500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/05/2025,0,0,46000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,08/05/2025,0,0,45000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/05/2025,0,0,44000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,09/05/2025,17000,28000,17000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,23/05/2025,17000,30500,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/05/2025,26000,47500,27300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/05/2025,28500,46000,28900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/05/2025,28000,46000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/05/2025,28500,48000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/05/2025,36000,49000,42500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/05/2025,36000,47000,41500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,02/05/2025,22000,30000,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,07/05/2025,22000,30000,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,09/05/2025,21000,30000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,12/05/2025,20000,30000,27300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,31/05/2025,20000,31500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/05/2025,26000,46000,30400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/05/2025,26000,46000,30400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/05/2025,26000,46000,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/05/2025,26000,49500,44700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/05/2025,26000,49500,46200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,29/05/2025,26000,49500,30100,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,07/05/2025,20000,35500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,21/05/2025,20000,37000,35600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,22/05/2025,20000,37000,35600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,12/05/2025,0,0,20000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,16/05/2025,0,0,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,20/05/2025,5900,6500,6210,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,12/05/2025,1900,3000,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,17/05/2025,1900,3050,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,30/05/2025,2000,3350,2850,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,12/05/2025,11000,18000,11700,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,16/04/2025,34500,71500,44473,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,15/04/2025,31000,68500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,19/04/2025,31000,70000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Cashewnuts,Local(Raw),FAQ,07/04/2025,10000,14000,12000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,11/04/2025,1600,3100,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,29/04/2025,11000,17500,15000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/04/2025,14000,45500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,28/04/2025,22000,30000,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/04/2025,26000,44000,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/04/2025,35000,44000,42500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/04/2025,26000,45500,26300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/04/2025,26000,45500,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,23/04/2025,22000,30000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,24/04/2025,25000,30000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,26/06/2025,31000,65000,40000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,Local,22/07/2025,28000,64500,38000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,Local,15/07/2025,30000,64500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,12/06/2025,56000,65000,63000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,05/06/2025,13000,65000,39000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,16/06/2025,31000,65000,49500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,25/06/2025,31000,65000,36000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,Local,21/07/2025,28000,64500,45000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,26/06/2025,30000,65000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,27/06/2025,9500,12400,10800,260
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Dry Grapes","Dry Grapes",FAQ,27/06/2025,12600,26000,16900,278
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,03/06/2025,6000,20000,17600,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,01/07/2025,6000,27500,18000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,16/06/2025,4700,7200,6200,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,25/06/2025,22000,28000,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,Local,19/07/2025,25000,35000,28000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,02/06/2025,2000,3350,2850,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,15/07/2025,2800,3850,3300,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,22/07/2025,2300,3950,3200,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",Local,23/07/2025,0,0,41000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,14/07/2025,25000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/06/2025,27500,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/06/2025,27000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/06/2025,28000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/06/2025,28000,48500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,01/07/2025,29000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,11/07/2025,26000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,18/07/2025,28600,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,22/07/2025,27000,48500,36000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,04/06/2025,25000,36000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,Local,05/07/2025,26500,33000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,Local,07/07/2025,24000,33000,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,13/06/2025,28500,31000,29800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,Local,01/07/2025,28000,28500,28300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/06/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,01/07/2025,36000,48500,42300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,11/07/2025,20000,27500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/06/2025,26000,47500,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,11/07/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,19/07/2025,26000,47500,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,02/06/2025,20000,39000,36500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,18/07/2025,20000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/06/2025,36500,47500,39500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/06/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",Local,07/07/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,30/06/2025,15000,26000,20000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,01/07/2025,29000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,05/06/2025,27500,48500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,21/06/2025,28000,30500,29300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/06/2025,36000,48500,42300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,04/06/2025,21000,31500,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,05/06/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,25/06/2025,20000,30500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/06/2025,26000,49500,47000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/06/2025,26000,49500,31200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,08/07/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,21/07/2025,26000,47500,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,18/06/2025,20000,36500,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,14/07/2025,20000,36500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,21/07/2025,20000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,01/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,08/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,10/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",30/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",31/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/01/2025,30000,34500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/01/2025,30000,35000,34000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,29/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,04/01/2025,22000,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,06/01/2025,22000,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,17/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/01/2025,26000,35500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/01/2025,25000,36000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/01/2025,25000,36000,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/01/2025,26000,36500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,09/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,22/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,18/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,03/01/2025,35000,60000,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,10/01/2025,31000,62500,45000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,20/01/2025,31000,62000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,28/01/2025,31000,64500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Copra,Copra,"Ref grade-1",29/01/2025,13000,15000,14000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,18/03/2025,0,0,60000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,14/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,21/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,24/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,28/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,27/03/2025,22000,31000,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,20/03/2025,3000,5200,4000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,24/03/2025,3000,5300,4200,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,23/04/2025,14100,14900,14500,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,25/04/2025,14200,14600,14300,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,03/04/2025,0,0,12000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,08/04/2025,0,0,11000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,28/04/2025,12000,17500,14700,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,22/04/2025,0,0,69900,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,11/04/2025,31000,68500,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,23/04/2025,30000,70000,56000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,25/04/2025,30000,69500,56000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,03/04/2025,0,0,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,FAQ,23/04/2025,20000,30500,25000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,11/04/2025,0,0,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,19/04/2025,14000,27000,15000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/04/2025,28000,46000,28700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/04/2025,26000,45500,26700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/04/2025,25500,45500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,08/04/2025,22000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,22/04/2025,25000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/04/2025,25000,43000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/04/2025,26000,44000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/04/2025,26000,44000,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,13/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,17/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,09/05/2025,7000,14500,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,16/05/2025,13000,14200,13900,36
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,26/05/2025,31000,65500,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Potato,Potato,FAQ,19/05/2025,2000,2800,2400,24
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,13/02/2025,31000,63000,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,14/02/2025,31000,63000,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,25/02/2025,31000,63000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,27/02/2025,31000,63000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,07/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,15/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,18/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,19/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",05/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/02/2025,32000,36500,34750,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/02/2025,26000,37000,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,13/02/2025,20500,27800,25600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,27/02/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,11/02/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/02/2025,28000,37000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,05/05/2025,15000,28000,19900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,20/05/2025,19000,25000,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,08/05/2025,29000,36500,30046,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/05/2025,29000,46000,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/05/2025,27000,49500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,30/05/2025,28000,49500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,08/05/2025,20000,30000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,17/05/2025,20000,30500,24400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,19/05/2025,20000,30500,24400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,20/05/2025,20000,30500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,23/05/2025,20000,31500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/05/2025,26000,46000,41000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,14/05/2025,26000,46000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/05/2025,26000,46000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,31/05/2025,26000,49500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,09/05/2025,20000,35500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,17/05/2025,20000,36000,32500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,08/05/2025,0,0,22000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,05/05/2025,3800,6400,6259,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,FAQ,08/05/2025,15000,30000,22000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,16/05/2025,1900,2900,2300,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,02/05/2025,10000,17500,14000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Garlic,Garlic,FAQ,27/06/2025,6600,10000,8000,25
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Mustard,Other,FAQ,27/06/2025,5800,7200,6400,12
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Rice,Basumathi,FAQ,16/06/2025,3800,5200,4200,3
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Rice,"Kachha Basmati",FAQ,24/06/2025,2033,5200,3400,3
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Onion,Onion,FAQ,12/06/2025,1500,1800,1600,23
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,21/06/2025,0,0,43500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,18/06/2025,13000,64000,38800,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,Local,22/07/2025,13000,64000,38500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,05/06/2025,31000,65500,43500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,Local,18/07/2025,28000,64500,45000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,12/06/2025,2600,6000,4300,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,Local,02/07/2025,22000,35000,28000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,26/06/2025,2300,3650,2900,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,18/07/2025,2300,3600,3100,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,23/06/2025,14000,25000,23500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/06/2025,27000,48500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/06/2025,27000,47500,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,17/07/2025,28200,47500,29500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,23/07/2025,26000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,06/06/2025,28000,31500,29800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,Local,10/07/2025,27500,28000,27800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,Local,11/07/2025,27500,28000,27800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,03/07/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,07/07/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,09/07/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,02/06/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,10/06/2025,20000,31500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,17/06/2025,20000,31000,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,19/06/2025,20000,31000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,26/06/2025,20000,30500,28400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,30/06/2025,20000,29000,28400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,15/07/2025,20000,27500,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,16/07/2025,20000,27500,24500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,21/07/2025,20000,27500,22200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/06/2025,26000,49500,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/06/2025,26000,48500,30500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,10/07/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,15/07/2025,26000,47500,36500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,17/06/2025,20000,36000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,22/07/2025,20000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/06/2025,37000,47500,46000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,16/07/2025,20000,26500,21000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/06/2025,27000,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,08/07/2025,24000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,16/06/2025,24000,32000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,10/06/2025,28500,31500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/06/2025,40000,49500,46000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/06/2025,37500,48500,45500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,19/06/2025,0,0,11000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,24/06/2025,0,0,11000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Copra,Medium,FAQ,21/06/2025,12000,21000,12000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Copra,Medium,Local,04/07/2025,12000,25000,12000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,30/06/2025,6000,27500,21000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,13/01/2025,31000,63000,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,23/01/2025,31000,62000,46500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,06/01/2025,31000,62500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",30/01/2025,31000,64500,52000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,02/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,15/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,29/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/01/2025,28000,34500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,08/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,18/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,27/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,04/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",29/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/01/2025,28000,35000,32500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/01/2025,29000,35500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",29/01/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,22/01/2025,1650,2500,1950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,"Ref grade-1",30/01/2025,1450,2500,1900,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,13/03/2025,0,0,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,18/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,19/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,25/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,29/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/03/2025,30000,30100,30050,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,19/03/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/03/2025,31000,40000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,24/03/2025,0,0,25000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,25/03/2025,3000,5200,4000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,21/04/2025,0,0,68500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,07/04/2025,29800,70000,39000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,28/04/2025,31000,68000,42000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,11/04/2025,30000,68500,60000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,24/04/2025,30000,69500,56000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,11/04/2025,14200,14900,14600,36
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,16/04/2025,15000,27000,16900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/04/2025,25000,45500,25400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,19/04/2025,24500,32000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,23/04/2025,24000,33000,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/04/2025,26000,44000,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,29/04/2025,26000,46000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,11/04/2025,20000,31500,29500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,25/04/2025,20000,33000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,16/04/2025,4800,6000,5092,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,23/04/2025,1800,3250,2300,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,12/05/2025,32000,70000,32000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Other,FAQ,23/05/2025,30000,70000,30800,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,14/05/2025,31000,65000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,15/05/2025,31000,65000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,28/05/2025,31000,65000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,12/05/2025,35000,65000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Cashewnuts,Local(Raw),FAQ,19/05/2025,12250,13500,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,12/05/2025,14300,14900,14500,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,09/05/2025,0,0,11000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,13/05/2025,16000,27500,23800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,27/05/2025,25000,27000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,31/05/2025,15000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/05/2025,26000,47000,26700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/05/2025,29500,44500,29500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/05/2025,27800,35500,28700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,26/05/2025,20000,33000,22000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,27/05/2025,27500,34000,29500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,28/05/2025,25000,35000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,31/05/2025,26000,37000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,03/05/2025,21000,30000,27000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,14/05/2025,20000,30500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,22/05/2025,20000,30500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/05/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,08/05/2025,26000,46000,36000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/05/2025,26000,46000,36000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,22/05/2025,26000,47000,36000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,30/05/2025,26000,49500,30100,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,06/05/2025,20000,35500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,16/05/2025,20000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,23/05/2025,20000,37000,35600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,FAQ,07/05/2025,3000,6200,3443,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,19/05/2025,20000,25000,23000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,31/05/2025,2000,3350,2850,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,20/02/2025,2600,3000,2800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,27/02/2025,1900,3000,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,20/02/2025,31000,63500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Copra,Copra,FAQ,24/01/2025,13000,15000,14000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,20/02/2025,18000,24000,20500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,06/02/2025,31000,64500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,13/02/2025,22000,25000,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,21/02/2025,21000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/02/2025,28500,36500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/02/2025,28000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",05/02/2025,28500,36500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,13/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,14/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,24/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,27/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety","Ref grade-1",04/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,14/02/2025,20500,24500,21800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,19/02/2025,28500,37000,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,27/03/2025,14300,14500,14400,36
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Gur(Jaggery),Achhu,FAQ,27/06/2025,4800,5300,5000,74
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,24/06/2025,31000,64500,52000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,Local,16/07/2025,31000,65000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,02/06/2025,30000,67000,56000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,04/06/2025,31000,65000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,18/06/2025,30000,64000,52000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,Local,18/07/2025,30000,64000,53000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Rice,"Kachha Basmati",Local,22/07/2025,2410,5200,3400,3
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Copra,Medium,FAQ,09/06/2025,16000,17500,16000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,01/07/2025,6000,27500,18000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,17/06/2025,6000,23500,15000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,08/07/2025,6000,26000,15000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,18/07/2025,6000,26500,18700,129
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,Local,11/07/2025,0,0,35000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Coconut,Grade-I,Local,16/07/2025,3500,7000,5800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,11/06/2025,20000,25000,22000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,Local,04/07/2025,23000,35000,28000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,16/06/2025,2300,3600,3100,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,17/06/2025,1900,3250,2950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,20/06/2025,1900,3250,2950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,16/07/2025,2300,3750,3100,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,19/07/2025,2300,3600,3100,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,11/06/2025,20000,31500,29100,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,23/06/2025,20000,30500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/06/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/06/2025,26000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,05/07/2025,26000,47500,30400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,04/06/2025,20000,37500,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,19/07/2025,20000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/06/2025,37500,48500,45500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",Local,15/07/2025,37000,47500,42000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",Local,18/07/2025,37000,47500,42500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,22/07/2025,13000,27000,18000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/06/2025,26000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/06/2025,28000,47500,29200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,16/06/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/06/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,26/06/2025,36000,48500,42300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",Local,17/07/2025,36000,47500,41800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,01/07/2025,20000,29000,23700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,20/06/2025,20000,30500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,10/07/2025,20000,27500,26500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,19/07/2025,20000,27500,22200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,05/06/2025,26000,49500,46600,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,11/06/2025,26000,47500,44500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/06/2025,26000,47500,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,30/06/2025,26000,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,20/06/2025,20000,36500,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,26/06/2025,20000,37000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,27/06/2025,20000,37000,34500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,10/02/2025,31000,62500,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,13/02/2025,31000,62500,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,24/02/2025,31000,63000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",05/02/2025,31000,64500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,07/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,13/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,17/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,18/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,21/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/01/2025,30000,34500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,13/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/01/2025,25000,35000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/01/2025,25000,36500,29200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,10/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,21/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/01/2025,28000,35000,32500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,06/01/2025,29000,35500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/01/2025,28000,36000,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,20/01/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/01/2025,30000,34500,33500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/01/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,23/01/2025,20500,27500,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/01/2025,25000,34500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/01/2025,25000,35500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,02/01/2025,20500,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",30/01/2025,21000,27500,25500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,04/01/2025,28000,35000,32500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,13/01/2025,28000,35500,32500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,02/01/2025,1650,2400,1800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,10/01/2025,1700,2500,1900,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,28/01/2025,1750,2500,1950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,10/02/2025,1450,2500,1800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,15/02/2025,18000,23000,20500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,15/02/2025,2000,3000,2600,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,06/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,10/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,17/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",01/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",03/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,"Ref grade-1",04/02/2025,20000,27500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/02/2025,30000,36000,35000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,25/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/02/2025,30000,37000,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,FAQ,25/02/2025,23000,23500,23500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),"New Variety",FAQ,17/02/2025,32000,36500,34750,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,10/02/2025,20500,25000,21800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,20/02/2025,21000,28000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,25/02/2025,20500,27800,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Rice,Kattasambar,FAQ,13/03/2025,4350,5300,4900,3
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,17/03/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,26/03/2025,21000,31000,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Paddy(Dhan)(Common),Jaya,FAQ,19/03/2025,0,0,2300,2
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,25/03/2025,31000,68000,57000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,17/01/2025,31000,62500,49000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,18/01/2025,35000,62000,50000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,10/01/2025,31000,63000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,18/01/2025,31000,62000,55000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,22/01/2025,31000,62000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,"Ref grade-1",31/01/2025,31000,64500,52000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,15/04/2025,0,0,66700,38
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,"Black pepper",Malabar,FAQ,23/04/2025,0,0,66700,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,19/04/2025,39000,71500,66700,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,23/04/2025,32500,71000,35500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,22/04/2025,31000,70000,36000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,23/04/2025,31000,70500,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Cashewnuts,Local(Raw),FAQ,24/04/2025,14200,14500,14300,36
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,11/04/2025,22000,29000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,15/04/2025,22000,30000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,19/04/2025,22000,30000,24000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,25/04/2025,25000,30000,27500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/04/2025,26000,44000,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/04/2025,26000,44000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,21/04/2025,0,0,25000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,24/04/2025,1800,3000,2600,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,04/04/2025,0,0,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Coconut,Medium,FAQ,22/04/2025,20000,30500,25000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Copra,other,FAQ,21/05/2025,0,0,13000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,05/05/2025,27500,47000,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/05/2025,26000,46500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/05/2025,28000,46000,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,13/05/2025,20000,30000,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,15/05/2025,20000,30500,26000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,27/05/2025,20000,31500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,28/05/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,29/05/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,07/05/2025,26000,47000,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/05/2025,26000,46000,36000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,15/05/2025,26000,46000,28400,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,23/05/2025,26000,48000,39000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,28/05/2025,26000,49500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,12/05/2025,20000,35500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,30/05/2025,20000,37500,35500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,12/05/2025,36000,46000,41500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),"New Variety",FAQ,21/05/2025,38000,45500,42500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,15/05/2025,0,0,20000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Coconut,Medium,FAQ,17/05/2025,0,0,20000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,06/05/2025,1800,2800,2600,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,07/05/2025,2000,2900,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,21/05/2025,1900,2900,2500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,08/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,19/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Cashewnuts,Other,FAQ,20/05/2025,0,0,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Cashewnuts,Local(Raw),FAQ,08/05/2025,12500,14000,13000,36
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,"Black pepper",Malabar,FAQ,30/05/2025,35000,65000,37000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,07/05/2025,31000,67000,63700,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,13/05/2025,31000,65000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,19/05/2025,31000,67000,51000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,30/05/2025,31000,65000,48000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,"Black pepper",Malabar,FAQ,22/05/2025,32000,67000,58500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Copra,Medium,FAQ,12/06/2025,16000,17000,16000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,21/06/2025,6000,23500,16400,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,FAQ,25/06/2025,6000,25000,16400,129
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Copra,other,Local,22/07/2025,6000,26000,17000,129
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,"Black pepper",Malabar,FAQ,11/06/2025,13000,66000,39500,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Potato,Potato,FAQ,12/06/2025,1400,1800,1550,24
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,"Black pepper",Malabar,FAQ,11/06/2025,31000,66000,45000,38
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,FAQ,16/06/2025,22000,26000,24000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Coconut,Medium,Local,08/07/2025,22000,35000,28000,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,04/06/2025,1900,3100,2800,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,18/06/2025,1900,3250,2950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,23/06/2025,1900,3050,2850,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,24/06/2025,2100,3500,2950,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,25/06/2025,2300,3500,2850,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,FAQ,27/06/2025,2500,4100,3500,138
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Coconut,Grade-I,Local,14/07/2025,2800,3850,3300,138
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),Cqca,FAQ,26/06/2025,0,0,22500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,03/06/2025,0,0,45000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",Local,15/07/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,04/06/2025,12000,27000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,Local,15/07/2025,23500,27000,24500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,04/06/2025,26000,48500,26300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,11/06/2025,26000,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,27/06/2025,25000,47500,28700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,16/07/2025,27600,47500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Other,FAQ,09/06/2025,25000,34000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,03/06/2025,20000,31500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,06/06/2025,20000,31500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,27/06/2025,20000,30500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,17/07/2025,20000,27500,23700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,04/06/2025,26000,49500,47200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,20/06/2025,26000,47500,44700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,17/07/2025,26000,47500,43900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,23/06/2025,20000,36500,34000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,15/07/2025,20000,36500,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,Local,16/07/2025,20000,36500,33000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",FAQ,02/06/2025,0,0,45000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",Local,03/07/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Bantwala,Arecanut(Betelnut/Supari),"New Variety",Local,17/07/2025,0,0,40000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,05/06/2025,14000,27000,25000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,10/06/2025,22000,35000,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),Cqca,FAQ,18/06/2025,14000,27000,22000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,09/06/2025,28500,48500,30000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",FAQ,30/06/2025,25000,48500,29300,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,14/07/2025,25500,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,15/07/2025,28500,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Belthangdi,Arecanut(Betelnut/Supari),"New Variety",Local,19/07/2025,28100,47500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,Local,16/07/2025,27500,28000,27800,140
+Karnataka,"Mangalore(Dakshin Kannad)",Mangalore,Arecanut(Betelnut/Supari),Cqca,Local,23/07/2025,27500,28500,28000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,16/06/2025,20000,31500,29500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,21/06/2025,20000,30500,29000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,FAQ,24/06/2025,20000,30500,28500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,01/07/2025,20000,29000,23700,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,04/07/2025,20000,28500,27100,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,05/07/2025,20000,27500,24500,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),Cqca,Local,18/07/2025,20000,27500,22200,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,10/06/2025,26000,48500,32000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",FAQ,24/06/2025,26000,47500,31000,140
+Karnataka,"Mangalore(Dakshin Kannad)",Puttur,Arecanut(Betelnut/Supari),"New Variety",Local,22/07/2025,26000,48500,29900,140
+Karnataka,"Mangalore(Dakshin Kannad)",Sulya,Arecanut(Betelnut/Supari),Cqca,FAQ,24/06/2025,20000,36500,34000,140

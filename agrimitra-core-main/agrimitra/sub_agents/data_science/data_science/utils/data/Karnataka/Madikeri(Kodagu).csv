@@ -1,0 +1,402 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Madikeri(Kodagu),Madikeri,"Banana - Green","Banana - Green","Ref grade-1",06/02/2025,40000,40000,40000,90
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,12/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,08/01/2025,2500,2500,2500,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,28/01/2025,2100,2300,2100,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,15/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,03/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,FAQ,21/01/2025,2000,2000,2000,4
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,01/01/2025,3330,3330,3330,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,15/01/2025,3330,3330,3330,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,13/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,20/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,29/01/2025,1333,1333,1333,103
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,30/01/2025,30000,63587,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,04/01/2025,30000,40000,30046,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,09/01/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,10/01/2025,23000,40000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,15/01/2025,30000,49259,34705,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,16/01/2025,61425,61425,61425,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,17/01/2025,30000,30027,30000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,21/01/2025,35000,65000,64979,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,22/01/2025,50000,60000,50000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,30/01/2025,35086,35185,35086,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,28/01/2025,3600,5200,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,16/01/2025,4000,4300,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",31/01/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,01/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,18/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,23/01/2025,1666,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",31/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,Maize,Local,"Ref grade-1",04/02/2025,2200,2200,2200,4
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,12/02/2025,30038,30038,30038,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,13/02/2025,30000,65489,30000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,"Ref grade-1",04/02/2025,54808,54808,54808,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa","Ref grade-1",06/02/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,14/03/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,08/04/2025,30000,40000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,19/04/2025,35000,64500,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,23/04/2025,35051,71960,48000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,25/04/2025,1666,3333,1666,103
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,16/04/2025,25000,41142,25000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,12/03/2025,33800,47000,43000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,15/03/2025,35000,71000,63720,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,26/03/2025,6500,65000,65000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,28/03/2025,50000,50000,50000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,14/05/2025,66500,66500,66500,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,23/05/2025,35000,67419,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,05/05/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,16/05/2025,2800,5200,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,30/05/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,12/06/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",Local,09/07/2025,2800,3200,3200,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Sarbati Raw","Ref grade-1",02/07/2025,2800,3300,2800,3
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,24/06/2025,41000,45000,41000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,05/07/2025,40000,65204,45002,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,18/06/2025,35075,40000,35075,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,02/07/2025,35000,64000,39500,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,11/07/2025,35000,40000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,21/07/2025,35000,50000,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,09/06/2025,35000,65610,65610,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,12/06/2025,35000,67000,65310,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,13/06/2025,35000,57455,57455,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,27/06/2025,35000,65310,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,04/06/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)","Ref grade-1",05/07/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,Local,15/07/2025,41710,41710,41710,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",Local,02/07/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,04/06/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,13/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,18/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato","Ref grade-1",31/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Maragensu,Maragenasu,FAQ,06/01/2025,1500,1500,1500,225
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,27/01/2025,3600,4600,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,30/01/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,08/01/2025,3200,4300,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,04/01/2025,42437,42437,42437,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,10/01/2025,42186,42186,42186,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,06/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,FAQ,04/01/2025,2100,2100,2100,4
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,30/01/2025,2560,2560,2560,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,16/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,06/01/2025,2500,2500,2500,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,01/01/2025,2200,2200,2200,2
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,"Ref grade-1",31/01/2025,43000,65554,62986,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,01/01/2025,30000,49528,30023,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,13/01/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,"Ref grade-1",31/01/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,25/03/2025,35000,69759,54200,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,13/03/2025,35000,49148,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,29/03/2025,35000,63720,63720,38
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,19/03/2025,4000,4000,4000,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,19/03/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,26/03/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,28/03/2025,1000,1000,1000,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Soapnut(Antawala/Retha),Medium,FAQ,29/03/2025,10000,10000,10000,207
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,28/04/2025,0,0,2700,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,19/04/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,29/04/2025,30000,48239,30200,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,15/04/2025,35000,71168,68610,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,16/04/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Antawala,Antawala,FAQ,23/04/2025,3620,3620,3620,209
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,17/04/2025,1500,1875,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,07/02/2025,1338,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",03/02/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato","Ref grade-1",03/02/2025,1457,2500,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato","Ref grade-1",05/02/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,06/02/2025,2000,2300,2300,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,20/02/2025,2000,2000,2000,2
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,06/02/2025,48000,66114,64227,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,12/02/2025,54000,54000,54000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,11/02/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,13/02/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,24/02/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,"Ref grade-1",01/02/2025,58751,58751,58751,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,"Ref grade-1",05/02/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,11/02/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/02/2025,20000,20000,20000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",01/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,14/02/2025,40880,40880,40880,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,19/05/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,06/05/2025,30000,70210,42425,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,12/05/2025,30000,50000,30000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,02/05/2025,35000,71990,68110,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,07/05/2025,50000,50000,50000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,19/05/2025,35000,68765,67000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Antawala,Antawala,FAQ,05/05/2025,3400,3400,3400,209
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,02/05/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,06/05/2025,44497,44497,44497,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,02/05/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,16/05/2025,1333,1666,1666,103
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,18/06/2025,35294,40000,35500,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,23/06/2025,36500,45000,44000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,25/06/2025,40000,47000,43000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,09/07/2025,33663,66005,45218,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,25/06/2025,40000,40000,40000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,30/06/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,01/07/2025,35018,42177,35018,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,05/07/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,10/07/2025,35000,45000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,22/07/2025,35000,36000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,Local,05/07/2025,35000,65500,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,Local,09/07/2025,35000,66600,66600,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,04/06/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,11/06/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",Local,18/07/2025,600,600,600,152
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,02/07/2025,25200,42933,25200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,17/06/2025,45189,45189,45189,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,Local,07/07/2025,33410,33410,33410,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Arecanut(Betelnut/Supari),Pylone,Local,02/07/2025,6500,6500,6500,140
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,19/02/2025,42000,64794,45000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,20/02/2025,30000,58320,43000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,07/02/2025,30027,63789,30027,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,10/02/2025,16943,16943,16943,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,14/02/2025,40000,62380,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,"Ref grade-1",01/02/2025,30000,66120,65625,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,13/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,29/01/2025,2550,2550,2550,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,18/01/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,22/01/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",31/01/2025,3700,4000,3800,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,04/01/2025,4000,4200,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,07/01/2025,4200,4400,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,09/01/2025,4400,4400,4400,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,10/01/2025,4100,4300,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,13/01/2025,4000,4200,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,17/01/2025,4000,4200,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,06/02/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,07/02/2025,3600,4000,3800,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,14/02/2025,3200,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,18/02/2025,3800,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",01/02/2025,3600,4500,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",03/02/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,11/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,13/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,21/02/2025,4000,4200,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",04/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",05/02/2025,4000,4300,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,07/02/2025,41643,41643,41643,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,"Ref grade-1",01/02/2025,38472,38472,38472,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,25/03/2025,3200,7000,3200,140
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,12/03/2025,30000,63200,40000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,19/03/2025,30000,50000,30100,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,25/03/2025,60000,68571,60000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,29/03/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,21/03/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,10/01/2025,60804,69000,62621,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,06/01/2025,30000,35000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,08/01/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,13/01/2025,40000,62000,62000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,15/01/2025,34000,64100,40000,38
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,01/01/2025,2370,2470,2370,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,02/01/2025,2470,2470,2470,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,03/01/2025,2470,2470,2470,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,04/01/2025,2470,2470,2470,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,10/01/2025,2500,2500,2500,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,04/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,06/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,15/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,02/01/2025,1875,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,03/01/2025,1666,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,07/04/2025,766,2200,766,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,23/04/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,28/04/2025,30000,50000,34500,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,05/04/2025,35000,72469,62225,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,09/04/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,17/04/2025,35000,70120,68110,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,15/04/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,16/04/2025,1350,1350,1350,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,19/04/2025,1666,1875,1875,103
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,07/04/2025,37998,37998,37998,140
+Karnataka,Madikeri(Kodagu),Madikeri,Rice,Fine,FAQ,09/05/2025,5000,5000,5000,3
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,13/05/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,05/05/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,19/05/2025,1333,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Soapnut(Antawala/Retha),Medium,FAQ,19/05/2025,7500,7500,7500,207
+Karnataka,Madikeri(Kodagu),Gonikappal,Rice,Coarse,FAQ,16/06/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,09/06/2025,1333,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,13/06/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,19/06/2025,5500,5500,5500,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)","Ref grade-1",11/07/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,12/06/2025,35500,68613,65207,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,27/06/2025,35900,64750,40200,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,08/07/2025,34200,45000,34200,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,02/07/2025,35000,64000,39500,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,17/06/2025,35013,42008,35013,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,21/06/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,14/07/2025,35000,35056,35049,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,04/06/2025,35000,67000,65000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,Local,02/07/2025,35000,58000,50000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,16/06/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,23/06/2025,35000,40000,35027,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,16/07/2025,35000,40000,35068,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,16/06/2025,65000,65000,65000,38
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,Local,02/07/2025,25200,42933,25200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,Local,21/07/2025,42466,42466,42466,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",Local,09/07/2025,2220,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",01/02/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",04/02/2025,1338,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",05/02/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,FAQ,18/01/2025,1800,2100,2100,4
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,FAQ,24/01/2025,1800,2100,2000,4
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium","Ref grade-1",31/01/2025,2200,2200,2200,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,07/01/2025,2500,2500,2500,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,16/01/2025,2350,2350,2350,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,17/01/2025,2350,2350,2350,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,07/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,08/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,10/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,22/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,09/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,16/01/2025,1405,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,17/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,21/01/2025,1333,1333,1333,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,22/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,24/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,27/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,28/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,30/01/2025,1665,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,24/01/2025,43000,64140,63000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,02/01/2025,30000,30274,30029,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,07/01/2025,30000,35000,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,29/01/2025,49000,49000,49000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,30/01/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,24/01/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,21/02/2025,62209,62209,62209,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,"Ref grade-1",03/02/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,04/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,10/01/2025,3800,5400,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,13/01/2025,3600,4500,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,30/01/2025,4265,4300,4300,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,08/01/2025,3300,3300,3300,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,24/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,27/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,29/01/2025,3600,4000,3800,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,29/01/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,13/02/2025,2000,2200,2200,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,12/02/2025,3800,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,19/02/2025,3600,4000,3600,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",04/02/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,07/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,14/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Gur(Jaggery),Unde,FAQ,19/03/2025,3000,3000,3000,74
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,20/03/2025,35000,70000,57700,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,21/03/2025,34000,47000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,21/03/2025,35000,69500,62225,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,19/03/2025,3200,4000,3600,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,21/03/2025,3800,3800,3800,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,12/03/2025,1457,2220,2220,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,08/04/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,05/04/2025,45000,69000,50000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,21/04/2025,43000,75000,69000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,28/04/2025,45000,72700,69978,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,21/04/2025,30200,86000,49146,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,07/04/2025,35000,62500,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,11/04/2025,35000,71500,65000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,16/04/2025,39000,66000,39000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,21/04/2025,35000,70640,68590,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,25/04/2025,35000,74000,68100,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Soapnut(Antawala/Retha),Medium,FAQ,07/04/2025,7600,7600,7600,207
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,09/04/2025,2200,2200,2200,152
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,22/04/2025,40312,40312,40312,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Sippegotu,FAQ,28/04/2025,4000,4000,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,25/04/2025,8000,8000,8000,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,09/04/2025,1666,1875,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,07/04/2025,1666,1875,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,21/04/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,02/05/2025,2800,5500,2800,3
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,03/05/2025,30000,34500,30000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,15/05/2025,35000,66500,42732,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,16/05/2025,35000,67613,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,30/05/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,09/06/2025,2800,4600,2800,3
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,26/06/2025,35501,64000,36000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,30/06/2025,40000,50000,40000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,15/07/2025,36000,66116,40000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,17/07/2025,33000,65047,40000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,21/07/2025,40000,66400,45530,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,01/07/2025,35018,42177,35018,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,04/07/2025,35000,50000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,08/07/2025,35000,35034,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,15/07/2025,35000,40000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,Local,11/07/2025,35000,67000,50000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,24/01/2025,2220,2300,2300,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,30/01/2025,2000,2000,2000,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,09/01/2025,2550,2550,2550,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,10/01/2025,2220,2600,2300,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,FAQ,15/01/2025,2500,2500,2500,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,06/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,13/01/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,28/01/2025,40000,59000,43000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,28/01/2025,35000,35000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,FAQ,01/01/2025,2100,2100,2100,4
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,17/01/2025,3600,4000,3800,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,20/01/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,21/01/2025,3600,5000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,23/01/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,24/01/2025,3600,5300,4000,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,01/01/2025,3000,4200,4100,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,03/01/2025,4200,4200,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,06/01/2025,4200,4400,4200,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,15/01/2025,4200,4300,4200,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Ginger(Green),"Green Ginger",FAQ,26/03/2025,1000,1000,1000,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,15/03/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,05/04/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,15/04/2025,5900,5900,5900,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,23/04/2025,3000,6100,6100,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,25/04/2025,6100,6100,6100,3
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,16/04/2025,30026,49346,49029,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,22/04/2025,30000,68315,50000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,23/04/2025,1666,1875,1666,103
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,03/05/2025,35500,40000,36000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,09/05/2025,30000,50000,35500,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,05/05/2025,35000,62000,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,30/05/2025,35000,67418,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,23/05/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,02/05/2025,41863,41863,41863,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,13/05/2025,44792,44792,44792,140
+Karnataka,Madikeri(Kodagu),Somvarpet,Maize,Local,"Ref grade-1",06/02/2025,2150,2200,2200,4
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,27/02/2025,32800,63921,32800,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,07/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,08/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",FAQ,19/02/2025,2220,2300,2300,2
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium","Ref grade-1",01/02/2025,2300,2370,2300,2
+Karnataka,Madikeri(Kodagu),Madikeri,Paddy(Dhan)(Common),Paddy,"Ref grade-1",05/02/2025,2564,2564,2564,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Paddy(Dhan)(Common),"Paddy Dappa","Ref grade-1",05/02/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger","Ref grade-1",06/02/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,15/02/2025,30030,40000,30039,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,"Ref grade-1",04/02/2025,30000,30000,30000,38
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,13/02/2025,3600,5100,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,17/02/2025,3700,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,20/02/2025,3200,3800,3700,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,15/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,10/01/2025,1458,1458,1458,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,20/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,22/01/2025,3300,3300,3300,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,29/01/2025,3330,3330,3330,152
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,30/01/2025,1457,1457,1457,152
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",FAQ,10/01/2025,1333,1875,1875,103
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,05/02/2025,3600,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,15/02/2025,3200,4000,4000,140
+Karnataka,Madikeri(Kodagu),Gonikappal,Arecanut(Betelnut/Supari),Pylone,FAQ,27/02/2025,3600,3600,3600,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,FAQ,10/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Pylone,"Ref grade-1",06/02/2025,4300,4300,4300,140
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,21/02/2025,39630,39630,39630,140
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,FAQ,19/03/2025,40000,64000,59000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"IR 20 Medium Boiled",FAQ,29/03/2025,3000,3000,3000,3
+Karnataka,Madikeri(Kodagu),Gonikappal,"Black pepper",Malabar,Local,02/07/2025,40000,65159,59997,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,12/06/2025,35011,50000,35011,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,24/06/2025,40000,40000,40000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,07/07/2025,35000,64000,35000,38
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,Local,19/07/2025,35000,45180,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,19/06/2025,35000,66440,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,FAQ,25/06/2025,35000,40000,40000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,"Black pepper",Malabar,Local,19/07/2025,35000,69318,35000,38
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)",FAQ,25/06/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Somvarpet,Rice,"Coarse (I.R.20)","Ref grade-1",19/07/2025,2800,2800,2800,3
+Karnataka,Madikeri(Kodagu),Gonikappal,Paddy(Dhan)(Common),"Paddy Medium",Local,09/07/2025,2300,2300,2300,2
+Karnataka,Madikeri(Kodagu),Somvarpet,"Avare Dal","Avare (Whole)",Local,05/07/2025,1737,1737,1737,269
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",Local,05/07/2025,1666,1666,1666,103
+Karnataka,Madikeri(Kodagu),Somvarpet,Ginger(Green),"Green Ginger",Local,11/07/2025,1349,1349,1349,103
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,23/06/2025,45130,45130,45130,140
+Karnataka,Madikeri(Kodagu),Somvarpet,"Sweet Potato","Sweet Potato",FAQ,25/06/2025,2220,2220,2220,152

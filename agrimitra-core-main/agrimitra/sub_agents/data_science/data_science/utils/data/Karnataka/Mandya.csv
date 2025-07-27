@@ -1,0 +1,1280 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,24/02/2025,27000,27000,27000,138
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,23/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,12/02/2025,13800,13800,13800,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,"Ref grade-1",03/02/2025,16190,16190,16190,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,14/02/2025,13800,14300,14200,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,18/02/2025,14000,14200,14200,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,21/02/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,26/02/2025,15000,15000,15000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,11/02/2025,11600,13000,13000,129
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,25/02/2025,1000,1000,1000,78
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,4500,4500,4500,114
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",05/02/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,09/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,14/02/2025,10000,10300,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,22/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,03/01/2025,2000,2100,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,07/01/2025,2000,2300,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,24/01/2025,2100,2100,2100,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,27/01/2025,2100,2200,2200,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,03/01/2025,2300,2500,2350,2
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,21/01/2025,2400,3300,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,"Ref grade-1",30/01/2025,3000,3300,3300,30
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,01/01/2025,2350,2430,2400,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,14/01/2025,2200,2200,2200,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,23/01/2025,2300,2500,2400,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,"Ref grade-1",31/01/2025,2300,2600,2350,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,03/01/2025,2300,2400,2400,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,"Ref grade-1",30/01/2025,2300,2340,2340,2
+Karnataka,Mandya,Nagamangala,Maize,Local,FAQ,28/01/2025,2425,2430,2425,4
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,05/01/2025,5000,5000,5000,114
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,09/01/2025,3000,3000,3000,23
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,03/01/2025,11500,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,07/01/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,13/01/2025,11500,11600,11600,140
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,11/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,16/01/2025,25000,25000,25000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,27/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,"Ref grade-1",30/01/2025,20000,25000,20000,138
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,12/02/2025,3620,3700,3650,74
+Karnataka,Mandya,"K.R. Pet",Maize,Local,FAQ,15/02/2025,2000,2000,2000,4
+Karnataka,Mandya,Nagamangala,Maize,Local,FAQ,27/02/2025,2300,2300,2300,4
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,06/02/2025,3400,3400,3400,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,12/02/2025,2200,3400,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,20/02/2025,3500,3800,3800,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,"Ref grade-1",04/02/2025,3400,4000,4000,30
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,10/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,11/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,13/02/2025,300,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,23/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin","Ref grade-1",05/02/2025,500,500,500,173
+Karnataka,Mandya,Nagamangala,"Ground Nut Seed","Ground Nut Seed",FAQ,22/02/2025,4000,4000,4000,268
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,12/02/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,21/02/2025,1500,2000,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,28/02/2025,1500,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,"Ref grade-1",03/02/2025,1000,1000,1000,159
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",White,FAQ,18/02/2025,8000,8000,8000,11
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse","Ref grade-1",03/02/2025,2200,2300,2300,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,21/02/2025,2300,2500,2350,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,"Ref grade-1",02/02/2025,2300,2400,2350,2
+Karnataka,Mandya,Nagamangala,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,21/02/2025,2100,2100,2100,2
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,24/01/2025,1000,1400,1400,78
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,03/01/2025,14000,15000,14500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,08/01/2025,14000,16500,16500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,21/01/2025,14000,14500,14350,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,29/01/2025,13800,14000,13800,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,10/01/2025,9500,10000,10000,129
+Karnataka,Mandya,Srirangapattana,Copra,Copra,FAQ,17/01/2025,14000,14000,14000,129
+Karnataka,Mandya,"K.R. Pet","Bhindi(Ladies Finger)",Bhindi,FAQ,02/01/2025,1500,1500,1500,85
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,22/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,29/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin","Ref grade-1",30/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,14/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,"Ref grade-1",30/01/2025,1000,1000,1000,78
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,06/01/2025,3950,4050,4050,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,15/01/2025,4025,4025,4025,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,"Ref grade-1",31/01/2025,3900,3900,3900,74
+Karnataka,Mandya,Nagamangala,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/01/2025,11000,11000,11000,92
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,01/01/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,06/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,17/01/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,20/01/2025,1000,1500,1500,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,09/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",30/01/2025,8000,40000,15000,200
+Karnataka,Mandya,Malavalli,"Tender Coconut","Tender Coconut","Ref grade-1",30/01/2025,10000,24000,22000,200
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut","Ref grade-1",30/01/2025,20000,20000,20000,200
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,23/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,21/01/2025,10000,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,07/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,11/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,18/01/2025,14000,16000,15500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,09/01/2025,8500,11800,11700,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,23/01/2025,9500,10000,10000,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,14/03/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,17/03/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,15/03/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,27/03/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,16/03/2025,14600,14600,14600,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,02/03/2025,14400,14400,14400,129
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,03/04/2025,0,0,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,08/04/2025,0,0,2650,2
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,19/04/2025,4900,5380,5250,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,19/04/2025,3900,5430,5100,74
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,02/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/04/2025,10000,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,27/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,28/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,14/04/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,05/04/2025,12000,12000,12000,129
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,16/04/2025,3000,3000,3000,23
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,04/04/2025,700,700,700,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,24/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,29/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,07/04/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,19/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,24/04/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,17/03/2025,0,0,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,26/03/2025,0,0,2300,2
+Karnataka,Mandya,Maddur,Rice,"Broken Rice",FAQ,26/03/2025,1600,1600,1600,3
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,18/03/2025,500,800,500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,13/03/2025,600,600,600,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,17/03/2025,500,500,500,78
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,07/05/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,12/05/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,19/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,25/05/2025,2370,2670,2670,3
+Karnataka,Mandya,Maddur,Rice,"Broken Rice",FAQ,23/05/2025,1600,1600,1600,3
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,13/05/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,19/05/2025,1900,1900,1900,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,29/05/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,14/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,20/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,10/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,26/05/2025,400,500,500,173
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/05/2025,6400,6400,6400,92
+Karnataka,Mandya,"K.R. Pet","Bottle gourd","Bottle Gourd",FAQ,09/05/2025,200,200,200,82
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,07/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,09/05/2025,700,1000,700,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,15/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,31/05/2025,1000,1000,1000,78
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,07/05/2025,4800,5300,5100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,08/05/2025,4750,5330,5000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,24/05/2025,4580,5150,4950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,27/05/2025,4400,5130,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,30/05/2025,4200,4850,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,02/05/2025,4100,4700,4400,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,14/05/2025,4150,4700,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,15/05/2025,4100,4700,4480,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,26/05/2025,4200,4800,4550,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,02/05/2025,4200,5030,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,07/05/2025,4200,5080,4700,74
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,30/05/2025,24000,24000,24000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,22/05/2025,10200,12000,12000,140
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,10/06/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,15/06/2025,0,0,2250,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,19/06/2025,0,0,2150,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,24/06/2025,0,0,2950,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,25/06/2025,0,0,2400,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,04/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,Local,06/07/2025,2540,2540,2540,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,18/06/2025,2600,2600,2600,3
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,01/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,14/07/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,16/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,02/06/2025,2450,2450,2450,3
+Karnataka,Mandya,Srirangapattana,Rice,"Broken Rice",Local,08/07/2025,2200,2200,2200,3
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,Local,18/07/2025,0,0,8100,11
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,04/06/2025,20500,20500,20500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,06/06/2025,20500,20500,20500,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,Local,17/07/2025,24200,24200,24200,129
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,01/07/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,22/06/2025,22000,22000,22000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,12/06/2025,18000,18000,18000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,Local,10/07/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,01/06/2025,10000,10577,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,05/06/2025,10000,13000,13000,140
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,12/07/2025,5100,5400,5400,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,14/07/2025,5300,5400,5400,92
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,01/07/2025,3700,4150,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,03/06/2025,4500,5000,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,06/06/2025,3750,4870,4550,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,12/06/2025,4200,4890,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,14/06/2025,4400,4720,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,18/06/2025,3600,4520,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,25/06/2025,3600,4090,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,03/07/2025,3650,4170,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,10/07/2025,3800,4620,4250,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,14/07/2025,3700,4400,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,22/07/2025,3670,4320,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,17/06/2025,4000,4550,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,25/06/2025,3700,4200,3950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,26/06/2025,3600,4100,3880,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,01/07/2025,3600,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,03/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,05/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,16/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,21/07/2025,3700,4100,3950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,11/06/2025,3700,5150,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,19/06/2025,3700,4080,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,12/07/2025,3700,4030,3860,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,15/07/2025,3750,3950,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,23/07/2025,3650,3920,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,10/06/2025,4500,4510,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,13/06/2025,3900,4250,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,24/06/2025,4000,4250,4120,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,28/06/2025,3750,4280,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,30/06/2025,3950,4260,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,01/07/2025,3700,4040,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,07/07/2025,3830,4170,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,08/07/2025,3790,4080,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,15/07/2025,3900,4100,4000,74
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,08/06/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,23/06/2025,1000,1400,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,24/06/2025,1000,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,25/06/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,14/07/2025,1800,1800,1800,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,16/07/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,12/06/2025,600,900,600,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,09/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,12/06/2025,700,700,700,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,20/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,23/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,07/07/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,14/07/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,22/07/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,06/06/2025,600,1000,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,07/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,16/06/2025,1000,1000,1000,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,08/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,10/06/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,13/06/2025,29000,30000,29000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,27/06/2025,27000,30000,28000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,20/07/2025,24500,24500,24500,138
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,02/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,06/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,08/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,12/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,13/07/2025,8000,40000,15000,200
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,14/02/2025,3300,3400,3400,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,26/02/2025,3300,3400,3400,30
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,15/02/2025,2000,2300,2000,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,"Ref grade-1",01/02/2025,2300,2500,2400,2
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,12/02/2025,3400,3750,3600,74
+Karnataka,Mandya,"K.R. Pet",Maize,Local,"Ref grade-1",03/02/2025,2200,2200,2200,4
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,26/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin","Ref grade-1",04/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,11/01/2025,500,500,500,173
+Karnataka,Mandya,Nagamangala,"Ground Nut Seed","Ground Nut Seed",FAQ,11/02/2025,3900,3900,3900,268
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",03/02/2025,8000,40000,15000,200
+Karnataka,Mandya,Malavalli,"Tender Coconut","Tender Coconut","Ref grade-1",03/02/2025,10000,24000,22000,200
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/02/2025,4000,4000,4000,114
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,01/01/2025,2000,2300,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,06/01/2025,2200,2200,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,08/01/2025,2100,2200,2100,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,01/01/2025,2300,2300,2300,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,10/01/2025,2300,2425,2425,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,18/01/2025,2053,2300,2300,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,27/01/2025,2300,2300,2300,2
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,07/01/2025,3100,3200,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,17/01/2025,3100,3400,3400,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,29/01/2025,3300,4200,3500,30
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,06/01/2025,14300,14300,14300,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,08/01/2025,14700,14700,14700,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,21/01/2025,13800,13800,13800,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,15/01/2025,13500,13500,13500,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,"Ref grade-1",30/01/2025,13433,13433,13433,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,10/01/2025,14200,14200,14200,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,12/01/2025,14000,14500,14500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,17/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,26/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,07/01/2025,10000,11000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,17/01/2025,8300,11000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,24/01/2025,9500,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,27/01/2025,10000,11800,10000,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,03/01/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,12/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,14/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,22/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,23/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,29/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Rashi,FAQ,08/01/2025,21000,21000,21000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,01/01/2025,10000,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,02/01/2025,11000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/01/2025,9000,11500,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/01/2025,11500,11600,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,25/01/2025,9000,9000,9000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,13/01/2025,25000,30000,25000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,17/01/2025,22000,31500,25000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,"Ref grade-1",30/01/2025,8000,40000,15000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,07/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,17/01/2025,20000,25000,20000,138
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,13/02/2025,14250,14250,14250,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,10/02/2025,13800,14500,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,12/02/2025,13800,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,19/02/2025,13800,14200,13800,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,15/02/2025,8000,11600,9500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,27/02/2025,11500,11500,11500,129
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,28/02/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,15/02/2025,13800,15500,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,24/02/2025,14000,15000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,"Ref grade-1",04/02/2025,14000,14500,14500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,13/02/2025,9500,11500,9500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,28/02/2025,9500,12500,12500,129
+Karnataka,Mandya,Nagamangala,Copra,other,"Ref grade-1",03/02/2025,9500,9500,9500,129
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,09/02/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,10/02/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,11/02/2025,1000,1500,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,18/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,26/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,27/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,"Ref grade-1",03/02/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Rashi,"Ref grade-1",05/02/2025,29105,29105,29105,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Red,FAQ,14/02/2025,21000,21000,21000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Red,"Ref grade-1",04/02/2025,21000,21000,21000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,16/02/2025,10500,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",05/02/2025,10500,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,10/02/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,11/02/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,18/02/2025,1000,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,"Ref grade-1",04/02/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,12/03/2025,9500,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,25/03/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,27/03/2025,800,800,800,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,02/03/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,20/03/2025,500,700,500,78
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,29/03/2025,10000,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,01/03/2025,9500,12000,12000,129
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,03/01/2025,3100,4000,4000,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,14/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,15/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,25/01/2025,3300,3900,3900,30
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,13/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,22/01/2025,1000,1000,1000,78
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,06/01/2025,3380,3870,3700,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,05/01/2025,4150,4200,4150,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,10/01/2025,4000,4000,4000,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,16/01/2025,4150,4150,4150,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,27/01/2025,3900,3950,3950,74
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,FAQ,20/01/2025,10000,10000,10000,11
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,23/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,28/01/2025,1000,1000,1000,78
+Karnataka,Mandya,Nagamangala,Maize,Local,FAQ,21/01/2025,2400,2400,2400,4
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,04/01/2025,2300,2300,2300,2
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,19/04/2025,4000,4650,4350,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,25/04/2025,4000,4650,4350,74
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,06/04/2025,0,0,2300,2
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,08/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,11/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,23/04/2025,18500,18500,18500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,24/04/2025,18100,18200,18200,129
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,02/04/2025,200,200,200,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,05/04/2025,200,200,200,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,10/04/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,12/04/2025,300,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,15/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,20/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,07/04/2025,800,800,800,159
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,10/04/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,20/04/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,23/04/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,10/04/2025,10000,10500,10500,140
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,28/05/2025,4500,4920,4860,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,29/05/2025,4200,5160,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,31/05/2025,4400,4800,4620,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,06/05/2025,4000,4600,4350,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,24/05/2025,4200,4800,4560,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,30/05/2025,4200,4800,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,30/05/2025,4450,5150,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,03/05/2025,4900,4950,4950,74
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,13/05/2025,1000,1000,1000,23
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,06/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,22/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,02/05/2025,17500,17500,17500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,26/05/2025,19000,19000,19000,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,02/05/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,12/05/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,15/05/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,20/05/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,25/05/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,31/05/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,13/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,06/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,19/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,19/05/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,21/05/2025,24000,24000,24000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,24/05/2025,22000,22000,22000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Other,FAQ,31/05/2025,23000,25075,23000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,16/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,19/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,03/05/2025,6500,6500,6500,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/05/2025,6500,6500,6500,92
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,02/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,25/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,26/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,29/05/2025,1200,1200,1200,78
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,05/06/2025,2600,2600,2600,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,12/06/2025,2600,2600,2600,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,20/06/2025,2600,2600,2600,3
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,03/06/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,21/06/2025,0,0,2050,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,17/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,09/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,11/06/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,13/06/2025,1400,1400,1400,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,15/06/2025,1400,1400,1400,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,16/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,26/06/2025,1900,1900,1900,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,27/06/2025,1000,1600,1600,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,07/07/2025,2000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,08/07/2025,2000,2200,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,21/07/2025,1600,1600,1600,78
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,05/06/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,06/06/2025,1500,2000,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,26/06/2025,900,900,900,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,06/07/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,11/07/2025,2000,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,21/07/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,27/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,01/07/2025,600,700,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,03/07/2025,600,700,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,14/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,17/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,20/07/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,08/06/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,16/06/2025,600,600,600,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,24/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,04/07/2025,1600,2000,1600,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,17/07/2025,3500,3500,3500,159
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,15/07/2025,5400,5400,5400,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,19/07/2025,5100,5400,5100,92
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,20/06/2025,23000,23000,23000,129
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,08/06/2025,2200,2200,2200,3
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,12/06/2025,2400,2400,2400,3
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,04/06/2025,4300,4720,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,09/06/2025,4250,4895,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,27/06/2025,3650,4130,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,28/06/2025,3650,4050,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,01/07/2025,3700,4150,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,04/07/2025,3750,4345,3950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,09/07/2025,3800,4640,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,11/07/2025,3800,4580,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,01/07/2025,3600,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,16/06/2025,4000,4500,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,18/06/2025,4000,4400,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,28/06/2025,3600,4200,3860,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,04/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,08/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,11/07/2025,3700,4050,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,19/07/2025,3700,4100,3950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,23/07/2025,3600,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,06/06/2025,4000,5200,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,09/06/2025,4400,5225,4850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,16/06/2025,3765,4600,4150,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,21/06/2025,3700,4080,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,24/06/2025,3700,4030,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,26/06/2025,3700,4100,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,30/06/2025,3650,4070,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,16/07/2025,3600,3920,3780,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,19/07/2025,3750,3920,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,22/07/2025,3710,3940,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,11/06/2025,4450,4850,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,18/07/2025,3850,4200,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,19/07/2025,4000,4230,4150,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,23/07/2025,3900,4200,4000,74
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,21/07/2025,28000,29000,29000,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,Local,01/07/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,10/06/2025,10500,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,14/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,08/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,04/06/2025,11000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,03/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,19/07/2025,12800,13000,12800,140
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,01/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,07/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,10/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,11/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,14/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,16/07/2025,8000,40000,15000,200
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut",Medium,03/06/2025,23000,23000,23000,200
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut",Medium,25/06/2025,23000,23000,23000,200
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,01/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,02/01/2025,1000,1200,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,16/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,17/01/2025,1000,1500,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,29/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,10/02/2025,3000,3000,3000,23
+Karnataka,Mandya,Nagamangala,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,11/02/2025,8500,8500,8500,8
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,07/02/2025,28000,28000,28000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,17/02/2025,30000,30000,30000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,24/02/2025,20000,20000,20000,138
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,13/02/2025,10000,10000,10000,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,"Ref grade-1",05/02/2025,13433,13500,13500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,11/02/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,17/02/2025,14200,14300,14300,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,22/02/2025,13800,15800,14600,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,23/02/2025,13800,16200,16100,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,"Ref grade-1",03/02/2025,14500,14500,14500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,06/02/2025,12500,12500,12500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,18/02/2025,11500,11500,11500,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,22/02/2025,8000,10000,10000,129
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,21/02/2025,1000,1000,1000,78
+Karnataka,Mandya,Nagamangala,Maize,Local,FAQ,23/01/2025,2425,2425,2425,4
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,10/01/2025,2200,2200,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,13/01/2025,2300,2300,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,15/01/2025,2050,2050,2050,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,21/01/2025,2100,2200,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,28/01/2025,2100,2200,2100,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,29/01/2025,2100,2200,2100,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,16/01/2025,2300,2400,2350,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,19/01/2025,2300,2500,2350,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,04/01/2025,2430,2450,2430,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,28/01/2025,2300,2300,2300,2
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,02/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,28/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,07/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,21/01/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,27/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,03/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin","Ref grade-1",31/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,02/01/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,09/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,"Ref grade-1",31/01/2025,1000,1000,1000,159
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,06/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,22/01/2025,3100,4100,3200,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,27/01/2025,3300,3300,3300,30
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,10/02/2025,2200,2200,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,18/02/2025,2000,2000,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,26/02/2025,2000,2000,2000,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),Jaya,FAQ,14/02/2025,2300,2300,2300,2
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,21/02/2025,3500,4100,4100,30
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,17/02/2025,10000,10000,10000,11
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",31/01/2025,8000,40000,15000,200
+Karnataka,Mandya,Nagamangala,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/01/2025,11000,11000,11000,92
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,22/01/2025,2250,2250,2250,2
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,02/01/2025,4150,4200,4200,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,03/01/2025,4000,4000,4000,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,18/01/2025,3900,4150,3900,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,22/01/2025,4050,4100,4100,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,26/01/2025,4100,4150,4100,74
+Karnataka,Mandya,Nagamangala,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,16/01/2025,4800,4800,4800,92
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,04/01/2025,10500,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,10/01/2025,11600,11600,11600,140
+Karnataka,Mandya,"K.R. Pet","Sweet Potato","Sweet Potato",FAQ,03/01/2025,1000,1000,1000,152
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Rashi,FAQ,02/01/2025,23553,23553,23553,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/01/2025,11500,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,02/01/2025,25000,25000,25000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,03/01/2025,24000,31500,24000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,06/01/2025,24000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,07/01/2025,24000,24000,24000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,"Ref grade-1",31/01/2025,27000,31000,31000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,10/01/2025,20000,25000,25000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,24/01/2025,25000,25000,25000,138
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,04/01/2025,14300,14300,14300,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,16/01/2025,14300,14600,14600,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,22/01/2025,14000,14100,14100,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,28/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,04/01/2025,8000,13000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,14/01/2025,8000,8000,8000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,29/01/2025,8000,13000,9500,129
+Karnataka,Mandya,Srirangapattana,Copra,other,FAQ,17/01/2025,10000,10000,10000,129
+Karnataka,Mandya,Srirangapattana,Copra,other,FAQ,28/01/2025,13000,13000,13000,129
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",01/02/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",04/02/2025,8000,40000,15000,200
+Karnataka,Mandya,Malavalli,"Tender Coconut","Tender Coconut","Ref grade-1",02/02/2025,10000,24000,22000,200
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,08/02/2025,2300,2300,2300,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,"Ref grade-1",03/02/2025,2300,2600,2350,2
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,11/02/2025,3500,4080,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,12/02/2025,3600,4120,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,11/02/2025,3420,3720,3600,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,14/02/2025,3800,3800,3800,74
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,14/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,28/02/2025,300,400,300,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,13/02/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,25/02/2025,1000,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,26/02/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,25/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,01/03/2025,2000,2550,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,19/03/2025,0,0,2300,2
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,12/03/2025,13800,15000,15000,129
+Karnataka,Mandya,Nagamangala,Copra,Small,FAQ,12/03/2025,9500,9500,9500,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,02/03/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,25/03/2025,700,700,700,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,27/03/2025,600,600,600,159
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,28/03/2025,800,800,800,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,25/03/2025,700,700,700,78
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,10/03/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,13/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/03/2025,10000,10100,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,16/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,28/03/2025,32000,32000,32000,138
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,01/03/2025,3000,3000,3000,30
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,09/03/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,17/03/2025,300,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,21/03/2025,400,400,400,173
+Karnataka,Mandya,Maddur,Rice,Other,FAQ,17/04/2025,3500,3500,3500,3
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,25/04/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,22/04/2025,18500,18500,18500,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,29/04/2025,12000,12000,12000,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,08/04/2025,900,1000,900,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,03/04/2025,200,200,200,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,04/04/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,06/04/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,13/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/04/2025,400,400,400,173
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,19/04/2025,5200,5200,5200,74
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,21/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,12/04/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,07/04/2025,10000,11000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,22/04/2025,11000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/04/2025,10500,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,29/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,02/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,13/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,30/05/2025,2670,2670,2670,3
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,08/05/2025,3000,3000,3000,23
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,02/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,09/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,02/05/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,10/05/2025,22000,22000,22000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,29/05/2025,24000,24000,24000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,14/05/2025,16000,16000,16000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Rashi,FAQ,19/05/2025,25167,25167,25167,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,07/05/2025,10000,10200,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,08/05/2025,10000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/05/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,03/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,07/05/2025,1500,1500,1500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,12/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,18/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/05/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,06/05/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,09/05/2025,1000,1700,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,16/05/2025,2500,2500,2500,159
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,06/05/2025,4600,5150,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,07/05/2025,4100,4650,4370,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,28/05/2025,4200,4800,4530,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,29/05/2025,4200,4800,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,31/05/2025,4300,4750,4550,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,15/05/2025,4450,5030,4850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,24/05/2025,4400,5150,4850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,29/05/2025,4250,5230,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,06/05/2025,4850,5050,4950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,14/05/2025,4500,4870,4700,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,26/05/2025,4400,4650,4500,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,29/05/2025,5000,5000,5000,74
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,18/05/2025,18100,18300,18300,129
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,08/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,24/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,13/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",Local,01/07/2025,2200,2200,2200,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,02/06/2025,2670,2670,2670,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,Local,10/07/2025,2560,2560,2560,3
+Karnataka,Mandya,Srirangapattana,Rice,"Broken Rice",FAQ,21/06/2025,2400,2400,2400,3
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,16/07/2025,5300,5300,5300,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,21/07/2025,5300,5300,5300,92
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,16/06/2025,3850,4790,4350,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,24/06/2025,3600,4130,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,26/06/2025,3650,4080,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,30/06/2025,3650,4050,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,08/07/2025,3700,4580,4250,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,16/07/2025,3750,4200,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,18/07/2025,3700,4280,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,21/07/2025,3730,4380,4050,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,02/06/2025,4400,4800,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,03/06/2025,4350,4800,4630,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,04/06/2025,4200,4800,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,06/06/2025,4200,4600,4450,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,13/06/2025,4100,4500,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,24/06/2025,3700,4300,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,30/06/2025,3600,4150,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,07/07/2025,3600,4050,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,15/07/2025,3700,4050,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,10/06/2025,3950,5095,4750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,13/06/2025,3600,4745,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,17/06/2025,3600,4050,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,18/06/2025,3700,4120,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,20/06/2025,3775,4030,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,25/06/2025,3700,3890,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,27/06/2025,3600,4080,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,01/07/2025,3600,3910,3730,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,07/07/2025,3600,3960,3750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,14/07/2025,3750,4000,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,21/07/2025,3750,3840,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,01/07/2025,3700,4040,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,17/06/2025,3900,4350,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,25/06/2025,4080,4380,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,27/06/2025,3800,4330,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,02/07/2025,3700,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,03/07/2025,3700,4030,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,05/07/2025,3800,4080,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,21/07/2025,3750,4200,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,22/07/2025,3800,3800,3800,74
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,02/07/2025,5000,5000,5000,92
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,02/06/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,13/06/2025,0,0,2500,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,29/06/2025,0,0,2250,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,30/06/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,Local,09/07/2025,0,0,8200,11
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,Local,12/07/2025,0,0,8400,11
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,Local,16/07/2025,0,0,8200,11
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,03/07/2025,2000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,15/07/2025,1500,1800,1800,78
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,05/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,09/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,20/07/2025,8000,40000,15000,200
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut",Medium,30/06/2025,2300,2300,2300,200
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,02/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,12/06/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,11/07/2025,1500,2000,1500,78
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,03/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,02/06/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,07/06/2025,8000,40000,15000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,20/06/2025,28000,30000,28000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,11/07/2025,28000,30000,30000,138
+Karnataka,Mandya,Malavalli,Coconut,Coconut,FAQ,11/06/2025,15000,19000,16000,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,27/06/2025,13000,13000,13000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,01/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,22/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,06/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,02/06/2025,20500,20500,20500,129
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,01/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,04/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,10/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,11/06/2025,600,800,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,18/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,19/06/2025,600,1000,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,04/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,06/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,10/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,12/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,11/06/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,27/06/2025,800,1500,800,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,08/07/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,18/07/2025,2900,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,01/07/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,10/07/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,13/07/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,02/06/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,03/06/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,04/06/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,25/06/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,29/06/2025,900,900,900,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,16/07/2025,3500,3500,3500,159
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,05/01/2025,2300,2425,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,12/01/2025,2100,2100,2100,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,06/01/2025,2200,2300,2300,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,08/01/2025,1900,2300,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,22/01/2025,2000,2000,2000,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,17/01/2025,2300,2600,2500,2
+Karnataka,Mandya,Nagamangala,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",30/01/2025,8500,8500,8500,8
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,27/01/2025,9000,9000,9000,11
+Karnataka,Mandya,"K.R. Pet",Maize,Local,FAQ,11/01/2025,2000,2000,2000,4
+Karnataka,Mandya,"K.R. Pet",Maize,Local,FAQ,13/01/2025,2000,2000,2000,4
+Karnataka,Mandya,Malavalli,Maize,Hybrid/Local,FAQ,03/01/2025,2300,2500,2400,4
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,03/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,06/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,09/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,27/01/2025,1000,1000,1000,78
+Karnataka,Mandya,Srirangapattana,Rice,"Broken Rice",FAQ,18/01/2025,3000,3000,3000,3
+Karnataka,Mandya,Srirangapattana,Rice,"Broken Rice",FAQ,22/01/2025,2500,2500,2500,3
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,22/01/2025,9000,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,10/01/2025,20000,25000,25000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,20/01/2025,30000,31000,31000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Other,FAQ,28/01/2025,26000,26000,26000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,03/01/2025,20000,24500,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,05/01/2025,20000,25000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,06/01/2025,19500,20000,19500,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,18/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,21/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,23/01/2025,25000,25000,25000,138
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,17/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,06/01/2025,300,300,300,173
+Karnataka,Mandya,Malavalli,"Tender Coconut","Tender Coconut","Ref grade-1",31/01/2025,10000,24000,22000,200
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,10/01/2025,1500,2000,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,13/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,28/01/2025,1000,1500,1500,159
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,06/01/2025,3600,4340,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,06/01/2025,3400,3850,3750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,06/01/2025,3920,3920,3920,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,01/01/2025,4150,4200,4200,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,14/01/2025,3900,4200,4150,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,"Ref grade-1",30/01/2025,3900,4175,3900,74
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,18/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,23/01/2025,3300,3300,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,28/01/2025,3400,3900,3400,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,05/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,09/01/2025,3100,4100,3150,30
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,28/03/2025,900,900,900,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,18/03/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,02/03/2025,14500,14500,14500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,28/03/2025,17500,17500,17500,129
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,24/03/2025,9500,11200,9500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,26/03/2025,10000,10400,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,28/03/2025,10000,10100,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,29/03/2025,9800,11000,10000,140
+Karnataka,Mandya,Nagamangala,"Honge seed","Honge Seed",FAQ,12/03/2025,4000,4000,4000,124
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,21/03/2025,700,1000,700,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,18/03/2025,200,200,200,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,24/03/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,31/03/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,24/04/2025,13000,13000,13000,129
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,16/04/2025,5240,5450,5320,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,16/04/2025,4000,4600,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,25/04/2025,4300,4950,4750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,26/04/2025,4600,5000,4850,74
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,04/04/2025,12000,12000,12000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,05/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,12/04/2025,10000,12500,10000,140
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,08/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,18/04/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,11/04/2025,500,500,500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,25/04/2025,1200,1200,1200,159
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,02/05/2025,4400,5120,4850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,03/05/2025,4500,5070,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,03/05/2025,4000,4600,4350,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,08/05/2025,4100,4700,4400,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,27/05/2025,4200,4800,4550,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,03/05/2025,4200,4980,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,06/05/2025,4400,5050,4850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,08/05/2025,4300,5090,4750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,14/05/2025,4400,5090,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,27/05/2025,4400,4600,4500,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,28/05/2025,4000,4800,4000,74
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,20/05/2025,1500,1500,1500,23
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,26/05/2025,2650,2650,2650,3
+Karnataka,Mandya,Maddur,Rice,Other,FAQ,23/05/2025,3550,3550,3550,3
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,04/05/2025,0,0,2400,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,09/05/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,16/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,02/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,15/05/2025,300,400,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,24/05/2025,400,500,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,29/05/2025,400,700,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,30/05/2025,600,700,600,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,08/05/2025,1200,1500,1200,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,14/05/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,22/05/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,24/05/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,26/05/2025,2500,2500,2500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,30/05/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,12/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,31/05/2025,20500,20500,20500,129
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,03/05/2025,10000,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,04/05/2025,11300,11300,11300,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,05/05/2025,10000,10500,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/05/2025,11000,12000,12000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,24/05/2025,11000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,31/05/2025,10000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,26/05/2025,30000,30000,30000,138
+Karnataka,Mandya,Nagamangala,Maize,Hybrid/Local,FAQ,21/02/2025,2550,2550,2550,4
+Karnataka,Mandya,Nagamangala,Maize,Hybrid/Local,FAQ,22/02/2025,2320,2550,2425,4
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,14/02/2025,28000,28000,28000,138
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,"Ref grade-1",03/02/2025,9000,9000,9000,11
+Karnataka,Mandya,Malavalli,Rice,Coarse,FAQ,21/02/2025,2600,2850,2750,3
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,20/01/2025,14000,14200,14000,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,26/01/2025,13100,13100,13100,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,27/01/2025,13800,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,06/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,23/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,25/01/2025,14000,16000,16000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,"Ref grade-1",30/01/2025,14000,15000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,06/01/2025,8000,13300,11800,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,15/01/2025,8300,13500,11800,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,16/01/2025,10000,11500,10100,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,21/01/2025,6000,12000,12000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,28/01/2025,8800,13000,10000,129
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,06/02/2025,2200,2300,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,14/02/2025,2300,2300,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,27/02/2025,2300,2300,2300,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,11/02/2025,2300,2600,2400,2
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,12/02/2025,45000,45000,45000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,21/02/2025,30500,30500,30500,138
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/02/2025,4100,4100,4100,114
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,10/02/2025,3300,3300,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,11/02/2025,3300,3300,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,17/02/2025,3300,3400,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,19/02/2025,3200,3200,3200,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,27/02/2025,3300,3400,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,"Ref grade-1",03/02/2025,3300,3400,3400,30
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,09/02/2025,1300,1300,1300,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,27/02/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut","Ref grade-1",02/02/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,07/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,12/02/2025,1500,1500,1500,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,14/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,17/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,28/02/2025,1000,1000,1000,78
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,10/01/2025,4700,4700,4700,114
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/01/2025,4300,4300,4300,114
+Karnataka,Mandya,Nagamangala,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",30/01/2025,4400,4400,4400,114
+Karnataka,Mandya,"K.R. Pet","Sweet Potato","Sweet Potato",FAQ,11/01/2025,1000,1000,1000,152
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,12/02/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,06/02/2025,10300,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/02/2025,11500,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/02/2025,10000,10800,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,19/02/2025,10000,10200,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",01/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,07/02/2025,14500,14500,14500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,"Ref grade-1",05/02/2025,14000,14000,14000,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,12/02/2025,10000,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,16/02/2025,14000,15700,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,"Ref grade-1",05/02/2025,13800,14000,13800,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,17/02/2025,9400,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,19/02/2025,9500,9500,9500,129
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,27/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin","Ref grade-1",03/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,21/03/2025,700,1000,700,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,24/03/2025,700,700,700,78
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,21/03/2025,0,0,2300,2
+Karnataka,Mandya,Maddur,Paddy(Dhan)(Common),Paddy,FAQ,27/03/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Maize,Local,FAQ,21/03/2025,0,0,2510,4
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,01/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,16/06/2025,0,0,2500,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,08/07/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,09/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,10/07/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,09/07/2025,5300,5300,5300,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,22/07/2025,2300,2300,2300,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/06/2025,5700,5700,5700,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,18/07/2025,5400,5400,5400,92
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,20/07/2025,5300,5300,5300,92
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,13/06/2025,3700,4720,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,19/06/2025,3600,4520,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,05/07/2025,3650,4400,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,07/07/2025,3700,4600,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,10/06/2025,4200,4600,4450,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,11/06/2025,4200,4600,4450,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,20/06/2025,3900,4400,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,21/06/2025,3900,4450,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,27/06/2025,3600,4150,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,02/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,10/07/2025,3700,4050,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,22/07/2025,3700,4100,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,01/07/2025,3600,3910,3730,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,02/06/2025,4200,5180,4700,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,03/06/2025,4500,5020,4750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,12/06/2025,3650,5050,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,23/06/2025,3750,3980,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,28/06/2025,3700,4080,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,02/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,03/07/2025,3600,4080,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,05/07/2025,3650,3900,3750,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,08/07/2025,3730,3920,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,18/07/2025,3630,3920,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,02/06/2025,4450,5000,4780,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,14/06/2025,3700,3900,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,20/06/2025,4300,4300,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,21/06/2025,4350,4360,4350,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,09/07/2025,3700,4120,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,11/07/2025,3900,4050,4000,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,12/07/2025,3755,4000,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,14/07/2025,3800,4000,4000,74
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,06/06/2025,1000,1500,1000,23
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,Local,08/07/2025,2000,2000,2000,23
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,28/06/2025,2500,2500,2500,3
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,05/06/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,22/06/2025,0,0,2400,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,02/07/2025,0,0,2200,2
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,01/07/2025,2200,2200,2200,3
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,01/06/2025,1000,1200,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,06/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,20/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,22/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,06/07/2025,2000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,10/07/2025,2000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,13/07/2025,1800,1800,1800,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,18/07/2025,1300,1400,1400,78
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,10/06/2025,1000,1200,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,19/06/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,30/06/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,15/07/2025,3000,3000,3000,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,03/06/2025,500,900,900,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,05/06/2025,1000,1000,1000,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,20/06/2025,800,800,800,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,09/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,11/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,13/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,15/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,18/07/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,24/06/2025,20000,22000,22000,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,Local,19/07/2025,24000,24000,24000,129
+Karnataka,Mandya,Mandya,Copra,other,FAQ,05/06/2025,18500,18500,18500,129
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,06/06/2025,28000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,19/06/2025,16000,16000,16000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,23/06/2025,27000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,30/06/2025,27000,30000,27000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,07/07/2025,27000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,14/07/2025,28000,29000,28000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,19/07/2025,24000,24000,24000,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,05/06/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,20/06/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,Local,08/07/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,01/06/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,02/06/2025,10200,10200,10200,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,13/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/06/2025,8500,8500,8500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,24/06/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,13/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,15/06/2025,500,500,500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,17/06/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,22/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,Local,03/07/2025,2000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,17/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,21/07/2025,8000,40000,15000,200
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut",Medium,20/06/2025,23000,23000,23000,200
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,05/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,10/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,20/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,21/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,24/01/2025,27500,32000,32000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,27/01/2025,29000,29000,29000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,04/01/2025,20000,25000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,08/01/2025,20000,20000,20000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,14/01/2025,22000,25000,22000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,15/01/2025,20000,42000,42000,138
+Karnataka,Mandya,Nagamangala,Coconut,Grade-III,FAQ,28/01/2025,20000,25000,20000,138
+Karnataka,Mandya,"K.R. Pet","Sweet Potato","Sweet Potato",FAQ,06/01/2025,1000,1000,1000,152
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,20/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,04/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,13/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,24/01/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Red,FAQ,10/01/2025,21000,21000,21000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,06/01/2025,11400,11400,11400,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,12/01/2025,11500,11700,11700,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,16/01/2025,11300,11300,11300,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/01/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,24/01/2025,10000,11000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,27/01/2025,11500,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,29/01/2025,9000,11500,11500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",30/01/2025,10000,11500,10422,140
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,07/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,12/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,"Ref grade-1",31/01/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Maize,Local,FAQ,14/01/2025,2000,2000,2000,4
+Karnataka,Mandya,Nagamangala,Maize,Local,FAQ,18/01/2025,2400,2450,2450,4
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,11/01/2025,2000,2000,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,23/01/2025,2100,2300,2300,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse","Ref grade-1",31/01/2025,2200,2300,2300,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,"Ref grade-1",30/01/2025,2300,2600,2450,2
+Karnataka,Mandya,Nagamangala,Paddy(Dhan)(Common),"Paddy Dappa",FAQ,23/01/2025,2400,2400,2400,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,07/01/2025,2300,2450,2300,2
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,11/01/2025,9000,9000,9000,11
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,22/01/2025,9000,9000,9000,11
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,02/01/2025,2100,2200,2200,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,20/01/2025,2050,2200,2100,2
+Karnataka,Mandya,Malavalli,Paddy(Dhan)(Common),Paddy,FAQ,18/01/2025,2300,2550,2350,2
+Karnataka,Mandya,Srirangapattana,Paddy(Dhan)(Common),1001,FAQ,02/01/2025,2300,2300,2300,2
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,04/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,08/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,10/01/2025,3100,4000,3800,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,11/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,12/01/2025,3100,3100,3100,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,16/01/2025,3100,3200,3200,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,24/01/2025,3300,3900,3300,30
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,04/01/2025,4150,4200,4150,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,07/01/2025,4150,4300,4150,74
+Karnataka,Mandya,Nagamangala,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",30/01/2025,11000,11000,11000,92
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,05/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,16/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,24/01/2025,1000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,"Ref grade-1",30/01/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,09/01/2025,13433,13500,13433,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,27/01/2025,13500,13500,13500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,04/01/2025,14000,14500,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,05/01/2025,14000,14500,14500,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,09/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,14/01/2025,14000,14400,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,15/01/2025,14000,14600,14200,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,24/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,27/01/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,03/01/2025,9000,9000,9000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,11/01/2025,11000,11000,11000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,25/01/2025,9400,9400,9400,129
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,23/03/2025,0,0,2300,2
+Karnataka,Mandya,Nagamangala,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/03/2025,10000,10000,10000,92
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,14/03/2025,14500,14500,14500,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,01/03/2025,12000,12000,12000,129
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,15/03/2025,13800,13800,13800,129
+Karnataka,Mandya,Maddur,Copra,Copra,FAQ,26/03/2025,17000,17000,17000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,01/03/2025,13800,14500,14000,129
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/03/2025,9500,9500,9500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,19/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/03/2025,9500,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,25/03/2025,9500,10200,9500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,30/03/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,14/03/2025,500,500,500,78
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,13/03/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,24/03/2025,700,700,700,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,19/03/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,20/03/2025,500,500,500,159
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,25/04/2025,4200,5040,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,26/04/2025,4500,5060,4900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,26/04/2025,4000,4600,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,16/04/2025,4580,5400,5200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,26/04/2025,4400,4860,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,25/04/2025,5075,5075,5075,74
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,15/04/2025,900,900,900,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,25/04/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,04/04/2025,17500,17500,17500,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,05/04/2025,17000,17000,17000,129
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,18/04/2025,18000,18000,18000,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,04/04/2025,700,700,700,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,15/04/2025,800,800,800,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,21/04/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,29/04/2025,1200,1200,1200,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,16/04/2025,300,400,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/03/2025,300,400,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,24/05/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,15/04/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,20/04/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,22/04/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",FAQ,29/04/2025,0,0,2100,2
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,21/04/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,23/04/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,03/04/2025,10000,12000,12000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,06/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,08/04/2025,12500,12500,12500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/04/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,23/04/2025,10500,12000,12000,140
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,FAQ,19/05/2025,0,0,6000,11
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,21/05/2025,2380,2380,2380,3
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,22/05/2025,2430,2430,2430,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,31/05/2025,2000,2670,2670,3
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,14/05/2025,4700,5320,5150,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,15/05/2025,4850,5300,5100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,26/05/2025,4400,4950,4650,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,26/05/2025,4200,4600,4400,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,31/05/2025,4550,5050,4820,74
+Karnataka,Mandya,"K.R. Pet","Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/05/2025,6400,6400,6400,92
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,08/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,11/05/2025,300,300,300,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,16/05/2025,400,500,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,22/05/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,22/05/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,30/05/2025,1000,1000,1000,78
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,11/02/2025,3400,3750,3600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,12/02/2025,3450,3750,3600,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,15/02/2025,4000,4100,4000,74
+Karnataka,Mandya,Srirangapattana,Gur(Jaggery),Kurikatu,FAQ,16/02/2025,3800,3800,3800,74
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,10/02/2025,27000,27000,27000,138
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,09/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,20/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,21/02/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,17/02/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,23/02/2025,1000,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Copra,Copra,FAQ,18/02/2025,14000,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,06/02/2025,14000,15000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,13/02/2025,13800,14000,13800,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,20/02/2025,13900,14300,14300,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,27/02/2025,13800,14000,14000,129
+Karnataka,Mandya,Nagamangala,Copra,Medium,FAQ,28/02/2025,13800,14600,14600,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,14/02/2025,9500,10000,10000,129
+Karnataka,Mandya,Nagamangala,Copra,other,FAQ,21/02/2025,9500,9600,9600,129
+Karnataka,Mandya,Nagamangala,Copra,other,"Ref grade-1",05/02/2025,9500,11800,9500,129
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,07/02/2025,1000,1000,1000,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,14/02/2025,1000,2000,2000,159
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,13/02/2025,1200,1400,1200,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,"Ref grade-1",04/02/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse","Ref grade-1",05/02/2025,2300,2300,2300,2
+Karnataka,Mandya,Nagamangala,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,06/02/2025,11300,11300,11300,11
+Karnataka,Mandya,Malavalli,Rice,Coarse,"Ref grade-1",01/02/2025,2500,2880,2600,3
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,13/02/2025,3300,4150,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,FAQ,23/02/2025,3300,3300,3300,30
+Karnataka,Mandya,Nagamangala,"Ragi (Finger Millet)",Local,"Ref grade-1",05/02/2025,3300,3400,3300,30
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,07/02/2025,10600,12112,12112,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,13/02/2025,10000,11600,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/02/2025,10000,11000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/02/2025,10000,10500,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/02/2025,10000,10600,10600,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,26/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,27/02/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,28/02/2025,10500,10500,10500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,"Ref grade-1",04/02/2025,10200,11600,11000,140
+Karnataka,Mandya,Srirangapattana,"Tender Coconut","Tender Coconut","Ref grade-1",04/02/2025,20000,20000,20000,200
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,06/05/2025,20000,20000,20000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,FAQ,20/05/2025,25000,25000,25000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Pudi,FAQ,19/05/2025,14000,14000,14000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Rashi,FAQ,31/05/2025,24000,24000,24000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,12/05/2025,10100,10100,10100,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,14/05/2025,10000,10500,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/05/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,19/05/2025,9000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/05/2025,9500,10200,9500,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,26/05/2025,11000,11000,11000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,29/05/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,30/05/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,05/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,12/05/2025,30000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Copra,other,FAQ,18/05/2025,15000,15000,15000,129
+Karnataka,Mandya,Maddur,Copra,other,FAQ,31/05/2025,10000,10000,10000,129
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",Local,22/07/2025,2400,2400,2400,3
+Karnataka,Mandya,"K.R. Pet",Rice,Coarse,FAQ,09/06/2025,2600,2600,2600,3
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,03/06/2025,2450,2450,2450,3
+Karnataka,Mandya,"K.R. Pet",Rice,"Broken Rice",FAQ,21/06/2025,2200,2200,2200,3
+Karnataka,Mandya,"K.R. Pet",Onion,Onion,FAQ,17/06/2025,1500,1500,1500,23
+Karnataka,Mandya,"K.R. Pet",Paddy(Dhan)(Common),"Paddy Coarse",Local,11/07/2025,0,0,2000,2
+Karnataka,Mandya,"K.R. Pet","Sesamum(Sesame,Gingelly,Til)",Black,Local,19/07/2025,0,0,8200,11
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,02/06/2025,4400,5050,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,10/06/2025,4200,4845,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,11/06/2025,4100,4900,4600,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,17/06/2025,3700,4720,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,20/06/2025,3650,4540,4180,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,21/06/2025,3700,4540,4150,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,FAQ,23/06/2025,3650,4300,4050,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,02/07/2025,3650,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,12/07/2025,3800,4420,4150,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,15/07/2025,3800,4400,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,19/07/2025,3700,4280,4050,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Achhu,Local,23/07/2025,3700,4300,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,09/06/2025,4200,4600,4450,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,12/06/2025,4100,4500,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,14/06/2025,4100,4500,4300,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,19/06/2025,4000,4400,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,FAQ,23/06/2025,3800,4400,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,09/07/2025,3600,4050,3820,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,12/07/2025,3650,4000,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,14/07/2025,3600,4000,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Kurikatu,Local,18/07/2025,3650,4100,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,04/06/2025,4000,5080,4700,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,FAQ,14/06/2025,3800,4450,4200,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,04/07/2025,3700,3930,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,09/07/2025,3700,3900,3800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,10/07/2025,3700,3970,3850,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Other,Local,11/07/2025,3750,4040,3900,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,04/06/2025,4400,4650,4550,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,06/06/2025,4400,4900,4800,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,19/06/2025,3900,4330,4100,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,FAQ,23/06/2025,4200,4500,4330,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,04/07/2025,3800,4180,3950,74
+Karnataka,Mandya,Mandya,Gur(Jaggery),Yellow,Local,10/07/2025,4020,4080,4080,74
+Karnataka,Mandya,"K.R. Pet",Ginger(Green),"Green Ginger",Local,18/07/2025,2200,2200,2200,103
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,FAQ,16/06/2025,26000,30000,30000,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,04/07/2025,26500,29000,26500,138
+Karnataka,Mandya,"K.R. Pet",Coconut,Grade-I,Local,18/07/2025,28000,30000,30000,138
+Karnataka,Mandya,Malavalli,Coconut,Coconut,FAQ,25/06/2025,18,20,19,138
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Chali,Local,18/07/2025,19000,19000,19000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,01/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,FAQ,23/06/2025,8500,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,07/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet",Arecanut(Betelnut/Supari),Sippegotu,Local,14/07/2025,10000,10000,10000,140
+Karnataka,Mandya,"K.R. Pet","Sweet Potato","Sweet Potato",Local,16/07/2025,500,500,500,152
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,01/07/2025,1000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,03/06/2025,1000,1300,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,04/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,05/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,10/06/2025,1000,1200,1200,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,17/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,19/06/2025,1000,1000,1000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,29/06/2025,1600,1600,1600,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,FAQ,30/06/2025,1500,1700,1700,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,01/07/2025,1000,2000,2000,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,04/07/2025,2000,2300,2300,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,17/07/2025,1400,1400,1400,78
+Karnataka,Mandya,"K.R. Pet",Tomato,Tomato,Local,22/07/2025,2000,2500,2500,78
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,01/06/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,01/07/2025,1500,1500,1500,159
+Karnataka,Mandya,"K.R. Pet",Cucumbar(Kheera),Cucumbar,FAQ,13/06/2025,500,500,500,159
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,01/07/2025,600,700,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,02/06/2025,500,700,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,09/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,24/06/2025,900,900,900,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,25/06/2025,600,800,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,26/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,28/06/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",FAQ,30/06/2025,600,700,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,02/07/2025,600,600,600,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,16/07/2025,500,500,500,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,19/07/2025,400,500,400,173
+Karnataka,Mandya,"K.R. Pet","Sweet Pumpkin","Sweet Pumpkin",Local,22/07/2025,400,400,400,173
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,03/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,04/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,15/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,18/07/2025,8000,45000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,19/07/2025,8000,40000,15000,200
+Karnataka,Mandya,"K.R. Pet","Tender Coconut","Tender Coconut",Local,22/07/2025,8000,40000,15000,200

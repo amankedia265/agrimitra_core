@@ -1,0 +1,919 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,09/01/2025,9750,9750,9750,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,10/01/2025,9300,9300,9300,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,15/01/2025,9200,9200,9200,268
+Karnataka,Chitradurga,Hiriyur,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,17/01/2025,10720,10720,10720,260
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,3829,5787,5771,6
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,"Ref grade-1",03/02/2025,5600,5980,5845,14
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,21/02/2025,3825,7499,6336,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,28/02/2025,3819,7461,6328,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,24/02/2025,3289,6949,4939,10
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,11/02/2025,2010,2441,2382,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,14/02/2025,2167,2509,2492,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,"Ref grade-1",03/02/2025,1800,2406,2363,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,"Ref grade-1",05/02/2025,2150,2450,2363,4
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,21/02/2025,6574,6574,6574,10
+Karnataka,Chitradurga,Chitradurga,"Corriander seed","Coriander Seed",FAQ,14/02/2025,6100,6100,6100,108
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,13/02/2025,6000,6000,6000,10
+Karnataka,Chitradurga,Challakere,"Alasande Gram","Alasande Gram","Ref grade-1",02/02/2025,4149,4149,4149,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,19/02/2025,3507,7455,5316,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,24/02/2025,3509,7400,6832,281
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,17/01/2025,5369,6069,5873,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,27/01/2025,5173,6169,5547,14
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,19/02/2025,7600,7600,7600,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,27/02/2025,8000,8000,8000,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed","Ref grade-1",02/02/2025,10098,10098,10098,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed","Ref grade-1",05/02/2025,10000,10000,10000,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,28/02/2025,6051,7150,6539,269
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,"Ref grade-1",01/02/2025,49619,50029,49849,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,27/02/2025,23629,24059,23849,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,28/02/2025,23600,24000,23800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,20/02/2025,49339,49779,49559,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,28/02/2025,49300,49700,49500,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,"Ref grade-1",01/02/2025,49139,49569,49389,140
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,01/01/2025,5455,6341,6021,14
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,24/01/2025,23800,24200,24000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,02/01/2025,24409,24810,24600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,06/01/2025,48600,49000,48800,140
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,14/02/2025,4059,4059,4059,59
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,17/03/2025,4369,7145,6464,10
+Karnataka,Chitradurga,Chitradurga,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,24/03/2025,8500,8500,8500,11
+Karnataka,Chitradurga,Holalkere,Gur(Jaggery),Unde,FAQ,14/03/2025,2500,2500,2500,74
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,28/03/2025,50600,51000,50800,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,17/03/2025,22600,23000,22790,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,19/03/2025,4025,6509,5911,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,24/03/2025,3007,6459,5763,281
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,14/03/2025,4619,5439,5004,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,21/03/2025,4163,4759,4629,14
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,19/03/2025,1400,2529,2355,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,28/03/2025,2080,2512,2386,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/03/2025,3469,5951,5627,6
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,12/03/2025,1889,6689,4786,49
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/03/2025,3100,3529,3399,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/03/2025,2930,3541,3373,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,26/03/2025,2805,3365,3121,114
+Karnataka,Chitradurga,Holalkere,"Ragi (Finger Millet)",Red,FAQ,15/01/2025,3000,3000,3000,30
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/01/2025,2009,7509,6032,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,1800,7309,5031,49
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,12/01/2025,2500,6666,5854,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,1529,7999,5689,49
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,22/01/2025,3789,6489,5279,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,24/01/2025,3669,6726,5112,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,29/01/2025,3616,6679,5319,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,24/01/2025,2669,6240,5154,10
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,04/01/2025,3072,6800,5423,10
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,11/01/2025,3000,6451,5182,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,4119,5829,5658,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,5219,6005,5691,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,29/01/2025,4801,6201,5512,6
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,10/01/2025,1769,2404,2320,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,27/01/2025,1380,2412,2274,4
+Karnataka,Chitradurga,Holalkere,Maize,Yellow,FAQ,03/01/2025,2100,2300,2246,4
+Karnataka,Chitradurga,Challakere,Paddy(Dhan)(Common),Paddy,FAQ,05/01/2025,1700,2490,2231,2
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,04/01/2025,1009,11400,6955,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,11/01/2025,2000,11400,8279,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,18/01/2025,2885,10410,7327,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,23/01/2025,1209,10780,6996,15
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,17/01/2025,4591,7325,5981,281
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,08/01/2025,3676,4751,4084,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,10/01/2025,3400,4910,4066,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,3000,4725,4080,114
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,04/04/2025,5259,5259,5259,59
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/04/2025,3610,5849,4780,49
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/04/2025,4001,6016,5758,6
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,11/04/2025,4969,5809,5521,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,07/04/2025,3382,6666,6333,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,11/04/2025,3908,6707,5727,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,16/04/2025,3625,6709,5871,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,25/04/2025,1969,6509,4531,281
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/04/2025,3080,3209,3138,114
+Karnataka,Chitradurga,Hiriyur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/04/2025,6000,6300,6200,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,22/04/2025,57919,58329,58159,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,25/04/2025,50100,55500,50300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,05/04/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,08/04/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,17/04/2025,19600,20000,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,19/04/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,24/04/2025,20709,21129,20929,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,15/04/2025,55239,55669,55489,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,21/04/2025,20786,55259,52183,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,23/04/2025,22886,33400,29046,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,29/04/2025,29100,60091,48367,140
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,12/05/2025,5393,5393,5393,14
+Karnataka,Chitradurga,Hiriyur,Rice,Coarse,FAQ,21/05/2025,2400,2700,2575,3
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/05/2025,5719,5929,5842,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,09/05/2025,5769,5939,5901,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/05/2025,3521,5969,5736,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/05/2025,5849,5979,5884,6
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,14/05/2025,1906,2376,2322,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,17/05/2025,2809,8669,6954,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,22/05/2025,2820,6920,5317,15
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,30/05/2025,6000,6000,6000,281
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,12/05/2025,4759,4759,4759,269
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,16/05/2025,3049,6279,5103,10
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/05/2025,3019,3019,3019,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/05/2025,3210,3210,3210,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/05/2025,2224,3385,3048,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,08/05/2025,54739,55169,54999,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,15/05/2025,53639,54069,53889,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,08/05/2025,29519,29959,29749,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,13/05/2025,29249,29699,29479,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,20/05/2025,29629,30059,29819,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,15/05/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,02/05/2025,54100,54500,54300,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,19/05/2025,56000,56600,56293,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,20/05/2025,12000,12000,12000,140
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,13/05/2025,23000,31000,27285,138
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,Local,21/07/2025,7809,7809,7809,9
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,30/06/2025,2509,6491,5371,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,23/07/2025,4669,5475,5198,10
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",Local,21/07/2025,4211,4461,4318,49
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/06/2025,2975,3139,3040,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,11/06/2025,2711,3101,2795,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,14/07/2025,2951,3165,3097,114
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,09/06/2025,3010,5019,4795,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/06/2025,6001,6111,6069,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,07/07/2025,5900,6019,5949,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,09/07/2025,3469,6175,4371,6
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,03/06/2025,4051,6950,6161,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,27/06/2025,1691,2401,2287,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,18/07/2025,2369,2660,2509,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/06/2025,5001,5001,5001,6
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,19/06/2025,54819,55229,55069,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,26/06/2025,52219,52629,52449,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,19/06/2025,29549,29999,29789,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,21/06/2025,29500,29900,29700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,17/06/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,02/06/2025,49529,49979,49769,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,03/06/2025,22476,22842,22500,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,09/06/2025,57619,58119,57724,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,21/06/2025,18000,25500,20635,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,26/06/2025,29892,30100,30092,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,10/07/2025,25000,25000,25000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,30/06/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,08/06/2025,7500,7500,7500,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,13/06/2025,9435,9435,9435,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,15/06/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",Local,02/07/2025,8050,8050,8050,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",Local,11/07/2025,9831,9831,9831,268
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,09/06/2025,1111,1111,1111,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,11/06/2025,3800,3800,3800,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,20/06/2025,2820,2820,2820,281
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,02/06/2025,4501,4501,4501,269
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,2900,4468,3826,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",05/02/2025,3500,4550,3973,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,21/02/2025,49400,49800,49600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,20/02/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,21/02/2025,19600,20000,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,"Ref grade-1",04/02/2025,20409,20810,20600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,21/02/2025,48900,49300,49100,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,20/02/2025,22100,26291,22876,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,28/02/2025,12000,52390,28560,140
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,16/01/2025,1519,11400,6655,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,25/01/2025,3111,10555,9272,15
+Karnataka,Chitradurga,Challakere,Paddy(Dhan)(Common),Paddy,FAQ,12/01/2025,1659,2509,2082,2
+Karnataka,Chitradurga,Challakere,Paddy(Dhan)(Common),Paddy,FAQ,26/01/2025,2200,2550,2324,2
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/01/2025,6005,6005,6005,6
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,01/01/2025,1751,2375,2266,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,29/01/2025,1200,2421,2333,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,"Ref grade-1",31/01/2025,1840,2410,2352,4
+Karnataka,Chitradurga,Hiriyur,Maize,Hybrid/Local,FAQ,12/01/2025,2538,2538,2538,4
+Karnataka,Chitradurga,Holalkere,Maize,Yellow,FAQ,15/01/2025,2200,2300,2241,4
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,12/01/2025,3609,4221,4003,114
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/01/2025,3519,4059,3948,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,15/01/2025,3199,4075,3661,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/01/2025,3125,4375,3760,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/01/2025,3275,4869,4036,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",31/01/2025,2819,4416,3777,114
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,13/01/2025,3129,6419,4980,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,15/01/2025,3959,5742,5213,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,17/01/2025,2869,6319,5391,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,22/01/2025,1809,6230,5118,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,29/01/2025,2551,6051,4937,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5519,6819,5676,6
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,08/01/2025,4573,6350,5560,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,13/01/2025,5639,5796,5749,14
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,16/01/2025,49029,49469,49259,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,"Ref grade-1",31/01/2025,49800,50200,50000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,02/01/2025,29149,29579,29359,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,04/01/2025,28619,29079,28859,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,16/01/2025,24019,24479,24249,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,04/01/2025,23609,24010,23800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,"Ref grade-1",31/01/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,"Ref grade-1",31/01/2025,49300,49700,49500,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,08/01/2025,7000,10000,7286,140
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/02/2025,3000,6666,5075,49
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,"Ref grade-1",05/02/2025,5601,6160,5995,14
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,07/02/2025,2180,2413,2356,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,28/02/2025,2220,2457,2406,4
+Karnataka,Chitradurga,Holalkere,Maize,Yellow,FAQ,21/02/2025,2300,2450,2328,4
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,"Ref grade-1",03/02/2025,3289,6921,4858,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,14/02/2025,2689,5120,4467,10
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,17/02/2025,2646,4812,4741,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,21/02/2025,5169,5769,5598,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,28/02/2025,5056,6100,5642,14
+Karnataka,Chitradurga,Hiriyur,Goat,Goat,"Ref grade-1",01/02/2025,10098,10098,10098,219
+Karnataka,Chitradurga,Hiriyur,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,16/02/2025,10820,10820,10820,264
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,22/02/2025,9477,9477,9477,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,24/02/2025,3500,7069,6281,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,14/02/2025,3609,7489,6855,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram","Ref grade-1",05/02/2025,2409,7510,5666,281
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,FAQ,24/02/2025,6621,6621,6621,9
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,28/02/2025,5380,5380,5380,59
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,27/02/2025,3883,5619,5172,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)","Ref grade-1",01/02/2025,1619,10200,5705,15
+Karnataka,Chitradurga,Challakere,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",02/02/2025,5789,5789,5789,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,1519,7957,5997,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,1149,6250,5832,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,4889,5969,5745,6
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,09/02/2025,6040,6040,6040,6
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,12/02/2025,5824,5824,5824,6
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,17/02/2025,2169,2551,2455,4
+Karnataka,Chitradurga,Chitradurga,"Corriander seed","Coriander Seed","Ref grade-1",31/01/2025,5400,5400,5400,108
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,30/01/2025,7048,7048,7048,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)","Ref grade-1",31/01/2025,6509,7809,7428,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,22/01/2025,3300,3675,3487,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,15/01/2025,4825,7125,6247,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,29/01/2025,4501,7400,5521,281
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/01/2025,2811,6889,6007,49
+Karnataka,Chitradurga,Hiriyur,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,24/01/2025,10300,10300,10300,260
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,24/01/2025,5275,5275,5275,14
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,28/03/2025,4750,4750,4750,59
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,19/03/2025,5175,5229,5193,59
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,19/03/2025,8200,8200,8200,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,17/03/2025,3600,6309,5233,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,28/03/2025,5509,5509,5509,269
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,24/03/2025,51600,52000,51800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,28/03/2025,24600,25000,24849,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,24/03/2025,51100,51500,51300,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,21/03/2025,5685,6519,6211,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,26/03/2025,3082,6222,5558,281
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/03/2025,1621,6309,4317,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/03/2025,1169,6059,3778,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/03/2025,2866,6469,4184,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,26/03/2025,1150,6091,4236,49
+Karnataka,Chitradurga,Hiriyur,Copra,other,FAQ,16/03/2025,11451,11451,11451,129
+Karnataka,Chitradurga,Hiriyur,Coconut,Grade-I,FAQ,27/03/2025,20000,22000,21000,138
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,04/04/2025,4222,5801,4950,269
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,20/04/2025,6700,6700,6700,263
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,04/04/2025,4064,6606,6050,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,28/04/2025,4325,6561,5607,281
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,04/04/2025,5219,6039,5870,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/04/2025,4519,5996,5869,6
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/04/2025,2091,6109,4912,49
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,11/04/2025,3069,6789,4944,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,16/04/2025,2809,6689,4873,10
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,07/04/2025,4713,5309,5227,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,25/04/2025,4901,4901,4901,14
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,07/04/2025,24700,25100,24900,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,19/04/2025,26639,27099,26879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,07/04/2025,19600,20000,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,19/04/2025,56449,56889,56669,140
+Karnataka,Chitradurga,Hiriyur,Arecanut(Betelnut/Supari),Other,FAQ,11/04/2025,21000,24000,22000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,19/04/2025,21700,24000,22108,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,15/04/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/04/2025,2725,3409,2982,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/04/2025,3050,3275,3162,114
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,19/04/2025,2001,7000,4857,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,26/04/2025,2650,7836,6482,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,17/03/2025,1899,2439,2411,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/03/2025,3725,5900,5719,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/03/2025,2786,5941,5712,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,26/03/2025,3809,5829,5567,6
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,26/03/2025,4233,4893,4504,14
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,24/03/2025,2400,6886,5431,10
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,12/05/2025,1809,2395,2323,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,28/05/2025,1600,2402,2204,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,13/05/2025,2500,9249,6649,15
+Karnataka,Chitradurga,Hiriyur,"Ragi (Finger Millet)",Local,FAQ,30/05/2025,3000,3000,3000,30
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,19/05/2025,9200,9200,9200,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,29/05/2025,8464,8464,8464,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,16/05/2025,4329,4329,4329,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,28/05/2025,3214,4537,3875,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,09/05/2025,5422,5422,5422,281
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,07/05/2025,2469,6769,5038,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,12/05/2025,2899,6440,5098,10
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,09/05/2025,6000,6000,6000,6
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/05/2025,3129,3129,3129,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,30/05/2025,3200,3259,3216,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,09/05/2025,53600,54000,53800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,16/05/2025,53600,54000,53800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,17/05/2025,55219,55629,55459,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,20/05/2025,52939,53369,53189,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,09/05/2025,29400,29800,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,16/05/2025,29400,29800,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,17/05/2025,29649,30099,29879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,03/05/2025,20700,21069,20869,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,09/05/2025,20400,20800,20600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,13/05/2025,20409,20810,20600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,13/05/2025,53239,53669,53489,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,17/05/2025,54739,55169,54989,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,14/05/2025,24000,25800,25150,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,15/05/2025,24000,29654,24103,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,27/05/2025,56312,58699,57770,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,30/05/2025,30469,58691,57638,140
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,02/06/2025,4509,6055,5919,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/06/2025,3355,6160,5067,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,30/06/2025,3469,6079,5363,6
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,09/06/2025,3769,5989,4795,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,13/06/2025,3371,6272,5017,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,20/06/2025,2569,5819,4899,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,25/06/2025,2889,5929,5298,10
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,28/06/2025,4359,6747,6100,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",Local,19/07/2025,4010,9629,6800,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,02/06/2025,1641,2422,2295,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,11/06/2025,2150,2340,2250,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,20/06/2025,1669,2401,2237,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,25/06/2025,1609,2435,2298,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,07/07/2025,1966,2501,2367,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,16/07/2025,2479,2652,2566,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,21/07/2025,2250,2651,2500,4
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,30/06/2025,2865,3250,2969,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,21/07/2025,2801,3961,3258,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,23/07/2025,3211,3211,3211,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,05/06/2025,53100,53500,53300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,05/06/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,26/06/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,Local,01/07/2025,50449,50889,50669,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,Local,10/07/2025,35219,35629,35459,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,11/06/2025,18000,58591,20803,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,17/07/2025,55500,56429,56082,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,Local,10/07/2025,29639,30089,29869,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,19/06/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,05/06/2025,52600,53000,52800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,17/06/2025,54639,55099,54889,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,Local,05/07/2025,12000,12000,12000,140
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,02/06/2025,9087,9087,9087,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,05/06/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,27/06/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,28/06/2025,9000,9000,9000,268
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,01/01/2025,5689,8051,6881,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,10/01/2025,4875,7310,6276,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,22/01/2025,3780,7525,5324,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,24/01/2025,4680,7601,5235,281
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,23/01/2025,9000,9000,9000,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,08/01/2025,7300,7300,7300,269
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,02/01/2025,48819,49229,49099,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,06/01/2025,49100,49500,49300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,24/01/2025,49600,50000,49800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,"Ref grade-1",31/01/2025,24100,24500,24300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,06/01/2025,23500,23900,23700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,16/01/2025,21509,21910,21700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,17/01/2025,21600,22000,21800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,02/01/2025,48339,48769,48589,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,04/01/2025,48739,49189,48999,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,16/01/2025,48539,48999,48789,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,23/01/2025,49139,49569,49389,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,24/01/2025,49100,49500,49300,140
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,01/01/2025,4725,5011,4820,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,03/01/2025,4300,5555,4975,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/01/2025,2225,4420,3883,114
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,03/01/2025,3289,6397,5090,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,06/01/2025,3286,6289,5060,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,20/01/2025,3009,6409,4999,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,27/01/2025,2509,6179,5145,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,"Ref grade-1",31/01/2025,2289,5909,4967,10
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,25/01/2025,3929,6300,5265,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/01/2025,5819,5819,5819,6
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,03/01/2025,2090,2389,2312,4
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,13/01/2025,2247,2399,2349,4
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,24/01/2025,2075,2386,2306,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,08/01/2025,1610,2401,2313,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,15/01/2025,806,2396,2305,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,24/01/2025,1500,2411,2326,4
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,"Ref grade-1",31/01/2025,6341,6341,6341,14
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/01/2025,4001,6219,5219,6
+Karnataka,Chitradurga,Hiriyur,Paddy(Dhan)(Common),1001,"Ref grade-1",31/01/2025,2300,2300,2300,2
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,07/01/2025,2519,11400,7798,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,28/01/2025,1869,11011,7247,15
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/01/2025,1801,6689,5814,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,2109,8089,6211,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/01/2025,1609,8039,5462,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/01/2025,1809,7999,5421,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,1609,7209,5223,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,1700,7031,4838,49
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,13/03/2025,2662,7500,5715,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,18/03/2025,1069,8689,6069,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,20/03/2025,2409,8669,6398,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,25/03/2025,1569,7720,5727,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,21/03/2025,2300,2489,2365,4
+Karnataka,Chitradurga,Hiriyur,"Ragi (Finger Millet)",Fine,FAQ,02/03/2025,3666,3666,3666,30
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,28/03/2025,4481,5029,4848,14
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,12/03/2025,3869,7266,5786,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,19/03/2025,4099,6951,5976,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,21/03/2025,3009,6931,6012,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,26/03/2025,2562,6911,5151,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,28/03/2025,3209,6786,5180,10
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,24/03/2025,5202,5202,5202,59
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/03/2025,1109,6189,4420,49
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,27/03/2025,24629,25099,24849,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,24/03/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,27/03/2025,50139,50569,50389,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,28/03/2025,50100,50500,50300,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,19/03/2025,18000,52000,21449,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,14/03/2025,12000,12000,12000,140
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/03/2025,3001,3609,3249,114
+Karnataka,Chitradurga,Chitradurga,"Corriander seed","Coriander Seed",FAQ,12/03/2025,7409,8409,8260,108
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,12/03/2025,6251,6751,6578,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,14/03/2025,4000,6859,6536,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,17/03/2025,4100,6681,6218,281
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,14/03/2025,7209,7209,7209,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,24/03/2025,3800,6050,4826,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,07/04/2025,3088,6525,5711,269
+Karnataka,Chitradurga,Hiriyur,Gur(Jaggery),Achhu,FAQ,03/04/2025,4700,4800,4733,74
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,25/04/2025,3029,3375,3185,59
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,28/04/2025,4349,4349,4349,59
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,03/04/2025,2620,8786,5952,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,22/04/2025,3169,8250,6449,15
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,04/04/2025,4211,5373,5022,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,11/04/2025,5379,5381,5380,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,16/04/2025,4493,5479,5100,14
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,23/04/2025,2509,6777,4893,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,25/04/2025,2611,6499,5129,10
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,11/04/2025,2610,3306,3141,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/04/2025,3029,3375,3185,114
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,04/04/2025,1866,2439,2362,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,07/04/2025,2172,2411,2356,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/04/2025,2869,6052,5869,6
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,07/04/2025,6000,6400,6200,6
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,08/04/2025,52619,53029,52859,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,17/04/2025,55600,56000,55800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,19/04/2025,56919,57329,57159,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,05/04/2025,24649,25099,24879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,17/04/2025,25200,25600,25400,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,15/04/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,08/04/2025,52139,52569,52389,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,24/04/2025,57459,57889,57669,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,28/04/2025,52939,53399,53189,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,25/04/2025,21800,25000,22868,140
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,02/05/2025,2789,6309,4970,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/05/2025,5699,6041,5940,6
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,09/05/2025,1689,2401,2318,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,29/05/2025,2810,7410,5683,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,16/05/2025,1700,2392,2290,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,30/05/2025,1600,2392,2254,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,15/05/2025,3009,6906,6413,15
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,02/05/2025,5279,5279,5279,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,07/05/2025,5289,5289,5289,14
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,20/02/2025,30990,30990,30990,138
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,"Ref grade-1",04/02/2025,23649,24099,23889,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,27/02/2025,49339,49789,49579,140
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,24/02/2025,5493,5723,5606,14
+Karnataka,Chitradurga,Holalkere,"Bajra(Pearl Millet/Cumbu)",Jawari,FAQ,27/02/2025,2400,2400,2400,28
+Karnataka,Chitradurga,Challakere,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/02/2025,5651,5651,5651,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,1709,5989,5636,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,2409,5961,5647,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,2009,5939,5724,6
+Karnataka,Chitradurga,Challakere,Maize,Yellow,"Ref grade-1",04/02/2025,1519,2394,2352,4
+Karnataka,Chitradurga,Hiriyur,Maize,Hybrid/Local,FAQ,28/02/2025,2500,2500,2500,4
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,15/02/2025,5400,5400,5400,10
+Karnataka,Chitradurga,Challakere,"Tamarind Seed","Tamarind Seed",FAQ,09/02/2025,2709,2709,2709,208
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,"Ref grade-1",03/02/2025,7200,7200,7200,9
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,2825,4222,3446,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/02/2025,2469,4411,3423,114
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,10/02/2025,3409,7289,5679,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,12/02/2025,3800,7513,6127,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,19/02/2025,3869,6921,5023,10
+Karnataka,Chitradurga,Challakere,"Tamarind Fruit","Tamarind Fruit",FAQ,09/02/2025,4000,18799,7595,261
+Karnataka,Chitradurga,Challakere,"Tamarind Fruit","Tamarind Fruit",FAQ,23/02/2025,3201,27559,6868,261
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,18/02/2025,1529,8170,5531,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,20/02/2025,2089,8000,5743,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,25/02/2025,2609,9510,5754,15
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,14/02/2025,889,7029,4486,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/02/2025,1869,6889,4028,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/02/2025,889,6489,4666,49
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,28/02/2025,49800,50200,50000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,20/02/2025,23649,24069,23889,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,27/02/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,28/02/2025,19600,20000,19800,140
+Karnataka,Chitradurga,Challakere,"Ground Nut Seed","Ground Nut Seed",FAQ,24/02/2025,3800,7549,6427,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,08/02/2025,10100,10100,10100,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,14/02/2025,11304,11304,11304,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,20/02/2025,7000,7000,7000,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed","Ref grade-1",03/02/2025,10079,10079,10079,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed","Ref grade-1",06/02/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,28/02/2025,5095,7200,6846,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram","Ref grade-1",03/02/2025,3275,7469,6047,281
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,25/02/2025,2025,2442,2379,4
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,13/05/2025,53719,54129,53959,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,02/05/2025,29400,29800,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,12/05/2025,29500,29800,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,05/05/2025,20500,20900,20700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,16/05/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,17/05/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,20/05/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,03/05/2025,54200,54600,54500,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,12/05/2025,53100,53500,53300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,15/05/2025,53149,53599,53379,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,16/05/2025,53100,53500,53300,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,06/05/2025,55589,60699,59494,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,12/05/2025,40000,60000,50000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,13/05/2025,23000,23100,23042,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,31/05/2025,29500,58909,50998,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,13/05/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,19/05/2025,4105,4105,4105,281
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/05/2025,2621,3325,2904,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/05/2025,3425,3425,3425,114
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,18/06/2025,4719,6339,5434,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,27/06/2025,3869,5690,5080,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,04/07/2025,4551,5572,5216,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,18/07/2025,5059,5629,5306,10
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,09/06/2025,4269,4269,4269,14
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,05/06/2025,3124,7060,6172,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,10/06/2025,5330,7211,6859,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",Local,08/07/2025,7189,7678,7463,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",Local,17/07/2025,5259,9419,7667,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,16/06/2025,1500,2439,2261,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,30/06/2025,1833,2406,2316,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,09/07/2025,2146,2541,2402,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,14/07/2025,5809,6165,5987,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,16/07/2025,6255,6255,6255,6
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,06/06/2025,4569,6339,5308,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,23/06/2025,4151,6229,5259,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,14/07/2025,2009,6225,5169,10
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/06/2025,2611,3007,2900,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/06/2025,2726,2999,2942,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,16/07/2025,3080,3339,3146,114
+Karnataka,Chitradurga,Chitradurga,"Foxtail Millet(Navane)",Other,FAQ,25/06/2025,2609,3129,2757,121
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,21/06/2025,54119,54529,54359,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,Local,08/07/2025,40919,41329,41159,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,05/06/2025,29600,30000,29800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,Local,05/07/2025,29649,30079,29899,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,Local,08/07/2025,20700,21100,20900,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,Local,15/07/2025,50839,51269,51099,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,01/07/2025,29539,29999,29779,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,12/06/2025,29749,30179,29959,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,02/06/2025,20509,20910,20700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,21/06/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,Local,10/07/2025,20749,21099,20979,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,Local,15/07/2025,50349,50779,50559,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,30/06/2025,53100,53689,53200,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,22/07/2025,22988,34500,31118,140
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,14/06/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Hiriyur,"Black Gram Dal (Urd Dal)","Black Gram Dal",Local,16/07/2025,7004,7004,7004,264
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,03/01/2025,5666,5666,5666,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,10/01/2025,5483,5483,5483,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,22/01/2025,5725,5725,5725,14
+Karnataka,Chitradurga,Challakere,Paddy(Dhan)(Common),Paddy,FAQ,19/01/2025,1809,2629,2392,2
+Karnataka,Chitradurga,Hiriyur,Wheat,"Super Fine",FAQ,03/01/2025,4001,4001,4001,1
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,09/01/2025,1152,11400,7318,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)","Ref grade-1",30/01/2025,1039,10871,6836,15
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,29/01/2025,1105,6699,4609,49
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,01/01/2025,3659,6361,5408,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,27/01/2025,3701,6696,5316,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,"Ref grade-1",31/01/2025,3701,6719,4861,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,01/01/2025,2409,6450,5507,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,03/01/2025,2229,6429,5399,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,08/01/2025,2209,6430,5522,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,10/01/2025,2029,6429,5392,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,13/01/2025,1800,6324,5386,10
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,07/01/2025,2129,2392,2331,4
+Karnataka,Chitradurga,Challakere,Maize,Yellow,"Ref grade-1",31/01/2025,2170,2396,2340,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,03/01/2025,1966,2386,2299,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,17/01/2025,2251,2521,2318,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,22/01/2025,1600,2405,2314,4
+Karnataka,Chitradurga,Hiriyur,Maize,Hybrid/Local,FAQ,22/01/2025,2335,2335,2335,4
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/01/2025,1119,7229,5740,49
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,04/01/2025,49229,49669,49449,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,23/01/2025,23849,24299,24079,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,23/01/2025,21109,21510,21300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,24/01/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Hiriyur,Arecanut(Betelnut/Supari),Other,FAQ,06/01/2025,18000,18000,18000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,03/01/2025,48700,50529,49961,140
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,03/01/2025,20000,30380,25951,138
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,03/01/2025,4000,8269,6542,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,13/01/2025,4625,7350,6002,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,27/01/2025,3825,7189,6052,281
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,16/01/2025,10400,10400,10400,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,01/01/2025,3500,3500,3500,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,03/01/2025,4400,5001,4600,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,10/01/2025,3000,6775,4258,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,13/01/2025,6210,7300,6915,269
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/03/2025,3419,5833,5542,6
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,09/03/2025,6852,6852,6852,263
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/03/2025,3121,7319,5852,114
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,27/03/2025,50619,51059,50879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,24/03/2025,24800,25200,25000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,27/03/2025,19609,20010,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,28/03/2025,19600,20000,19800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,29/03/2025,18100,18500,18300,140
+Karnataka,Chitradurga,Hiriyur,Arecanut(Betelnut/Supari),Other,FAQ,23/03/2025,20500,22000,21000,140
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,13/03/2025,26980,34830,30234,138
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,19/03/2025,30640,30640,30640,138
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,01/03/2025,8000,8000,8000,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,12/03/2025,3500,6250,5068,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,26/03/2025,4155,5209,4975,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,23/04/2025,4880,6522,6109,281
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/04/2025,2509,3619,3123,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,04/04/2025,2900,3901,3218,114
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,23/04/2025,4789,5193,4991,14
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,28/04/2025,3009,6669,5039,10
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,16/04/2025,5009,6080,5530,269
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,15/04/2025,1000,8669,6632,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,17/04/2025,2500,9110,6396,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,16/04/2025,2080,2439,2358,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,23/04/2025,1800,2400,2352,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,25/04/2025,1801,2406,2334,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/04/2025,4609,6019,5812,6
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,16/04/2025,4900,5511,5254,59
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,05/04/2025,51419,51829,51659,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,07/04/2025,52601,53002,52800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,15/04/2025,55719,56129,55959,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,24/04/2025,57929,58429,58169,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,25/04/2025,28600,29000,28800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,28/04/2025,20610,21049,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,05/04/2025,50939,51369,51189,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,25/04/2025,49600,50000,49800,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,08/04/2025,25235,27048,26675,140
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,07/04/2025,24011,28000,25890,138
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,07/05/2025,1800,2430,2341,4
+Karnataka,Chitradurga,Holalkere,Gur(Jaggery),Unde,FAQ,12/05/2025,2400,2400,2400,74
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,19/05/2025,4509,4509,4509,14
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,31/05/2025,5050,6980,6313,15
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,14/05/2025,3719,5871,5059,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,02/05/2025,4109,5865,5088,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/05/2025,3001,5986,5918,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/05/2025,5770,5959,5891,6
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,02/05/2025,54600,55000,54800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,05/05/2025,52010,52490,52200,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,12/05/2025,53700,54100,53900,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,03/05/2025,29400,29700,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,05/05/2025,29400,29800,29600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,02/05/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,08/05/2025,20509,20910,20700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,05/05/2025,51500,51900,51700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,20/05/2025,52449,52899,52679,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,09/05/2025,54789,59219,58239,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,17/05/2025,23930,26000,25414,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/05/2025,13000,13000,13000,140
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,30/05/2025,26730,26730,26730,138
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,28/05/2025,8850,8850,8850,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,02/05/2025,4400,5509,4954,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,07/05/2025,2300,6716,4621,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,12/05/2025,3500,6266,5180,281
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,"Ref grade-1",03/02/2025,3162,5709,4797,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,"Ref grade-1",05/02/2025,3069,5609,4286,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,1300,6869,5773,6
+Karnataka,Chitradurga,Hiriyur,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,17/02/2025,5900,5900,5900,6
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/02/2025,2550,3515,3372,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/02/2025,3000,4269,3416,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/02/2025,2119,3525,3395,114
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",02/02/2025,2500,6525,5330,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,1119,6679,4230,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,1111,6869,4162,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,1600,6706,4691,49
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,22/02/2025,2111,8009,5756,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)","Ref grade-1",04/02/2025,2021,10666,6627,15
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,20/02/2025,49819,50219,50000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,"Ref grade-1",04/02/2025,49419,49829,49659,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,"Ref grade-1",01/02/2025,23659,24099,23879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,"Ref grade-1",01/02/2025,20409,20810,20600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,"Ref grade-1",04/02/2025,48939,49369,49189,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,27/02/2025,12000,18400,18032,140
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,07/02/2025,3569,6989,5050,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,17/02/2025,4089,7701,6302,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,17/02/2025,2809,5409,4605,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,28/02/2025,1611,6689,4682,10
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,18/02/2025,1454,2526,2432,4
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,21/02/2025,1609,2479,2437,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,19/02/2025,1900,2509,2429,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,24/02/2025,1001,2466,2401,4
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,26/01/2025,2619,4221,3878,114
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,23/02/2025,12170,12170,12170,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,17/02/2025,4656,6825,6168,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,21/02/2025,2011,2011,2011,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)","Ref grade-1",03/02/2025,3000,7035,4921,269
+Karnataka,Chitradurga,Challakere,"Tamarind Fruit","Tamarind Fruit","Ref grade-1",02/02/2025,6500,7450,6992,261
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,14/03/2025,3121,7319,5852,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/03/2025,3269,5851,5535,6
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,01/03/2025,2619,7658,5472,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,27/03/2025,2600,8169,6074,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,14/03/2025,2270,2481,2402,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,26/03/2025,2150,2450,2351,4
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,12/03/2025,4569,5869,5405,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,17/03/2025,4397,5159,4631,14
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,19/03/2025,4113,4900,4577,14
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,26/03/2025,4950,5000,4977,59
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,23/07/2025,2161,2712,2467,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,19/06/2025,5117,7231,6002,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,26/06/2025,3331,7331,6621,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",Local,05/07/2025,7419,7419,7419,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",Local,22/07/2025,3169,10009,7157,15
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,25/06/2025,5700,7125,5937,59
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,Local,07/07/2025,7125,7125,7125,9
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,Local,18/07/2025,7300,7300,7300,9
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,02/06/2025,2309,6341,5365,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,11/06/2025,2709,5889,4893,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,16/06/2025,2891,6479,5351,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,02/07/2025,5199,6510,5626,10
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,23/06/2025,1700,2432,2363,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,02/07/2025,1956,2454,2343,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,04/07/2025,1850,2460,2381,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,Local,14/07/2025,2109,2618,2438,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/06/2025,5056,6056,6056,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/06/2025,6081,6081,6081,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,04/07/2025,5900,6005,5949,6
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,18/06/2025,9207,9207,9207,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,30/06/2025,9800,9800,9800,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",Local,18/07/2025,9281,9281,9281,268
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/06/2025,2677,3085,2922,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/06/2025,2651,3072,2901,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,02/07/2025,2929,2990,2961,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,07/07/2025,2950,3260,3093,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,09/07/2025,2911,3111,3011,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,18/07/2025,3165,3251,3197,114
+Karnataka,Chitradurga,Hiriyur,Coconut,Grade-III,FAQ,16/06/2025,24442,24442,24442,138
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,17/06/2025,55119,55529,55359,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,17/06/2025,29649,30069,29879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,01/07/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,Local,05/07/2025,20709,21110,20900,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,01/07/2025,50449,50889,50669,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,26/06/2025,51739,52169,51999,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,19/07/2025,56200,56200,56200,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,21/06/2025,9800,9800,9800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,02/06/2025,50039,50499,50289,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,Local,05/07/2025,54819,55229,55059,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,Local,08/07/2025,29639,30099,29879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,Local,01/07/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,20/06/2025,24000,58491,39525,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,25/06/2025,28636,57791,56544,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,08/01/2025,2626,7200,5321,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram","Ref grade-1",31/01/2025,4290,7309,6008,281
+Karnataka,Chitradurga,Hiriyur,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,29/01/2025,10988,10988,10988,264
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,01/01/2025,9700,9700,9700,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,20/01/2025,9949,9949,9949,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,17/01/2025,2875,7325,4146,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,24/01/2025,1525,5001,3745,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,27/01/2025,7739,8069,7938,269
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,08/01/2025,3409,6305,5156,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,10/01/2025,3025,6431,5077,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,15/01/2025,4319,6329,5522,10
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,18/01/2025,2512,6269,5143,10
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,4205,6011,5378,6
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,29/01/2025,2839,4454,3989,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/01/2025,2419,4729,3883,114
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,26/01/2025,3001,6700,5621,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,1001,7209,4894,49
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,10/01/2025,2131,2403,2344,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,13/01/2025,1830,2405,2317,4
+Karnataka,Chitradurga,Hiriyur,Maize,Hybrid/Local,FAQ,02/01/2025,2450,2450,2450,4
+Karnataka,Chitradurga,Hiriyur,Rice,Coarse,FAQ,05/01/2025,4044,4044,4044,3
+Karnataka,Chitradurga,Chitradurga,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,03/01/2025,5300,5300,5300,11
+Karnataka,Chitradurga,Challakere,Paddy(Dhan)(Common),Paddy,"Ref grade-1",02/02/2025,2002,2609,2467,2
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,14/02/2025,4066,7569,6387,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,FAQ,19/02/2025,3825,7623,7623,10
+Karnataka,Chitradurga,Challakere,Groundnut,Gejje,"Ref grade-1",05/02/2025,3785,6891,5509,10
+Karnataka,Chitradurga,Holalkere,"Ragi (Finger Millet)",Red,FAQ,28/02/2025,3100,3100,3100,30
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,19/02/2025,5069,5125,5087,14
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,02/01/2025,1100,11400,6889,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,21/01/2025,1009,10821,6287,15
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,17/01/2025,49100,49500,49300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,23/01/2025,49619,50029,49859,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,06/01/2025,28500,28900,28700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,17/01/2025,24400,24800,24600,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,17/01/2025,48600,49000,48800,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,15/01/2025,24833,50333,27465,140
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,07/02/2025,10049,10049,10049,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,19/02/2025,1250,6600,4768,269
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)","Ref grade-1",05/02/2025,7209,7209,7209,269
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,17/02/2025,4775,7469,6453,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,21/02/2025,3033,7351,5715,281
+Karnataka,Chitradurga,Hiriyur,Sheep,"Sheep Medium","Ref grade-1",01/02/2025,5000,20000,15000,218
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/02/2025,3069,3859,3350,114
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/02/2025,3060,3519,3142,114
+Karnataka,Chitradurga,Challakere,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",02/02/2025,2304,4059,3505,114
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,14/02/2025,1509,2453,2286,4
+Karnataka,Chitradurga,Challakere,Maize,Yellow,FAQ,28/02/2025,2283,2459,2421,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,21/02/2025,2009,2509,2421,4
+Karnataka,Chitradurga,Holalkere,Maize,Yellow,FAQ,20/02/2025,2300,2400,2380,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,15/02/2025,2111,10250,7059,15
+Karnataka,Chitradurga,Challakere,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/02/2025,4000,6419,4905,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,1609,6219,4262,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,1000,6749,5038,49
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,"Ref grade-1",03/02/2025,3411,3411,3411,59
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,27/02/2025,49819,50269,50099,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,21/02/2025,23600,24000,23800,140
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/03/2025,2519,5850,5579,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/03/2025,4779,5749,5604,6
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,24/03/2025,4203,4921,4499,14
+Karnataka,Chitradurga,Holalkere,Gur(Jaggery),Unde,FAQ,12/03/2025,2500,2500,2500,74
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,12/03/2025,3055,3581,3492,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/03/2025,2800,3521,3177,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/03/2025,2800,3650,3192,114
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,15/03/2025,2555,7015,5651,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,12/03/2025,2241,2506,2418,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,24/03/2025,2280,2450,2381,4
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,12/03/2025,5271,5451,5386,59
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,14/03/2025,3254,5150,4635,59
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,17/03/2025,4959,5255,5080,59
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,13/03/2025,8000,8000,8000,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,19/03/2025,5400,6209,5743,269
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,17/03/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,18/03/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,19/03/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,28/03/2025,1200,6202,5285,281
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/03/2025,1221,6259,4202,49
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,07/04/2025,4651,5351,5158,59
+Karnataka,Chitradurga,Chitradurga,Safflower,Safflower,FAQ,11/04/2025,5100,5351,5183,59
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,11/04/2025,1809,2443,2380,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,28/04/2025,1856,2396,2255,4
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/04/2025,5389,6011,5771,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/04/2025,5099,6049,5914,6
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/04/2025,2440,5960,4773,49
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/04/2025,1029,5889,4301,49
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,15/04/2025,33950,33950,33950,138
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,29/04/2025,30940,30940,30940,138
+Karnataka,Chitradurga,Chitradurga,Sunflower,Local,FAQ,28/04/2025,5389,5429,5406,14
+Karnataka,Chitradurga,Chitradurga,"Green Gram (Moong)(Whole)",Medium,FAQ,07/04/2025,4825,4825,4825,9
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,28/04/2025,53409,53819,53659,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,08/04/2025,24749,25199,24979,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,15/04/2025,25249,25699,25479,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,22/04/2025,26639,27099,26879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,24/04/2025,26649,27099,26879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,28/04/2025,28629,29069,28879,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,25/04/2025,20600,21000,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,07/04/2025,52100,52500,52300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,17/04/2025,55100,55500,55300,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,22/04/2025,57449,57889,57669,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,15/04/2025,29100,29100,29100,140
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,24/04/2025,3678,8290,6778,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,08/04/2025,2600,8218,6342,15
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,04/04/2025,3459,6849,5568,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,07/04/2025,3109,6909,5486,10
+Karnataka,Chitradurga,Chitradurga,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/05/2025,2455,5689,4803,49
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,19/05/2025,1500,2380,2329,4
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,09/05/2025,3089,6109,4891,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,19/05/2025,3079,6609,4905,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,28/05/2025,4259,6271,5352,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,30/05/2025,3889,6339,5183,10
+Karnataka,Chitradurga,Hiriyur,Groundnut,"Big (With Shell)",FAQ,24/05/2025,3869,6360,5341,10
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,02/05/2025,1900,2379,2372,4
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,03/05/2025,1500,9669,7406,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,06/05/2025,1000,8769,7100,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,08/05/2025,2269,8779,6473,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,10/05/2025,2011,7000,5879,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,20/05/2025,2030,8775,6139,15
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,03/05/2025,27000,29000,28333,138
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,23/05/2025,31860,31860,31860,138
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,03/05/2025,54619,55069,54869,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,15/05/2025,29429,29859,29619,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,12/05/2025,20400,20900,20700,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,08/05/2025,54229,54689,54479,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,09/05/2025,53100,53500,53300,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,03/05/2025,24000,26200,25245,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,08/05/2025,27286,27286,27286,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,16/05/2025,28187,57129,55611,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,03/05/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Sippegotu,FAQ,26/05/2025,10000,10000,10000,140
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,02/05/2025,1881,6519,3902,281
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,16/05/2025,3625,3625,3625,281
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,22/05/2025,9375,9375,9375,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,23/05/2025,9743,9743,9743,268
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,31/05/2025,9249,9249,9249,268
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,14/05/2025,3899,3899,3899,269
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,02/05/2025,2444,3309,2971,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,12/05/2025,2609,3229,3113,114
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,04/06/2025,3073,5959,5836,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/06/2025,4923,6151,6078,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,23/07/2025,2311,4300,3582,6
+Karnataka,Chitradurga,Chitradurga,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/06/2025,2000,6100,5716,6
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,FAQ,04/06/2025,3869,6359,5294,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,07/07/2025,4229,5919,5286,10
+Karnataka,Chitradurga,Chitradurga,Groundnut,Natte,Local,09/07/2025,4469,5850,5250,10
+Karnataka,Chitradurga,Hiriyur,Jowar(Sorghum),"Jowar Hybrid",Local,10/07/2025,2550,2550,2550,5
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,12/06/2025,3009,7254,6199,15
+Karnataka,Chitradurga,Chitradurga,Cotton,"Varalakshmi  (Ginned)",FAQ,24/06/2025,7069,7069,7069,15
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,04/06/2025,1800,2430,2327,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,06/06/2025,1501,2437,2307,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,09/06/2025,900,2429,2333,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,13/06/2025,1500,2450,2294,4
+Karnataka,Chitradurga,Chitradurga,Maize,Local,FAQ,18/06/2025,1501,2398,2273,4
+Karnataka,Chitradurga,Hiriyur,"Ground Nut Seed","Ground Nut Seed",FAQ,22/06/2025,9623,9623,9623,268
+Karnataka,Chitradurga,Holalkere,"Ground Nut Seed","Ground Nut Seed",FAQ,16/06/2025,9200,9500,9230,268
+Karnataka,Chitradurga,Chitradurga,"Alasande Gram","Alasande Gram",FAQ,23/06/2025,3430,3430,3430,281
+Karnataka,Chitradurga,Chitradurga,"Avare Dal","Avare (Whole)",FAQ,09/06/2025,3010,5019,4795,269
+Karnataka,Chitradurga,Hiriyur,"Ragi (Finger Millet)",Local,FAQ,04/06/2025,2500,3000,2880,30
+Karnataka,Chitradurga,Hiriyur,Coconut,Grade-III,FAQ,20/06/2025,24000,24000,24000,138
+Karnataka,Chitradurga,Holalkere,Coconut,Grade-I,FAQ,30/06/2025,15000,15000,15000,138
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,01/07/2025,50919,51329,51159,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,FAQ,12/06/2025,55719,56129,55999,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),api,Local,01/07/2025,50919,51329,51159,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,Local,15/07/2025,29729,30169,29989,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,FAQ,12/06/2025,20609,21010,20800,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Kempugotu,Local,15/07/2025,20719,21110,20900,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,19/06/2025,54339,54779,54559,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,21/06/2025,53649,54069,53889,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,05/07/2025,23000,23000,23000,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,FAQ,26/06/2025,29559,29989,29779,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Bette,Local,01/07/2025,29539,29999,29779,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,FAQ,12/06/2025,55239,55669,55489,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,Local,05/07/2025,54339,54769,54589,140
+Karnataka,Chitradurga,Chitradurga,Arecanut(Betelnut/Supari),Rashi,Local,08/07/2025,40449,40889,40669,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,FAQ,27/06/2025,24000,56000,24817,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,16/07/2025,56119,56119,56119,140
+Karnataka,Chitradurga,Holalkere,Arecanut(Betelnut/Supari),Rashi,Local,18/07/2025,26387,56400,42140,140
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,02/06/2025,2890,3352,3072,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,06/06/2025,2786,3170,3018,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/06/2025,2625,3105,2863,114
+Karnataka,Chitradurga,Chitradurga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/06/2025,2921,3056,3029,114
+Karnataka,Chitradurga,Chitradurga,"Castor Seed","Castor seed",Local,21/07/2025,5700,5700,5700,123

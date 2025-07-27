@@ -1,0 +1,266 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,2500,7155,6208,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,3000,7069,5910,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,2200,7059,6005,49
+Karnataka,Bagalkot,Bagalakot,Rice,"Pusa Basmati Raw (New)",FAQ,17/01/2025,2970,2970,2970,3
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,15/01/2025,3070,6300,5774,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,28/01/2025,3010,5410,5069,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,"Ref grade-1",31/01/2025,4511,5555,5128,10
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/01/2025,6894,6903,6899,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,09/01/2025,6022,6031,6024,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,5741,5849,5783,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,5601,5869,5831,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5569,5859,5789,6
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,08/01/2025,2269,2411,2356,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,16/01/2025,2220,2351,2292,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,"Ref grade-1",31/01/2025,1850,2309,2245,4
+Karnataka,Bagalkot,Bagalakot,Soyabean,Soyabeen,FAQ,11/01/2025,4300,4300,4300,13
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,16/01/2025,5800,5800,5800,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,21/01/2025,3809,4889,4202,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,10/01/2025,5960,6009,5989,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,27/01/2025,3811,4011,3885,14
+Karnataka,Bagalkot,Mhalingapur,Gur(Jaggery),Nizamabad,FAQ,03/01/2025,3660,3825,3750,74
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,30/01/2025,2248,2539,2362,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,09/01/2025,2260,2609,2407,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/01/2025,2000,2551,2292,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,23/01/2025,2150,2511,2302,28
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,FAQ,04/01/2025,1200,4000,3000,23
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,FAQ,11/01/2025,500,3000,2000,23
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/01/2025,2215,2519,2341,28
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/01/2025,2000,7929,7119,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",31/01/2025,2059,6666,5672,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,2001,7059,6158,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,30/01/2025,2559,6819,5534,49
+Karnataka,Bagalkot,Bagalakot,Jowar(Sorghum),"Jowar Hybrid",FAQ,01/03/2025,1800,1800,1800,5
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,05/04/2025,2225,2228,2226,28
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/02/2025,7191,7191,7191,92
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/02/2025,7113,7351,7230,92
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/02/2025,7371,7371,7371,92
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,13/02/2025,2000,2160,2152,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/02/2025,2199,2319,2282,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",04/02/2025,2200,2561,2330,28
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/02/2025,4550,6201,6135,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,4200,6079,6018,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/02/2025,3500,5969,5865,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5333,5855,5788,6
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,25/02/2025,2162,2381,2275,28
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,10/02/2025,6500,6500,6500,9
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,"Ref grade-1",03/02/2025,2700,5569,4560,10
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,2000,6621,6187,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/02/2025,2550,6621,6000,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",04/02/2025,4000,6850,5532,49
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,18/02/2025,2023,2389,2364,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,28/02/2025,1000,2339,2233,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2001,2319,2273,4
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/02/2025,2128,2561,2309,28
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,25/02/2025,6000,6000,6000,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,"Ref grade-1",04/02/2025,5830,5911,5871,14
+Karnataka,Bagalkot,Bagalakot,Rice,"Pusa Basmati Raw (New)",FAQ,10/02/2025,2160,2361,2323,3
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5650,6019,5983,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,4050,5939,5835,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,2819,5679,5446,6
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,24/02/2025,2570,6109,5340,10
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,19/02/2025,2050,2050,2050,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,13/02/2025,2150,2359,2264,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,"Ref grade-1",01/02/2025,2230,2325,2324,4
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,07/01/2025,2250,2551,2362,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,11/01/2025,2250,2601,2438,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/01/2025,2170,2521,2269,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,22/01/2025,2228,2501,2309,28
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,22/01/2025,4809,5800,5234,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,"Ref grade-1",31/01/2025,5730,5830,5748,14
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,27/01/2025,6019,6019,6019,9
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,11/02/2025,7111,7111,7111,92
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,18/02/2025,7281,7311,7303,92
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,06/02/2025,7917,7917,7917,9
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,19/02/2025,7480,7480,7480,9
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/02/2025,2050,6621,5808,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/02/2025,2550,6721,5807,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,14/02/2025,3311,6726,5795,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/02/2025,3500,6651,5905,49
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,01/03/2025,2790,6160,5173,10
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/01/2025,3151,3151,3151,92
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/01/2025,2300,7550,6982,49
+Karnataka,Bagalkot,Mhalingapur,Gur(Jaggery),Nizamabad,FAQ,02/01/2025,2790,4125,3762,74
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,2287,7420,5865,49
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,FAQ,07/01/2025,500,3650,2000,23
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/01/2025,3219,6821,5695,49
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,10/01/2025,4710,6275,5492,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,17/01/2025,6210,6210,6210,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,30/01/2025,3100,5521,5128,10
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,08/01/2025,6019,6029,6021,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/01/2025,6133,6229,6189,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/01/2025,6179,6229,6185,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/01/2025,5267,6199,5598,6
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,07/01/2025,2150,2429,2350,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,09/01/2025,2190,2417,2353,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,11/01/2025,2250,2376,2349,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,17/01/2025,1800,2369,2305,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,18/01/2025,2150,2319,2290,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,21/01/2025,2100,2309,2268,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,30/01/2025,1850,2321,2291,4
+Karnataka,Bagalkot,Bagalakot,Wheat,Sona,FAQ,05/04/2025,2715,2715,2715,1
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/05/2025,4206,5959,5666,6
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/05/2025,5409,6649,6370,92
+Karnataka,Bagalkot,Bagalakot,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,25/02/2025,3565,3565,3565,114
+Karnataka,Bagalkot,Bagalakot,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/02/2025,3550,3601,3576,114
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,22/01/2025,1300,2360,2269,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,27/01/2025,1800,2350,2285,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,28/01/2025,1853,2319,2241,4
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/01/2025,6089,6222,6160,6
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,03/01/2025,2240,2551,2362,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,04/01/2025,2240,2589,2453,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,15/01/2025,2200,2555,2355,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/01/2025,2200,2629,2351,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/01/2025,2100,2511,2264,28
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,06/01/2025,4890,5370,5157,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,18/01/2025,2700,5770,4429,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,23/01/2025,5890,6119,5961,10
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,5683,5789,5762,6
+Karnataka,Bagalkot,Bagalakot,Rice,"Pusa Basmati Raw (New)",FAQ,07/01/2025,3070,3070,3070,3
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,03/01/2025,5209,6070,5784,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,06/01/2025,5520,5910,5607,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,11/01/2025,5711,6111,6089,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,24/01/2025,5000,6070,5240,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,30/01/2025,5511,5511,5511,14
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,12/02/2025,2800,6422,5550,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,5100,6819,6460,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,3288,6659,5994,49
+Karnataka,Bagalkot,Mhalingapur,Gur(Jaggery),Nizamabad,FAQ,07/02/2025,3790,4235,4062,74
+Karnataka,Bagalkot,Mhalingapur,Gur(Jaggery),Nizamabad,FAQ,10/02/2025,3955,4350,4034,74
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,25/02/2025,7359,7361,7360,92
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,12/02/2025,2349,2379,2365,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,14/02/2025,2210,2313,2228,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,15/02/2025,2160,2359,2202,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,"Ref grade-1",05/02/2025,1600,2321,2280,4
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,11/02/2025,2100,2349,2131,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,12/02/2025,2239,2439,2318,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/02/2025,1608,2401,2222,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/02/2025,2108,2371,2194,28
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,10/02/2025,2691,5840,4554,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,11/02/2025,5700,5875,5746,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,12/02/2025,5700,5880,5816,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,15/02/2025,3010,5639,3634,10
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,21/02/2025,5600,5600,5600,14
+Karnataka,Bagalkot,Bagalakot,"Dry Chillies",Local,FAQ,10/02/2025,11238,13000,12119,132
+Karnataka,Bagalkot,Bagalakot,"Dry Chillies",Local,"Ref grade-1",01/02/2025,14921,14921,14921,132
+Karnataka,Bagalkot,Bagalakot,"Dry Chillies",Local,"Ref grade-1",03/02/2025,14000,14000,14000,132
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/02/2025,4050,6169,6081,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,4250,6019,5558,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,5653,5901,5844,6
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/01/2025,1500,7481,6744,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/01/2025,2387,7155,6234,49
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,16/01/2025,3150,3150,3150,92
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,22/01/2025,3899,3899,3899,92
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/03/2025,4619,6500,6011,49
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,01/03/2025,1621,2323,2119,4
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,"Ref grade-1",04/02/2025,500,2500,1000,23
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,13/02/2025,8000,8000,8000,9
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,18/02/2025,7600,7600,7600,9
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5689,5921,5881,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,4250,5851,5504,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,4050,5909,5507,6
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,20/02/2025,7351,7351,7351,92
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/02/2025,7309,7309,7309,92
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,27/01/2025,3033,5510,4634,10
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/01/2025,6170,6229,6187,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5601,5919,5833,6
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/01/2025,1000,7499,7038,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/01/2025,2151,7089,6252,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/01/2025,1877,7079,6177,49
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,09/01/2025,5909,5959,5932,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,23/01/2025,4500,4500,4500,14
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,04/01/2025,7621,7621,7621,9
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/01/2025,7671,7671,7671,9
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,08/01/2025,6925,7025,6998,9
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,1177,7699,7259,49
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,03/01/2025,4100,5709,5649,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/01/2025,6022,6379,6092,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,5839,6832,5899,6
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,06/01/2025,2269,2426,2393,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,15/01/2025,2150,2399,2346,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,24/01/2025,2150,2329,2287,4
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,15/01/2025,5559,5959,5868,14
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,3550,5879,5540,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/02/2025,2550,5752,5497,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5653,5861,5810,6
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,07/02/2025,4810,5810,5368,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,13/02/2025,3209,5925,5170,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,18/02/2025,2890,5640,4132,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,19/02/2025,3019,6069,5401,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,21/02/2025,3009,6080,4957,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,25/02/2025,2670,6070,4770,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,"Ref grade-1",04/02/2025,4569,5725,5327,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,"Ref grade-1",05/02/2025,5475,5650,5609,10
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,10/02/2025,1797,2459,2316,28
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,18/02/2025,5011,5851,5466,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,"Ref grade-1",03/02/2025,5811,5811,5811,14
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,FAQ,21/01/2025,1050,3400,2550,23
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/01/2025,2200,2555,2291,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",31/01/2025,2259,2559,2352,28
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/01/2025,8001,8001,8001,92
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,06/02/2025,1803,2370,2295,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,21/02/2025,2335,2335,2335,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,25/02/2025,2159,2351,2281,4
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,14/02/2025,2249,2450,2297,28
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/02/2025,1900,6850,5225,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/02/2025,1500,6619,5666,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/02/2025,3000,6422,5671,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/02/2025,3277,6901,5774,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/02/2025,7200,7200,7200,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,2019,6819,5262,49
+Karnataka,Bagalkot,Mhalingapur,Gur(Jaggery),Nizamabad,FAQ,09/02/2025,2905,4240,4042,74
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,2820,5731,5473,6
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,01/03/2025,5001,5001,5001,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,04/01/2025,5300,6000,5668,14
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,08/01/2025,5629,5950,5861,14
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/01/2025,3809,7325,6190,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,16/01/2025,2151,7121,6270,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/01/2025,3558,7569,7159,49
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,FAQ,25/01/2025,550,3300,2000,23
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/01/2025,2158,2511,2370,28
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,09/01/2025,6800,6800,6800,9
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,07/01/2025,5520,5520,5520,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,08/01/2025,6239,6239,6239,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,11/01/2025,6400,6400,6400,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,16/01/2025,3140,5121,3617,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,21/01/2025,3470,4120,3902,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,24/01/2025,5511,5570,5555,10
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/01/2025,6002,6003,6002,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,30/01/2025,5669,5839,5782,6
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,03/01/2025,2250,2421,2380,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,04/01/2025,2300,2469,2442,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,10/01/2025,2260,2409,2394,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,23/01/2025,2009,2382,2271,4
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/01/2025,1887,7509,7094,49
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/01/2025,2189,2501,2350,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,08/01/2025,2233,2589,2329,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,10/01/2025,2246,2619,2397,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,11/04/2025,2225,2248,2229,28
+Karnataka,Bagalkot,Bagalakot,Sunflower,Sunflower,FAQ,14/02/2025,6010,6010,6010,14
+Karnataka,Bagalkot,Bagalakot,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,12/02/2025,7916,7916,7916,9
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,10/02/2025,7809,7809,7809,92
+Karnataka,Bagalkot,Bagalakot,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,4009,4009,4009,114
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5739,5949,5888,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,3500,6042,5927,6
+Karnataka,Bagalkot,Bagalakot,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5501,5851,5801,6
+Karnataka,Bagalkot,Bagalakot,Onion,Onion,"Ref grade-1",01/02/2025,500,3000,2000,23
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,2100,6701,6189,49
+Karnataka,Bagalkot,Bagalakot,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,2020,6711,5748,49
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,07/02/2025,1987,2369,2243,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,15/02/2025,2000,2100,2036,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/02/2025,2160,2208,2179,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",01/02/2025,2200,2561,2307,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",03/02/2025,2200,2469,2281,28
+Karnataka,Bagalkot,Bagalakot,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",05/02/2025,2200,2561,2256,28
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,06/02/2025,3992,5700,5239,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,14/02/2025,3119,6050,5378,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,20/02/2025,2860,6049,4550,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,FAQ,28/02/2025,2500,6111,4568,10
+Karnataka,Bagalkot,Bagalakot,Groundnut,Gejje,"Ref grade-1",01/02/2025,3220,5775,5407,10
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,07/02/2025,2100,2339,2300,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,11/02/2025,2319,2364,2346,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,20/02/2025,2332,2332,2332,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,FAQ,24/02/2025,2259,2339,2283,4
+Karnataka,Bagalkot,Bagalakot,Maize,Hybrid/Local,"Ref grade-1",04/02/2025,1860,2321,2272,4
+Karnataka,Bagalkot,Bagalakot,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/03/2025,7371,7371,7371,92

@@ -1,0 +1,960 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,17/02/2025,2008,3408,2695,121
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,3239,4052,3771,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,10/02/2025,3656,3756,3736,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/02/2025,3401,3401,3401,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,3838,3873,3863,114
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,23/01/2025,5798,5798,5798,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,27/01/2025,4696,5879,5444,15
+Karnataka,Bellary,Sirguppa,Cotton,GCH,FAQ,10/01/2025,6500,7100,6860,15
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,02/01/2025,2759,3116,2817,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,11/01/2025,3050,3363,3238,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,28/01/2025,2905,3521,3117,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,24/01/2025,3201,3241,3234,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,29/01/2025,3179,3381,3295,30
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/01/2025,2345,2909,2580,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,22/01/2025,2409,2856,2422,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",30/01/2025,2111,2761,2479,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,09/01/2025,2292,2292,2292,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/01/2025,2255,2356,2289,28
+Karnataka,Bellary,Sirguppa,Cotton,GCH,"Ref grade-1",31/01/2025,7124,7421,7332,15
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,4560,5749,5570,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/01/2025,6169,6169,6169,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/01/2025,5929,6069,6049,6
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,16/01/2025,2002,2453,2292,4
+Karnataka,Bellary,"H.B. Halli",Maize,Local,FAQ,27/01/2025,2100,2300,2250,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,13/01/2025,1616,2361,2354,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-1",30/01/2025,2221,2341,2271,4
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,27/01/2025,2000,3793,2393,121
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,04/01/2025,4611,4701,4675,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/01/2025,3209,3821,3698,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/01/2025,3009,3819,3442,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/01/2025,3401,3969,3772,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",30/01/2025,3800,4021,3873,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/01/2025,3767,3767,3767,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/01/2025,3758,3758,3758,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/01/2025,3655,3776,3734,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/01/2025,3711,3711,3711,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/01/2025,3826,3826,3826,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/01/2025,3868,3868,3868,114
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,FAQ,17/01/2025,2509,6759,5172,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,10/01/2025,3211,5809,5059,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,21/01/2025,3369,5769,4797,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,24/01/2025,3669,5719,4917,10
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/01/2025,6210,6210,6210,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/01/2025,5911,5911,5911,6
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,18/01/2025,1529,2679,2314,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,23/01/2025,1786,2556,2289,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,01/01/2025,2180,2211,2204,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,08/01/2025,1768,2168,2162,5
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,03/01/2025,7501,7801,7715,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,24/01/2025,5569,6769,6469,8
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,24/01/2025,2109,2921,2525,121
+Karnataka,Bellary,Sirguppa,"Dry Chillies",Byadgi,FAQ,16/01/2025,6000,6000,6000,132
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/02/2025,1460,6861,5918,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/02/2025,4525,7301,6185,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/02/2025,3269,5369,4319,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/02/2025,4949,4949,4949,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,4511,5509,5279,49
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/02/2025,7229,7329,7321,92
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,21/02/2025,1801,2436,2324,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,27/02/2025,2172,2409,2305,4
+Karnataka,Bellary,"H.B. Halli",Maize,Yellow,"Ref grade-1",01/02/2025,2200,2300,2290,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,08/02/2025,2288,2345,2316,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,18/02/2025,2321,2409,2390,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,19/02/2025,2168,2444,2326,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,20/02/2025,2221,2375,2368,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,25/02/2025,2265,2358,2300,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,27/02/2025,2421,2522,2510,4
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/02/2025,1779,2911,2511,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/02/2025,2061,3100,2775,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/02/2025,2362,3030,2758,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/02/2025,2419,2811,2660,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/02/2025,2532,2532,2532,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,10/02/2025,2055,2444,2149,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/02/2025,2200,2200,2200,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",05/02/2025,2156,2156,2156,28
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)","Ref grade-1",05/02/2025,3009,6519,5423,10
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,FAQ,24/02/2025,4269,7309,6428,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,"Ref grade-1",04/02/2025,2509,5670,4897,10
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,"Ref grade-1",03/02/2025,1466,3109,2291,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,12/02/2025,2182,2186,2185,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,18/02/2025,2089,2169,2150,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,20/02/2025,2258,2258,2258,5
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,10/02/2025,2955,3611,3134,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,12/02/2025,3150,3591,3230,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,19/02/2025,3036,3551,3240,30
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,"Ref grade-1",01/02/2025,4000,6340,5211,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,11/02/2025,5529,9140,7409,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,14/02/2025,4800,9250,7242,14
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,10/02/2025,5861,5861,5861,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,27/02/2025,5951,5951,5951,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed","Ref grade-1",03/02/2025,5683,5683,5683,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,12/02/2025,5852,5852,5852,123
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,17/02/2025,5870,7650,7180,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",05/02/2025,6561,7280,7166,281
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,21/02/2025,7110,7110,7110,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",01/02/2025,6919,7151,7133,8
+Karnataka,Bellary,Bellary,Safflower,Safflower,FAQ,27/02/2025,5409,5409,5409,59
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,17/02/2025,1500,6189,5465,15
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,3737,6889,5784,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5211,5931,5391,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/02/2025,3066,6122,6030,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/02/2025,5220,6101,5364,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/02/2025,5668,5855,5831,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/02/2025,5350,5680,5586,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5651,5701,5661,6
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,15/01/2025,3033,6111,5575,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,4011,5999,5515,49
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,04/01/2025,6500,7600,7050,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,16/01/2025,6210,7621,7136,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,28/01/2025,7627,76274,7627,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",30/01/2025,6859,6859,6859,281
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/01/2025,4526,7289,6395,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/01/2025,6256,6401,6363,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/01/2025,5409,6262,5957,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,1509,7640,6680,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,03/01/2025,5828,6251,6145,49
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,03/01/2025,4569,7889,7456,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,08/01/2025,7029,7429,7305,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,09/01/2025,5229,7436,7002,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",30/01/2025,7119,7651,7528,92
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,04/01/2025,5809,6609,6209,8
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,12/03/2025,5816,5986,5909,123
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/03/2025,3276,3550,3350,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/03/2025,3313,3323,3317,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,29/03/2025,3303,3303,3303,114
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,16/04/2025,2161,2229,2174,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,28/04/2025,2011,2161,2036,5
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,03/04/2025,2182,2355,2295,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,21/04/2025,2148,2369,2299,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,23/04/2025,2008,2372,2319,4
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,05/04/2025,4169,4848,4395,49
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,15/04/2025,2091,6250,5231,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,25/04/2025,2019,6110,4624,10
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,15/04/2025,3909,6869,5435,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,22/04/2025,4229,7229,5553,14
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,07/04/2025,2966,2966,2966,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,16/04/2025,2756,3122,3094,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,17/04/2025,3125,3125,3125,121
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,03/04/2025,3303,3303,3303,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/04/2025,3232,3232,3232,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,26/04/2025,2203,2203,2203,114
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,19/04/2025,2789,3351,3058,30
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,24/04/2025,6239,6469,6365,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,21/04/2025,1698,6581,6294,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,28/04/2025,5389,6109,5849,15
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,26/04/2025,1819,1819,1819,28
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,03/04/2025,6476,6530,6512,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,05/04/2025,6429,6429,6429,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/04/2025,5066,5066,5066,92
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/03/2025,2111,2111,2111,28
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,13/03/2025,4650,6410,5184,15
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,01/03/2025,1506,2388,2353,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,13/03/2025,2196,2418,2371,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,21/03/2025,2100,2369,2169,4
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/03/2025,3333,5686,5602,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-2",03/03/2025,5451,5706,5630,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,29/03/2025,5739,5800,5799,6
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,14/03/2025,4000,8019,6141,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,18/03/2025,3000,7529,5757,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,25/03/2025,4319,7449,5847,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,28/03/2025,3000,6729,5280,14
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,19/03/2025,2091,2139,2115,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,29/03/2025,2052,2052,2052,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-2",04/03/2025,1921,2161,2070,5
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,19/03/2025,2402,3109,2853,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,24/03/2025,2050,3110,2958,30
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/03/2025,6612,6612,6612,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/03/2025,6412,6612,6545,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/03/2025,4596,6419,6177,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,25/03/2025,4896,6359,5856,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/03/2025,5269,6429,6039,92
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,02/05/2025,2036,2348,2259,4
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/05/2025,6559,6559,6559,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,16/05/2025,4869,4869,4869,92
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,06/05/2025,5356,5809,5744,123
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,06/05/2025,2069,6029,4660,10
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/05/2025,5019,5811,5422,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,02/05/2025,1966,2131,2088,5
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,02/05/2025,3211,3211,3211,114
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,15/07/2025,4225,4225,4225,6
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,20/06/2025,5690,5730,5720,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",Local,11/07/2025,6509,6509,6509,123
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,04/06/2025,3539,3539,3539,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/06/2025,6000,6000,6000,92
+Karnataka,Bellary,Sirguppa,"Dry Chillies",Guntur,FAQ,04/06/2025,8000,8000,8000,132
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,20/01/2025,6821,7409,7159,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,21/01/2025,6329,6329,6329,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,23/01/2025,7511,7511,7511,281
+Karnataka,Bellary,"H.B. Halli","Ground Nut Seed","Ground Nut Seed","Ref grade-1",31/01/2025,4200,4200,4200,268
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,24/02/2025,7002,7425,7301,8
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/02/2025,7169,7429,7299,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,25/02/2025,7369,7369,7369,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/02/2025,6359,7250,7100,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,11/02/2025,6559,7359,7131,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,14/02/2025,6169,7319,7194,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/02/2025,7329,7350,7334,92
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,21/02/2025,1786,3558,2579,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,27/02/2025,2339,2811,2723,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",03/02/2025,2129,3028,2653,121
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)",FAQ,20/01/2025,2909,6419,5167,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,07/01/2025,2509,6101,5024,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,28/01/2025,3520,5670,4454,10
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/01/2025,6261,6440,6305,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/01/2025,6124,6325,6254,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/01/2025,6249,6262,6255,6
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/01/2025,3132,3800,3442,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,06/01/2025,4015,4044,4033,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,29/01/2025,3950,3950,3950,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,02/01/2025,4356,4356,4356,114
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/01/2025,1509,7211,6458,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,01/01/2025,6111,6301,6231,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/01/2025,3866,6156,5676,49
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,24/01/2025,4011,7759,6889,14
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,21/01/2025,5757,5757,5757,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)","Ref grade-1",31/01/2025,7175,7175,7175,9
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,06/01/2025,3070,3311,3206,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,08/01/2025,3146,3256,3162,30
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,03/01/2025,2060,2580,2409,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/01/2025,2175,2886,2678,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,04/01/2025,2291,2316,2308,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,08/01/2025,2139,2438,2345,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/01/2025,2061,2168,2150,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,21/01/2025,2229,2289,2282,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/01/2025,2309,5309,2309,28
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,1000,7801,6435,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/01/2025,2511,6162,5611,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,24/01/2025,5636,6111,5874,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,04/01/2025,1009,7840,6739,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,08/01/2025,6166,6395,6343,49
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,03/01/2025,2079,2390,2318,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,04/01/2025,2059,2429,2329,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,18/01/2025,1666,2455,2321,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,21/01/2025,1820,2416,2316,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,23/01/2025,2149,2416,2307,4
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",31/01/2025,2105,2415,2295,4
+Karnataka,Bellary,"H.B. Halli",Maize,Local,FAQ,26/01/2025,2300,2310,2310,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,02/01/2025,1800,2409,2299,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,07/01/2025,2156,2365,2315,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,09/01/2025,1506,2366,2303,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,23/01/2025,1000,2316,2282,4
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,21/01/2025,5520,6290,5992,14
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)",FAQ,27/01/2025,1259,2901,2308,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,16/01/2025,1329,2727,2377,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,21/01/2025,1234,3169,2299,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,28/01/2025,1266,3169,2324,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,06/01/2025,2089,2168,2152,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,09/01/2025,1911,2142,2014,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,15/01/2025,1869,2171,2072,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,21/01/2025,2209,2209,2209,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,24/01/2025,1859,2133,2013,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,27/01/2025,1976,2169,2083,5
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/02/2025,5601,5681,5630,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5679,5775,5735,6
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",04/02/2025,1709,3039,2498,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",03/02/2025,2276,2282,2281,28
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,06/02/2025,1789,2505,2239,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,08/02/2025,1926,2069,2007,5
+Karnataka,Bellary,Bellary,Paddy(Dhan)(Common),"Paddy fine","Ref grade-1",05/02/2025,1271,1271,1271,2
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,06/02/2025,2079,2111,2097,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,07/02/2025,2142,2167,2155,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,10/02/2025,2166,2209,2180,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,17/02/2025,2166,2222,2194,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-1",03/02/2025,1939,2351,2159,5
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,FAQ,07/02/2025,2069,6411,4867,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,07/02/2025,3111,5670,5043,10
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/02/2025,2579,3026,2781,28
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,FAQ,07/02/2025,3061,3061,3061,30
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,"Ref grade-1",04/02/2025,2812,2909,2860,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,06/02/2025,3166,3386,3246,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,13/02/2025,3120,3591,3180,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,14/02/2025,3167,3605,3361,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,20/02/2025,3016,3381,3245,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-1",01/02/2025,3166,3581,3349,30
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,18/02/2025,6082,6639,6484,14
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,16/01/2025,5869,7369,6616,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,18/01/2025,5639,7169,6468,92
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,09/01/2025,4569,5298,5152,15
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,21/01/2025,2177,2961,2680,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,22/01/2025,2149,3250,2987,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,23/01/2025,1539,3250,3040,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,28/01/2025,2169,3869,2685,121
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,18/01/2025,5509,5509,5509,123
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,02/01/2025,7066,7959,7627,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/01/2025,5609,7139,6388,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,29/01/2025,7211,7611,7269,92
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,16/01/2025,2271,3469,2648,121
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/01/2025,3001,3820,3443,114
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,24/02/2025,6501,7509,7319,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",03/02/2025,7279,7341,7309,281
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",05/02/2025,3132,3909,3419,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,06/02/2025,3511,3511,3511,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,3868,3868,3868,114
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,07/02/2025,2048,2230,2225,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,11/02/2025,1800,2357,2327,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,14/02/2025,2344,2367,2366,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,15/02/2025,2301,2402,2385,4
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",01/02/2025,2506,3086,2875,28
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,10/02/2025,3669,5898,5542,15
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,07/02/2025,5846,5846,5846,123
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/02/2025,1369,6919,5247,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/02/2025,5338,5338,5338,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,4334,4865,4599,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",04/02/2025,4869,5626,5247,49
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,14/02/2025,5861,5861,5861,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed","Ref grade-1",05/02/2025,5781,5781,5781,123
+Karnataka,Bellary,Bellary,Safflower,Safflower,"Ref grade-1",03/02/2025,5051,5051,5051,59
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,12/03/2025,3679,5650,5150,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/03/2025,4929,5700,5687,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,25/03/2025,4900,5610,5273,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,01/03/2025,2051,2171,2141,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,14/03/2025,1950,2221,2183,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,18/03/2025,2080,2080,2080,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,22/03/2025,2086,2089,2087,5
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,12/03/2025,6325,6565,6509,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/03/2025,3595,6706,6240,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,19/03/2025,6459,6469,6464,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/03/2025,5659,6455,6099,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-2",04/03/2025,6216,6829,6647,92
+Karnataka,Bellary,Kottur,Wheat,Jawari,FAQ,27/03/2025,1726,1726,1726,1
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/03/2025,3313,3313,3313,114
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,17/03/2025,3163,3163,3163,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,21/03/2025,3196,3196,3196,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,27/03/2025,3126,3126,3126,121
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,24/03/2025,2010,6700,6035,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,27/03/2025,5600,6871,6337,15
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,17/03/2025,2258,2428,2357,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,18/03/2025,2260,2400,2346,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,24/03/2025,2049,2381,2172,4
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/03/2025,2969,5800,5773,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/03/2025,2211,5440,5132,6
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/03/2025,2176,2176,2176,28
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,01/03/2025,2751,3281,3021,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,14/03/2025,2455,3226,3048,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,18/03/2025,2501,3133,3005,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,20/03/2025,2321,3081,3004,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,26/03/2025,1666,3013,2889,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,29/03/2025,2311,3010,2874,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-2",04/03/2025,2866,3225,3040,30
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,13/03/2025,3069,5169,4011,49
+Karnataka,Bellary,Kottur,"Tamarind Seed","Tamarind Seed",FAQ,24/03/2025,1235,1235,1235,208
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,09/04/2025,6029,6829,6741,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/04/2025,6929,6929,6929,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,26/04/2025,5959,6859,6088,92
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,19/04/2025,3376,3376,3376,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/04/2025,3211,3211,3211,114
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,06/05/2025,1956,2328,2278,4
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,02/05/2025,1509,5769,4573,10
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,02/05/2025,3800,3800,3800,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,07/05/2025,2281,2281,2281,5
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,19/05/2025,2066,2205,2145,28
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/05/2025,3151,3151,3151,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/05/2025,3206,3206,3206,114
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,05/04/2025,3269,6026,5815,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/04/2025,5775,5775,5775,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/04/2025,5729,5846,5800,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/04/2025,5550,5839,5812,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,09/04/2025,2166,2429,2253,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,17/04/2025,2066,2269,2137,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,19/04/2025,2069,2351,2132,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,26/04/2025,2101,2259,2142,5
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,16/04/2025,2221,2401,2340,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,28/04/2025,2008,2381,2272,4
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/04/2025,2186,2186,2186,28
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,21/04/2025,2000,3301,3066,30
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,03/04/2025,5900,6750,6484,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,17/04/2025,5769,6519,6238,15
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,08/04/2025,4100,6879,5251,14
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,17/04/2025,6011,6011,6011,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,21/04/2025,5689,5689,5689,123
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,21/04/2025,2669,3111,2890,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,24/04/2025,2716,3086,3006,121
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,02/05/2025,5252,6416,5897,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,05/05/2025,4949,6109,5572,92
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,12/05/2025,2981,2981,2981,121
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/06/2025,5621,5621,5621,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,01/07/2025,5521,5521,5521,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/06/2025,5451,5451,5451,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",Local,01/07/2025,5521,5521,5521,6
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",Local,07/07/2025,3051,3051,3051,114
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",Local,23/07/2025,5300,5400,5350,123
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,07/07/2025,7000,7000,7000,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,10/07/2025,6000,6003,6001,92
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,19/02/2025,2200,2200,2200,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",04/02/2025,2434,2434,2434,28
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,08/02/2025,2956,3552,3093,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,11/02/2025,3146,3411,3264,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,28/02/2025,2611,3256,3022,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-1",04/02/2025,3166,3575,3270,30
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,13/02/2025,4669,5698,5391,15
+Karnataka,Bellary,Kottur,Cotton,GCH,"Ref grade-1",03/02/2025,5829,5901,5859,15
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,07/02/2025,4658,9191,7143,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,25/02/2025,6819,8569,7539,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,"Ref grade-1",04/02/2025,4650,9470,6662,14
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5389,5827,5709,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,3500,6700,5835,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/02/2025,5180,5952,5438,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/02/2025,5600,5916,5795,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/02/2025,5600,5981,5629,6
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,"Ref grade-1",05/02/2025,1466,2771,2260,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,25/02/2025,2163,2165,2164,5
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)",FAQ,17/02/2025,3709,7869,6236,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,14/02/2025,2509,6480,6058,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,"Ref grade-1",01/02/2025,3520,5580,4703,10
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",04/02/2025,2009,2379,2305,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,12/02/2025,1550,2366,2344,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,17/02/2025,2349,2419,2384,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,28/02/2025,2296,2460,2417,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-1",03/02/2025,2162,2335,2305,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-1",05/02/2025,2188,2351,2309,4
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed","Ref grade-1",04/02/2025,5731,5746,5733,123
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)",FAQ,17/02/2025,1568,2870,2346,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,11/02/2025,2056,2066,2063,5
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,18/02/2025,2000,2452,2360,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,24/02/2025,2129,3489,2838,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,10/02/2025,2001,2366,2317,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,13/02/2025,2010,2382,2150,4
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,06/02/2025,6909,7469,7048,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,27/02/2025,6869,7449,7312,281
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,11/02/2025,5836,5836,5836,123
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,11/02/2025,3616,3686,3649,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/02/2025,3356,3356,3356,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,17/02/2025,3421,3421,3421,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/02/2025,3466,4014,3729,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/02/2025,3409,3409,3409,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/02/2025,3529,4009,3709,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",01/02/2025,2345,3929,3698,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",03/02/2025,3439,3850,3698,114
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/01/2025,2359,2609,2471,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,22/01/2025,2351,2351,2351,28
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,07/01/2025,3060,3451,3208,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,10/01/2025,3051,3309,3153,30
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,06/01/2025,5559,5559,5559,123
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,04/01/2025,4611,5980,5601,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,16/01/2025,5211,6212,5959,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,18/01/2025,5378,6220,5824,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,28/01/2025,6075,6240,6157,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,10/01/2025,4419,7209,5679,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,28/01/2025,4500,8008,6521,14
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,20/01/2025,4505,7435,7207,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,23/01/2025,7859,7859,7859,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,27/01/2025,4358,7879,5467,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,28/01/2025,7359,7359,7359,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,03/01/2025,7091,7469,7280,8
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,20/01/2025,6601,6671,6646,8
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,27/01/2025,3510,7011,6593,8
+Karnataka,Bellary,Bellary,Safflower,Safflower,FAQ,17/02/2025,4545,4858,4623,59
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/02/2025,7269,7289,7279,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,08/02/2025,6769,7373,7002,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,19/02/2025,7479,7479,7479,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",01/02/2025,7459,7489,7479,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",04/02/2025,3909,7559,7229,92
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",04/02/2025,2262,3521,2903,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,13/02/2025,3211,3211,3211,121
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,24/02/2025,6839,7307,7206,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)","Ref grade-1",05/02/2025,7201,7209,7202,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,21/02/2025,7249,7361,7347,8
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/02/2025,1769,7521,6620,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",03/02/2025,919,7129,5981,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/02/2025,5366,5366,5366,49
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,13/03/2025,2129,2129,2129,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,15/03/2025,2189,2189,2189,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,17/03/2025,2000,2131,2100,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,21/03/2025,1950,2100,2019,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,24/03/2025,2164,2164,2164,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,25/03/2025,2155,2155,2155,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,27/03/2025,2089,2351,2335,5
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,25/03/2025,2091,6529,5793,10
+Karnataka,Bellary,Kottur,Lint,Other,FAQ,13/03/2025,13000,13300,13167,280
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,12/03/2025,1806,2422,2377,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,19/03/2025,1759,2452,2314,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,22/03/2025,1450,2381,2353,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,25/03/2025,2329,2339,2335,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,27/03/2025,2020,2359,2127,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,29/03/2025,2210,2375,2293,4
+Karnataka,Bellary,Kottur,Wheat,Jawari,FAQ,24/03/2025,2906,2906,2906,1
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,15/03/2025,2400,3151,2799,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,25/03/2025,2511,3077,2895,30
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,20/03/2025,4367,4367,4367,49
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/03/2025,7059,7186,7172,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,18/03/2025,2511,6566,6216,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,20/03/2025,4969,6479,5288,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,29/03/2025,6529,6529,6529,92
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,24/03/2025,2856,3166,3122,121
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-2",03/03/2025,3251,3434,3401,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-2",04/03/2025,3262,3366,3324,114
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,13/03/2025,5966,6026,6006,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,25/03/2025,5126,6081,5371,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,27/03/2025,6106,6106,6106,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,29/03/2025,6136,6136,6136,123
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,16/01/2025,3036,3405,3132,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,17/01/2025,2996,3636,3393,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,20/01/2025,2966,3566,3277,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-1",30/01/2025,3143,3535,3251,30
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,04/01/2025,5369,7829,7455,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/01/2025,5889,7828,7417,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/01/2025,5858,7679,6903,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,13/01/2025,5759,7519,6739,92
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,16/01/2025,4565,7219,6296,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",30/01/2025,1009,7501,6197,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,10/01/2025,5426,6421,5978,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,02/01/2025,5711,6166,5906,49
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",30/01/2025,1301,3209,2325,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,17/01/2025,1528,2558,2250,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,22/01/2025,1659,3078,2276,5
+Karnataka,Bellary,"H.B. Halli",Jowar(Sorghum),"Jowar Hybrid",FAQ,25/01/2025,2000,2000,2000,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,07/01/2025,2151,2151,2151,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,10/01/2025,2011,2772,2303,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,17/01/2025,1000,2221,2134,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,20/01/2025,1811,2151,2084,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,23/01/2025,1879,2129,2112,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-1",30/01/2025,2068,2289,2175,5
+Karnataka,Bellary,Kottur,"Sesamum(Sesame,Gingelly,Til)",Black,FAQ,13/01/2025,8251,8251,8251,11
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,3889,6125,5411,6
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,04/01/2025,2188,3033,2685,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/01/2025,2382,2635,2449,28
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,18/01/2025,5359,6266,6175,49
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)",FAQ,24/01/2025,2199,6489,5296,10
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,"Ref grade-1",31/01/2025,2619,7019,5280,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,17/01/2025,2569,5769,5005,10
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,4801,6059,5676,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",31/01/2025,5014,6011,5655,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",30/01/2025,5751,5761,5755,6
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,24/01/2025,1809,2411,2313,4
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",30/01/2025,2050,2377,2295,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,17/01/2025,2189,2331,2287,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,20/01/2025,1069,2376,2287,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,21/01/2025,2009,2320,2172,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,22/01/2025,1990,2305,2225,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,28/01/2025,1954,2309,2270,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,29/01/2025,2200,2315,2267,4
+Karnataka,Bellary,Bellary,Paddy(Dhan)(Common),"Paddy Medium",FAQ,03/01/2025,2036,2389,2193,2
+Karnataka,Bellary,Bellary,Paddy(Dhan)(Common),"Paddy Medium",FAQ,04/01/2025,1029,2390,1830,2
+Karnataka,Bellary,Bellary,Paddy(Dhan)(Common),"Paddy Medium",FAQ,18/01/2025,1761,2256,2094,2
+Karnataka,Bellary,Kottur,Cotton,GCH,"Ref grade-1",30/01/2025,569,5869,5761,15
+Karnataka,Bellary,Sirguppa,Cotton,GCH,FAQ,22/01/2025,6645,7356,7268,15
+Karnataka,Bellary,Sirguppa,Cotton,GCH,FAQ,23/01/2025,6791,7400,7379,15
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,04/01/2025,2469,3446,2832,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",30/01/2025,2158,3276,2660,121
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,22/01/2025,5269,6221,5745,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,24/01/2025,7159,7638,7339,281
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/01/2025,3238,3901,3744,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,13/01/2025,3953,4309,4068,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,3856,3866,3859,114
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,03/01/2025,2238,3444,2949,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,17/01/2025,1455,3129,2535,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",31/01/2025,2388,3153,2844,121
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,24/04/2025,2020,2379,2322,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,29/04/2025,2342,2361,2345,4
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,23/04/2025,2188,2412,2355,5
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,08/04/2025,2900,6469,5459,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,29/04/2025,2109,6069,4575,10
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,07/04/2025,1000,6496,5715,15
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,03/04/2025,2505,3006,2888,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,16/04/2025,2836,3251,3065,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,26/04/2025,2969,3209,3079,30
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/04/2025,3212,3311,3223,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/04/2025,3218,3311,3266,114
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,09/04/2025,5879,5929,5904,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,29/04/2025,5529,5769,5573,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/04/2025,5569,5829,5786,6
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,28/04/2025,3101,3101,3101,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,29/04/2025,2929,2929,2929,121
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,09/04/2025,5760,5760,5760,123
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,23/05/2025,2969,2969,2969,92
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,02/05/2025,4729,7409,5734,14
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,06/05/2025,2839,3181,2971,30
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,05/05/2025,2136,2311,2229,5
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/05/2025,3221,3250,3244,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,14/05/2025,3119,3138,3128,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,26/05/2025,3167,3181,3173,114
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,30/05/2025,5868,5868,5868,123
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,09/05/2025,2736,2736,2736,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,16/05/2025,2886,2886,2886,121
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/07/2025,6000,6000,6000,92
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,03/06/2025,5712,5712,5712,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,04/06/2025,5751,5751,5751,6
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,10/06/2025,2222,2222,2222,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",Local,08/07/2025,2635,2635,2635,121
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,23/06/2025,6151,6371,6335,123
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/01/2025,1600,7289,6408,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,1360,7429,6609,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,27/01/2025,1011,7151,5973,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,16/01/2025,5111,6126,5958,49
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,17/01/2025,6750,6750,6750,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,27/01/2025,6859,6859,6859,281
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,27/01/2025,3559,3959,3830,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/01/2025,3132,4169,3821,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",31/01/2025,3459,4079,3875,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,07/01/2025,4059,4059,4059,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,08/01/2025,4100,4100,4100,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/01/2025,4051,4071,4061,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,22/01/2025,3757,3775,3772,114
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,22/01/2025,5390,5401,5395,123
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)",FAQ,27/01/2025,2609,6759,5216,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,03/01/2025,3111,6001,5113,10
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/01/2025,6111,6215,6163,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,5569,5939,5746,6
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,17/01/2025,1952,2453,2252,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,27/01/2025,1766,2372,2282,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,28/01/2025,2079,2396,2273,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,03/01/2025,2088,2356,2320,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,06/01/2025,1750,2366,2309,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,11/01/2025,1201,2375,2307,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,24/01/2025,1856,2309,2255,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,27/01/2025,1858,2312,2286,4
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,21/01/2025,3129,7569,6164,14
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",30/01/2025,7009,7009,7009,8
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,03/01/2025,1400,3411,2200,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,20/01/2025,1639,3509,2364,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,02/01/2025,2161,2222,2185,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,03/01/2025,1900,2188,2097,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,04/01/2025,2143,2180,2175,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,11/01/2025,1979,2163,2145,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,13/01/2025,1863,2212,2110,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,16/01/2025,1766,2162,2100,5
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,16/01/2025,7611,7811,7786,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)","Ref grade-1",30/01/2025,7411,7411,7411,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,16/01/2025,2500,7411,6382,8
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,22/01/2025,6409,6409,6409,8
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,02/01/2025,2600,5866,5373,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,13/01/2025,5459,6009,5755,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,16/01/2025,1600,5868,4177,15
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,04/01/2025,3030,3366,3106,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,09/01/2025,3050,3315,3145,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,13/01/2025,3069,3405,3245,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,22/01/2025,3050,3227,3071,30
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,01/01/2025,4001,7839,7470,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,11/01/2025,6030,7519,6997,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,22/01/2025,6069,6069,6069,92
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,18/01/2025,2321,2754,2586,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,20/01/2025,2023,2859,2546,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/01/2025,2279,2381,2330,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,07/01/2025,2268,2468,2401,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/01/2025,2230,2381,2280,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/01/2025,2009,2178,2102,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/01/2025,2222,2789,2546,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,01/01/2025,2200,2200,2200,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,13/01/2025,2219,2256,2234,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/01/2025,2109,2229,2149,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,24/01/2025,2424,2424,2424,28
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,11/01/2025,5111,6521,5876,49
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,17/01/2025,3121,3121,3121,121
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,20/03/2025,6000,6000,6000,15
+Karnataka,Bellary,Sirguppa,Cotton,GCH,"Ref grade-2",03/03/2025,6700,6900,6865,15
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-2",03/03/2025,2252,2411,2369,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-2",04/03/2025,1971,2405,2351,4
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/03/2025,5329,5552,5482,6
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,13/03/2025,2500,3236,3043,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,21/03/2025,2431,3051,2959,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,22/03/2025,2818,3119,2991,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-2",03/03/2025,2511,3336,3036,30
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,19/03/2025,4959,5439,5378,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-2",03/03/2025,1866,2101,2073,5
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,18/03/2025,3019,6980,6294,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,28/03/2025,2509,6580,5775,10
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-2",03/03/2025,5169,7066,6668,92
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,24/03/2025,6066,6066,6066,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed","Ref grade-2",03/03/2025,5916,6006,5956,123
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/03/2025,3326,3326,3326,114
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,25/03/2025,2883,2883,2883,121
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,18/03/2025,3333,3333,3333,114
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,05/04/2025,2411,3056,2978,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,07/04/2025,2369,3126,2952,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,09/04/2025,2881,3086,2985,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,23/04/2025,2200,3275,3216,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,24/04/2025,3045,3201,3129,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,29/04/2025,3029,3146,3067,30
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,04/04/2025,3009,6669,5606,10
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,28/04/2025,2158,2158,2158,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,29/04/2025,1956,1956,1956,28
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,05/04/2025,3326,3326,3326,114
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,07/04/2025,6029,6829,6419,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,29/04/2025,4859,6669,5524,92
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,26/04/2025,2028,2391,2347,4
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,24/04/2025,1981,2251,2084,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,29/04/2025,2100,2329,2272,5
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,03/04/2025,3232,5966,4143,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/04/2025,5759,5969,5913,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/04/2025,5825,5825,5825,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/05/2025,5811,5811,5811,6
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,05/05/2025,1550,2372,2304,4
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,06/05/2025,2069,2229,2176,5
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,07/05/2025,1250,2369,2278,4
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,05/05/2025,5500,5909,5721,15
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,06/05/2025,4269,6459,5321,14
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,02/05/2025,3041,3212,3083,30
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,09/05/2025,4529,4529,4529,92
+Karnataka,Bellary,Sirguppa,"Dry Chillies",Guntur,"Ref grade-2",28/02/2025,6000,6000,6000,132
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,07/02/2025,1631,3331,2535,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",01/02/2025,2119,2727,2539,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",05/02/2025,2229,3280,2817,121
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,27/02/2025,5700,6612,6462,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,"Ref grade-1",04/02/2025,6120,6120,6120,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,18/02/2025,3859,8669,7197,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,"Ref grade-1",01/02/2025,4711,9200,6993,14
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/02/2025,6559,7359,7251,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/02/2025,3333,7266,6766,92
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/02/2025,1466,2755,2423,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,13/02/2025,2166,2166,2166,28
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,06/02/2025,5129,6200,5730,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,18/02/2025,4009,6109,5904,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/02/2025,4156,5378,5153,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,08/02/2025,3535,5923,5535,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,13/02/2025,5921,6025,5965,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/02/2025,5400,6011,5555,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/02/2025,5679,5825,5814,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",04/02/2025,5791,5869,5832,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",05/02/2025,3535,6030,5400,6
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",05/02/2025,2426,3009,2640,28
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)","Ref grade-1",04/02/2025,7129,7801,7427,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)","Ref grade-1",03/02/2025,6599,7049,6834,8
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,06/02/2025,3659,3659,3659,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,21/02/2025,3221,3871,3543,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",01/02/2025,3884,3891,3886,114
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)",FAQ,18/02/2025,1515,4958,2294,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,21/02/2025,1786,2909,2285,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,"Ref grade-1",01/02/2025,1856,3069,2365,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-1",01/02/2025,1859,2121,1888,5
+Karnataka,Bellary,Bellary,Groundnut,"Big (With Shell)","Ref grade-1",03/02/2025,1801,6419,4926,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,25/02/2025,5369,6570,6205,10
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,07/02/2025,3056,3271,3117,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,18/02/2025,3106,5425,3318,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-1",03/02/2025,3100,3602,3152,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,"Ref grade-1",05/02/2025,3206,3512,3253,30
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,06/02/2025,5869,5973,5924,15
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,27/02/2025,5769,6498,6190,15
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/02/2025,1069,6951,6023,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/02/2025,1410,7389,6454,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",04/02/2025,1660,9169,5722,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,5353,5353,5353,49
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,18/02/2025,5886,5886,5886,123
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,07/02/2025,6102,7515,7331,281
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,06/02/2025,2079,2389,2309,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,07/02/2025,1722,2379,2284,4
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",01/02/2025,2069,2363,2288,4
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",05/02/2025,1966,2402,2299,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,06/02/2025,2021,2360,2262,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-1",01/02/2025,2249,2355,2295,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,"Ref grade-1",04/02/2025,2170,2318,2294,4
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,02/05/2025,5536,5916,5575,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,09/05/2025,5969,5969,5969,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,14/05/2025,6046,6046,6046,123
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,13/05/2025,2639,2639,2639,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,20/05/2025,2809,2809,2809,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,30/05/2025,4000,4000,4000,121
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,02/06/2025,5740,5750,5744,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,16/06/2025,5549,5560,5554,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/06/2025,5920,5920,5920,6
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,06/06/2025,3239,4259,4159,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,01/07/2025,6000,6000,6000,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",Local,11/07/2025,7000,7000,7000,92
+Karnataka,Bellary,Sirguppa,"Dry Chillies",Guntur,Local,14/07/2025,7000,7000,7000,132
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,03/06/2025,5700,5700,5700,123
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,03/01/2025,3269,6729,5851,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,07/01/2025,4419,6767,5479,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,17/01/2025,3000,7619,6204,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,FAQ,23/01/2025,5339,6060,5905,14
+Karnataka,Bellary,Bellary,Sunflower,Sunflower,"Ref grade-1",30/01/2025,5970,6379,6210,14
+Karnataka,Bellary,"H.B. Halli",Paddy(Dhan)(Common),"Sona Mahsuri",FAQ,27/01/2025,2160,2460,2460,2
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,06/01/2025,3529,6968,5162,15
+Karnataka,Bellary,Bellary,Paddy(Dhan)(Common),"Paddy Medium",FAQ,16/01/2025,2150,2150,2150,2
+Karnataka,Bellary,Kottur,Cotton,GCH,FAQ,20/01/2025,4609,5951,5386,15
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,10/01/2025,5500,7569,7341,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,15/01/2025,6651,7529,7389,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,20/01/2025,5858,7040,6689,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/01/2025,5363,7010,6569,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,23/01/2025,5789,7070,6432,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,24/01/2025,5301,7219,6551,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,27/01/2025,5196,7373,6238,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,28/01/2025,5559,7171,6330,92
+Karnataka,Bellary,Bellary,Safflower,Safflower,FAQ,03/01/2025,5156,5156,5156,59
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,1006,7509,6392,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,06/01/2025,5001,6419,6270,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,17/01/2025,5151,6051,5723,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,2366,6225,5948,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,23/01/2025,1329,7329,6623,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,07/01/2025,5926,6313,6179,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,22/01/2025,5769,6166,5941,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,29/01/2025,5569,5569,5569,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",30/01/2025,5469,5911,5709,49
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,23/01/2025,2219,2706,2536,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,10/01/2025,2296,2296,2296,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,15/01/2025,2151,2318,2163,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,29/01/2025,2259,2259,2259,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,27/01/2025,1819,2869,2366,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",31/01/2025,1851,2150,2137,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,03/01/2025,2306,2306,2306,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,11/01/2025,2200,2200,2200,28
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,04/01/2025,7416,7886,7692,9
+Karnataka,Bellary,Bellary,"Green Gram (Moong)(Whole)","Local (Whole)",FAQ,24/01/2025,7962,7962,7962,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,28/01/2025,7151,7151,7151,8
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,5509,6053,5824,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/01/2025,2869,6069,5530,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/01/2025,3733,6000,5000,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/01/2025,5919,5959,5930,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,29/01/2025,5726,5737,5731,6
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,04/01/2025,1675,3800,2429,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,24/01/2025,1719,3510,2594,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,"Ref grade-1",31/01/2025,1901,3069,2343,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,22/01/2025,2132,2133,2133,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,28/01/2025,2056,2199,2117,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,29/01/2025,1701,2121,1969,5
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,FAQ,03/01/2025,1100,6439,5072,10
+Karnataka,Bellary,Bellary,Groundnut,Hybrid,FAQ,22/01/2025,3009,6639,5754,10
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/01/2025,5210,6185,5901,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/01/2025,5001,5860,5632,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/01/2025,5015,5909,5747,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,23/01/2025,5859,5969,5891,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,28/01/2025,5829,5829,5829,6
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,20/01/2025,1833,3409,2328,4
+Karnataka,Bellary,Bellary,Maize,Local,FAQ,22/01/2025,2059,2413,2273,4
+Karnataka,Bellary,"H.B. Halli",Maize,Local,FAQ,04/01/2025,2200,2325,2320,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,01/01/2025,1200,2394,2292,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,04/01/2025,2019,2368,2305,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,08/01/2025,1925,2349,2285,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,10/01/2025,2200,2364,2309,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,15/01/2025,1666,2346,2284,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,16/01/2025,2020,2355,2278,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,18/01/2025,2169,2366,2305,4
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,23/01/2025,6639,6639,6639,8
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,28/01/2025,1611,7105,5889,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/01/2025,5836,6401,6136,49
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,03/01/2025,6111,7688,7169,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",31/01/2025,6209,7411,6893,281
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,FAQ,28/01/2025,3077,3077,3077,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,01/01/2025,3129,3801,3512,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,03/01/2025,3041,3136,3113,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,15/01/2025,2769,3451,3032,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,18/01/2025,3071,3539,3340,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,21/01/2025,3116,3626,3388,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,23/01/2025,3176,3621,3376,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,27/01/2025,3011,3551,3266,30
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,13/03/2025,2769,3223,2830,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-2",04/03/2025,3226,3226,3226,121
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,14/03/2025,5851,5946,5887,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,18/03/2025,6049,6049,6049,123
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,09/04/2025,4909,4909,4909,49
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,04/04/2025,3000,6769,5323,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,25/04/2025,4269,7149,5669,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,29/04/2025,4200,6939,5599,14
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,22/04/2025,2009,5809,4796,10
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,17/04/2025,2885,3303,3078,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,28/04/2025,2711,3206,3077,30
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,05/04/2025,1900,2389,2316,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,07/04/2025,2286,2395,2357,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,09/04/2025,2056,2362,2314,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,17/04/2025,2245,2372,2334,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,19/04/2025,2169,2372,2306,4
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,03/04/2025,2092,2121,2111,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,07/04/2025,2130,2130,2130,5
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/04/2025,5820,5850,5837,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/04/2025,6249,6260,6250,6
+Karnataka,Bellary,Kottur,Wheat,Jawari,FAQ,28/04/2025,2651,2651,2651,1
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,26/04/2025,2556,2836,2743,121
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,29/04/2025,5973,5973,5973,123
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,05/05/2025,5569,5831,5782,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/05/2025,5719,5719,5719,6
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,05/05/2025,2802,3232,3092,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,07/05/2025,3061,3232,3101,30
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,05/05/2025,3178,3178,3178,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,23/05/2025,3083,3083,3083,114
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,13/05/2025,6079,6079,6079,123
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,06/06/2025,2173,2526,2322,28
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,10/06/2025,5109,5109,5109,6
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)",FAQ,27/02/2025,1866,2866,2454,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),"Jowar ( White)","Ref grade-1",04/02/2025,1459,3109,2316,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,07/02/2025,1415,3019,2284,5
+Karnataka,Bellary,Bellary,Jowar(Sorghum),Local,FAQ,24/02/2025,1766,3009,2271,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,14/02/2025,2086,2086,2086,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,28/02/2025,1969,2141,2059,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid","Ref grade-1",04/02/2025,2133,2163,2150,5
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,28/02/2025,4900,8889,7470,14
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,20/01/2025,5571,5571,5571,123
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",FAQ,21/01/2025,5539,5569,5557,123
+Karnataka,Bellary,Kottur,"Green Gram (Moong)(Whole)","Green (Whole)",FAQ,07/02/2025,6096,6096,6096,9
+Karnataka,Bellary,Bellary,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,17/02/2025,6840,7260,7099,8
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,10/02/2025,6363,7529,7213,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,18/02/2025,3901,7391,6703,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)","Ref grade-1",03/02/2025,7569,7569,7569,92
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,15/02/2025,3451,3511,3471,114
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5001,5921,5795,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,21/02/2025,4876,6159,5754,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,24/02/2025,5152,5981,5633,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",01/02/2025,5509,5789,5653,6
+Karnataka,Bellary,Bellary,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-1",03/02/2025,5369,6610,5711,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,07/02/2025,5875,5901,5888,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,11/02/2025,5869,6136,6096,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/02/2025,5105,5855,5670,6
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,06/02/2025,2406,3360,2790,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,18/02/2025,2169,3408,2625,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,14/02/2025,2466,2466,2466,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,19/02/2025,3269,3269,3269,121
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",04/02/2025,3277,3669,3472,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,28/02/2025,3232,3232,3232,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/02/2025,2621,4129,3844,114
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,21/02/2025,1539,7275,5931,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",01/02/2025,1985,7119,6155,49
+Karnataka,Bellary,Bellary,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-1",05/02/2025,1009,6989,5589,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)",FAQ,19/02/2025,5069,5069,5069,49
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,07/02/2025,2512,2789,2652,28
+Karnataka,Bellary,Bellary,"Bajra(Pearl Millet/Cumbu)",Hybrid,"Ref grade-1",03/02/2025,1819,2659,2401,28
+Karnataka,Bellary,Kottur,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,17/02/2025,2206,2421,2243,28
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,FAQ,18/02/2025,3150,3150,3150,30
+Karnataka,Bellary,Bellary,"Ragi (Finger Millet)",Fine,"Ref grade-1",05/02/2025,2929,2929,2929,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,15/02/2025,3182,3622,3294,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,17/02/2025,3150,3601,3360,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,25/02/2025,2985,3413,3120,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,27/02/2025,2929,3309,3115,30
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,11/02/2025,1009,5859,4488,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,18/02/2025,2569,6469,5805,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,28/02/2025,2500,6519,5854,10
+Karnataka,Bellary,Bellary,Maize,Local,"Ref grade-1",03/02/2025,2079,2382,2309,4
+Karnataka,Bellary,Bellary,Maize,"Sweet Corn (For Biscuits)",FAQ,17/02/2025,1909,2458,2410,4
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,20/01/2025,3189,3811,3645,114
+Karnataka,Bellary,Bellary,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,24/01/2025,2566,3925,3758,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,10/01/2025,4011,4059,4027,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,11/01/2025,4026,4026,4026,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,15/01/2025,3650,3813,3682,114
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)","Ref grade-1",30/01/2025,3878,3914,3897,114
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,18/01/2025,2429,2709,2537,121
+Karnataka,Bellary,Bellary,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,20/01/2025,2289,3339,2610,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",FAQ,18/01/2025,2939,2939,2939,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid","Ref grade-1",30/01/2025,3333,3333,3333,121
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,18/02/2025,4000,7559,7280,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram",FAQ,21/02/2025,6255,7555,7327,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",01/02/2025,6889,6889,6889,281
+Karnataka,Bellary,Bellary,"Alasande Gram","Alasande Gram","Ref grade-1",04/02/2025,6321,7365,7173,281
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,12/03/2025,2872,3226,3048,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,17/03/2025,2671,3186,3035,30
+Karnataka,Bellary,Kottur,"Ragi (Finger Millet)",Hybrid,FAQ,27/03/2025,2401,3039,2860,30
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,14/03/2025,6429,6565,6492,92
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,21/03/2025,5252,6459,6097,92
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,14/03/2025,3600,6930,6431,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,FAQ,21/03/2025,3031,6940,6008,10
+Karnataka,Bellary,Kottur,Groundnut,Natte,"Ref grade-2",04/03/2025,2509,6610,5069,10
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,14/03/2025,2969,6531,5474,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,15/03/2025,2811,5439,4966,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,17/03/2025,5236,5570,5438,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,20/03/2025,4669,5509,5444,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,22/03/2025,5572,5633,5616,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,26/03/2025,5560,5649,5609,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)",FAQ,27/03/2025,5549,5739,5682,6
+Karnataka,Bellary,Kottur,"Bengal Gram(Gram)(Whole)","Average (Whole)","Ref grade-2",04/03/2025,5066,5800,5781,6
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,12/03/2025,2056,2056,2056,5
+Karnataka,Bellary,Kottur,Jowar(Sorghum),"Jowar Hybrid",FAQ,26/03/2025,2158,2361,2268,5
+Karnataka,Bellary,Kottur,Cotton,GCH,"Ref grade-2",03/03/2025,5396,6369,5948,15
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,14/03/2025,2358,2389,2373,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,15/03/2025,2328,2372,2362,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,20/03/2025,2345,2373,2360,4
+Karnataka,Bellary,Kottur,Maize,Hybrid/Local,FAQ,26/03/2025,2076,2388,2315,4
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,FAQ,21/03/2025,4111,7309,5586,14
+Karnataka,Bellary,Kottur,Sunflower,Hybrid,"Ref grade-2",04/03/2025,4000,8589,6846,14
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-2",03/03/2025,2811,5252,4113,49
+Karnataka,Bellary,Kottur,"Arhar (Tur/Red Gram)(Whole)","Arhar (Whole)","Ref grade-2",04/03/2025,4011,4811,4432,49
+Karnataka,Bellary,Kottur,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,09/06/2025,3109,3109,3109,114
+Karnataka,Bellary,Kottur,"Cowpea (Lobia/Karamani)","Cowpea (Whole)",FAQ,17/06/2025,6000,6000,6000,92
+Karnataka,Bellary,Kottur,"Castor Seed","Castor seed",Local,22/07/2025,6405,6405,6405,123
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",Local,14/07/2025,2609,2609,2609,121
+Karnataka,Bellary,Kottur,"Foxtail Millet(Navane)","Navane Hybrid",Local,15/07/2025,2661,2661,2661,121
